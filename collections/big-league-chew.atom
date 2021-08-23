@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://iwholesalecandy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://iwholesalecandy.ca/collections/big-league-chew.atom"/>
+  <title>iWholesaleCandy.ca</title>
+  <updated>2021-08-03T12:26:23-04:00</updated>
+  <author>
+    <name>iWholesaleCandy.ca</name>
+  </author>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6854949929137</id>
+    <published>2021-08-03T12:26:23-04:00</published>
+    <updated>2021-08-03T12:26:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/big-league-chew-baseball-15g-12-pack"/>
+    <title>Big League Chew Baseball 15g - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ford Gum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/big-league-chew-baseball-gumball-container-bubble-gum-bubblegum-retro-ford-machine-company_570.jpg?v=1628007793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ford Gum<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Big League Chew Baseball</h2>
+<p><span>You'll hit it home with this Big League Chew Baseball filled with Outta Here Original Bubble Gumballs! Invented in 1980 by Rob Nelson, a left handed pitcher from the Portland Mavericks.</span></p>
+<p><strong>Made in the USA</strong></p>
+<p><strong>15g - 12 Pack</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Bubble Gum Shipped Fast at Wholesale Prices!</strong></h3>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Big League Chew</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Pink Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6854949929137</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>01-1000246</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6636116050097</id>
+    <published>2021-04-04T15:31:33-04:00</published>
+    <updated>2021-04-04T15:31:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/big-league-chew-55ct-minis-to-go-cup-3-7oz-6-ct"/>
+    <title>Big League Chew 55ct Minis To Go Cup 3.7oz  - 6 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ford Gum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/big-league-chew-55ct-minis-to-go-cup-3-7oz-6-ct-i-wholesale-candy-canada.jpg?v=1617564468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ford Gum<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            22.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Nostalgic Bubble Gum in a cup. </h2>
+<p>This resealable cup has 55 original flavour gumballs for your chewing enjoyment. The Big League Chew 55ct Minis To Go Cup is a great impulse item that your customers will truly appreciate. Your welcome.</p>
+<p><strong>3.7 oz Containers | 6 Count Box</strong></p>
+<p> </p>
+<h3 style="text-align: center;"><strong>Fresh Bubble Gum Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Big League Chew</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6636116050097</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.90</s:price>
+      <s:sku>01-1000256</s:sku>
+      <s:grams>720</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6148345430193</id>
+    <published>2020-12-18T14:52:16-05:00</published>
+    <updated>2020-12-18T14:52:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-slammin-strawberry-12-ct"/>
+    <title>Big League Chew Bubble Gum Slammin&apos; Strawberry - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ford Gum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/big-league-chew-girl-strawberry-12-count-6.jpg?v=1617557811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ford Gum<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">"The Hall of Fame of Bubble Gum"</h2>
+<div class="gs">
+<div class="">
+<div class="ii gt" id=":s0">
+<div class="a3s aXjCH" id=":s1">
+<div dir="ltr">
+<div>
+<span><strong>#1 NOSTALGIC BUBBLEGUM</strong> - Your favourite chewing gum Big League Chew, now available in Strawberry.</span> </div>
+<div></div>
+<div>
+<strong>GREAT TASTING FLAVOUR</strong> - Slammin Strawberry flavour is the new favourite taste for kids, teens, and adults across the country. It’s the classic Big League Chew Flavour from America’s favourite chewing gum brand.</div>
+<div></div>
+<div>
+<strong>MADE IN THE USA!</strong> - Baseball’s favourite chewing gum is and will always be made right here in the United States of America. For more than 35 years, this flavorful bubble gum has been the preferred chewing gum for all ages.</div>
+<div></div>
+</div>
+<div class="yj6qo"></div>
+<div class="adL">Six flavours to choose from:<span> <a title="Outta Here Original" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-outta-here-original" target="_blank"><strong>Outta Here</strong> </a></span><strong><a title="Outta Here Original" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-outta-here-original" target="_blank">Original</a>, <a title="Wild Pitch Watermelon" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-wild-pitch-watermelon" target="_blank">Wild Pitch Watermelon</a>, <a title="Swingin Sour Apple" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-swingin-sour-apple" target="_blank">Swingin Sour Apple</a>, <a title="Ground Ball Grape" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-ground-ball-grape" target="_blank">Ground Ball Grape</a>, <a title="Curveball Cotton Candy" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-curveball-cotton-candy" target="_blank">Curveball Cotton Candy</a> and <a title="Big Rally Blue Raspberry" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-big-rally-blue-raspberry" target="_blank">Big Rally Blue Raspberry</a></strong>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><br></p>
+<p><strong>2.12oz pouch | 12 CT BOX</strong></p>
+<p><strong>25.44oz total box weight</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Bubble Gum Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Big League Chew</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6148345430193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>01-1000258</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1190840434740</id>
+    <published>2018-07-13T21:26:42-04:00</published>
+    <updated>2018-07-13T21:26:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-swingin-sour-apple"/>
+    <title>Big League Chew Bubble Gum-Swingin&apos; Sour Apple - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ford Gum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/big-league-chew-swingin-sour-apple-bubble-gum.png?v=1531535657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ford Gum<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Now you're in the Big Leagues</h2>
+<h2 style="text-align: center;"><span mce-data-marked="1">The Official Bubble Gum of Ripken Baseball</span></h2>
+<h3 style="text-align: center;"><span>"A Whole Lotta Gum In Every Pouch!"</span></h3>
+<div class="gs">
+<div class="">
+<div class="ii gt" id=":rs">
+<div class="a3s aXjCH" id=":oy">
+<div dir="ltr">
+<div class="gs">
+<div class="">
+<div class="ii gt" id=":s0">
+<div class="a3s aXjCH" id=":s1">
+<div dir="ltr">Yes, you can really swing it out of the park with this Bubble Gum! Big League Chew Swingin' Sour Apple is perfectly sweet with the just the right hit of sour. This Retro Bubble Gum is definitely a winner. We've been chewing it since 1980.</div>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<div class="yj6qo"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="yj6qo">Six flavours to choose from:<span> <strong>Outta Here</strong> </span><strong>Orginal, Wild Pitch Watermelon, Swingin Sour Apple, Ground Ball Grape, Curveball Cotton Candy and Big Rally Blue Raspberry</strong>
+</div>
+<div class="yj6qo"><strong></strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>Made in the USA</strong></p>
+<p><strong>2.12 oz Pouch | 12 CT BOX</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Bubble Gum Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Big League Chew</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Green Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1190840434740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>01-1000259</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1190828802100</id>
+    <published>2018-07-13T21:26:42-04:00</published>
+    <updated>2018-07-13T21:26:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-ground-ball-grape"/>
+    <title>Big League Chew Bubble Gum-Ground Ball Grape - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ford Gum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/big-league-chew-ground-ball-grape-bubble-gum.png?v=1531535339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ford Gum<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Now you're in the Big Leagues</h2>
+<h3 style="text-align: center;"><span mce-data-marked="1">"The Official Bubble Gum of Ripken Baseball"</span></h3>
+<div class="gs">
+<div class="">
+<div class="ii gt" id=":rs">
+<div class="a3s aXjCH" id=":oy">
+<div dir="ltr">You don't want to throw a ground ball, but Big league Chew makes it delicious to chew! In the sweet and delightful flavor of grape, Big League Chew Bubble Gum Ground Ball Grape can't be missed. A Retro Bubblegum from the 1980's.</div>
+<div class="yj6qo"></div>
+<div class="adL">Six flavours to choose from:<span> <strong>Outta Here</strong> </span><strong>Orginal, Wild Pitch Watermelon, Swingin Sour Apple, Ground Ball Grape, Curveball Cotton Candy and Big Rally Blue Raspberry</strong>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>Made in the USA</strong></p>
+<p><strong>2.12 oz Pouch | 12 CT BOX</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Bubble Gum Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Big League Chew</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Purple Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1190828802100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>01-1000254</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1190805536820</id>
+    <published>2018-07-13T21:26:42-04:00</published>
+    <updated>2018-07-13T21:26:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-wild-pitch-watermelon"/>
+    <title>Big League Chew Bubble Gum-Wild Pitch Watermelon - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ford Gum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/big-league-chew-wild-pitch-watermelon.png?v=1531534969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ford Gum<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Now you're in the Big Leagues<br>
+</h2>
+<h2 style="text-align: center;"><span mce-data-marked="1">The Official Bubble Gum of Ripken Baseball</span></h2>
+<h3 style="text-align: center;"><span>"A Whole Lotta Gum In Every Pouch!"</span></h3>
+<div class="gs">
+<div class="">
+<div id=":rs" class="ii gt">
+<div id=":oy" class="a3s aXjCH">
+<div dir="ltr">Not only will the crowd go wild, you will too! As long as your chewing this Retro Bubble Gum. Big League Chew Wild Pitch Watermelon is a fresh taste of juicy watermelon and a surefire way to blow the biggest and best winning bubbles. </div>
+<div class="yj6qo"></div>
+<div class="adL">Six flavours to choose from:<span> <strong>Outta Here</strong> </span><strong>Orginal, Wild Pitch Watermelon, Swingin Sour Apple, Ground Ball Grape, Curveball Cotton Candy and Big Rally Blue Raspberry</strong>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>Made in the USA</strong></p>
+<p><strong>2.12 oz Pouch | 12 CT BOX</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Bubble Gum Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Big League Chew</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Pink Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1190805536820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>01-1000260</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1190782861364</id>
+    <published>2018-07-13T21:26:42-04:00</published>
+    <updated>2018-07-13T21:26:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-curveball-cotton-candy"/>
+    <title>Big League Chew Bubble Gum-Curveball Cotton Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ford Gum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/big-league-chew-curveball-cotton-candy.png?v=1531534538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ford Gum<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">"The Hall of Fame of Bubble Gum"<br>
+</h2>
+<div class="gs">
+<div class="">
+<div id=":s0" class="ii gt">
+<div id=":s1" class="a3s aXjCH">
+<div dir="ltr">This Bubblegum will throw you the best curve ball! In the appetizing and mouthwatering flavor of cotton candy. But there ain't nothing fluffy about Big League Chew Bubble Gum Curveball Cotton Candy. It's just straight up awesome! </div>
+<div class="yj6qo"></div>
+<div class="adL">Six flavours to choose from:<span> <strong>Outta Here</strong> </span><strong>Orginal, Wild Pitch Watermelon, Swingin Sour Apple, Ground Ball Grape, Curveball Cotton Candy and Big Rally Blue Raspberry</strong>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>Made in the USA</strong></p>
+<p><strong>2.12 oz Pouch | 12 CT BOX</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Bubble Gum Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Big League Chew</s:tag>
+    <s:tag>Blue Candy</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1190782861364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>01-1000251</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1190747013172</id>
+    <published>2018-07-13T21:26:42-04:00</published>
+    <updated>2018-07-13T21:26:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-outta-here-original"/>
+    <title>Big League Chew Bubble Gum-Outta Here Original - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ford Gum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/big-league-chew-otta-here-original-bubble-gum.png?v=1531535872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ford Gum<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">The Official Bubble Gum of Ripken Baseball</span></h2>
+<h3 style="text-align: center;"><span>"A Whole Lotta Gum In Every Pouch!"</span></h3>
+<p><span>You'll hit it home with this Big League Chew Outta Here Original Bubble Gum! Bright and pink, this shredded gum comes in a pouch so you can take a little bit at a time, or a giant mouthwatering wad! Invented in 1980 by Rob Nelson, a left handed pitcher from the Portland Mavericks.</span></p>
+<p>Six flavours to choose from:<span> <strong>Outta Here</strong> </span><strong>Orginal, Wild Pitch Watermelon, Swingin Sour Apple, Ground Ball Grape, Curveball Cotton Candy and Big Rally Blue Raspberry</strong></p>
+<p><strong>Made in the USA</strong></p>
+<p><strong>2.12 oz Pouch | 12 CT BOX</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Bubble Gum Shipped Fast at Wholesale Prices!</strong></h3>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Big League Chew</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Pink Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1190747013172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>01-1000257</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1190736953396</id>
+    <published>2018-07-13T21:26:42-04:00</published>
+    <updated>2018-07-13T21:26:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-big-rally-blue-raspberry"/>
+    <title>Big League Chew Bubble Gum-Big Rally Blue Raspberry - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ford Gum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/big-league-chew-bubble-gum-big-rally-blue-raspberry.png?v=1531533934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ford Gum<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">"The Hall of Fame of Bubble Gum"</h2>
+<div class="gs">
+<div class="">
+<div class="ii gt" id=":s0">
+<div class="a3s aXjCH" id=":s1">
+<div dir="ltr">This iconic Bubble Gum has been around since the 1980's. Baseball fan or not, everyone's a fan of this Bubblegum! Big League Chew Bubble Gum Big Rally Blue Raspberry is the newest flavour! Big Blue Raspberry will make the best blue bubbles around. </div>
+<div class="yj6qo"></div>
+<div class="adL">Six flavours to choose from:<span> <a title="Outta Here Original" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-outta-here-original" target="_blank"><strong>Outta Here</strong> </a></span><strong><a title="Outta Here Original" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-outta-here-original" target="_blank">Original</a>, <a title="Wild Pitch Watermelon" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-wild-pitch-watermelon" target="_blank">Wild Pitch Watermelon</a>, <a title="Swingin Sour Apple" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-swingin-sour-apple" target="_blank">Swingin Sour Apple</a>, <a title="Ground Ball Grape" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-ground-ball-grape" target="_blank">Ground Ball Grape</a>, <a title="Curveball Cotton Candy" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-curveball-cotton-candy" target="_blank">Curveball Cotton Candy</a> and <a title="Big Rally Blue Raspberry" href="https://iwholesalecandy.ca/products/big-league-chew-bubble-gum-big-rally-blue-raspberry" target="_blank">Big Rally Blue Raspberry</a></strong>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>Made in the USA</strong></p>
+<p><strong>2.12 oz Pouch | 12 CT BOX</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Bubble Gum Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Big League Chew</s:tag>
+    <s:tag>Blue Candy</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1190736953396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>01-1000247</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+</feed>

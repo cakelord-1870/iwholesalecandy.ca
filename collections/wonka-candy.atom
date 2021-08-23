@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://iwholesalecandy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://iwholesalecandy.ca/collections/wonka-candy.atom"/>
+  <title>iWholesaleCandy.ca</title>
+  <updated>2021-04-05T00:09:49-04:00</updated>
+  <author>
+    <name>iWholesaleCandy.ca</name>
+  </author>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6636580634801</id>
+    <published>2021-04-05T00:09:49-04:00</published>
+    <updated>2021-04-05T00:09:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/sweetarts-mini-chewy-berries-cherries-theater-box-3-75-oz-12-ct"/>
+    <title>SweeTARTS Mini Chewy Berries &amp; Cherries Theater Box 3.75 oz. - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/sweetarts-mini-chewy-berries-cherries-theater-box-3-75-oz-12-ct-i-wholesale-candy-canada.jpg?v=1617595879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">New Candy from the Imagination Room</h2>
+<p>These new SweeTARTS Mini Chewy come in the delicious flavours of Berries and Cherries. Your customers need these theatre packs to binge-watch their favourite movies like Willy Wonka and the Chocolate Factory.</p>
+<p><strong>3.75 oz. | 12 CT BOX </strong></p>
+<h3 style="text-align: center;"><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6636580634801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku>01-1002343</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6635988648113</id>
+    <published>2021-04-04T13:14:50-04:00</published>
+    <updated>2021-04-04T13:14:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/nerds-big-chewy-theater-packs-12-ct"/>
+    <title>Nerds Big Chewy Theater Packs - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/big-chewy-nerds-theater-pack-wonka-i-wholesale-candy-canada.jpg?v=1617556475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Chewy Nerds Candy for Movie Night</span></h2>
+<p><span>Big Chewy NERDS are the tastiest titans. A nerdy adventure with a flavour that brightens. Orange, lemon, strawberry and grape pack a punch. Their insides are chewy, their outsides have crunch.</span></p>
+<p><strong>4.25 oz. Packs | 12 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Wonka Candy at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>Update</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6635988648113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>01-1001530</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4653767524491</id>
+    <published>2020-03-15T20:20:56-04:00</published>
+    <updated>2020-03-15T20:20:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/nerds-rope-tropical-candy-24-ct"/>
+    <title>Nerds Rope Tropical Candy - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/nerds-rope-tropical-wonka-candy-i-wholesale-candy-canada.jpg?v=1584318164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            26.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New Nerds Rope Candy</span></h2>
+<p><span>A soft candy rope wrapped with tropical NERDS. As cool and as colourful as far island birds. It’s sweet and it’s chewy and crunchy, to boot. It may be long, but it’s still super cute. These ropes will have your tongue tied over the delicious and fruity flavours. </span></p>
+<p><strong>24 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>Nerds Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Update</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:tag>Wrapped Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4653767524491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.40</s:price>
+      <s:sku>01-1001551</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4653756907659</id>
+    <published>2020-03-15T20:10:26-04:00</published>
+    <updated>2020-03-15T20:10:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/nerds-sour-big-chewy-candy-12-ct"/>
+    <title>Nerds Sour Big Chewy Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/sour-big-chewy-nerds-candy-wonka-i-wholesale-candy-canada.jpg?v=1617556025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            26.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New Sour Nerds Candy</span></h2>
+<p><span>Sour Big Chewy NERDS are sour AND sweet. Four shocking flavours that you’ll just love to eat. <em>Strawberry Lemonade, Blue Raspberry</em>, too. <em>Blood Orange and Watermelon</em>. They’ll all delight you.</span></p>
+<p><strong>6 oz. Bags | 12 Pack</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:tag>Update</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4653756907659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.50</s:price>
+      <s:sku>01-1001553</s:sku>
+      <s:grams>2100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4653754056843</id>
+    <published>2020-03-15T17:56:29-04:00</published>
+    <updated>2020-03-15T17:56:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/nerds-big-chewy-candy-12-ct"/>
+    <title>Nerds Big Chewy Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/big-chewy-nerds-candy-wonka-i-wholesale-candy-canada.jpg?v=1617555577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            34.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New Nerds Candy</span></h2>
+<p><span>Big Chewy NERDS are the tastiest titans. A nerdy adventure with a flavour that brightens. Orange, lemon, strawberry and grape pack a punch. Their insides are chewy, their outsides have crunch.</span></p>
+<p><strong>6 oz. Bags | 12 Count Box</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>Update</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4653754056843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.50</s:price>
+      <s:sku>01-1001529</s:sku>
+      <s:grams>2100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4557786284171</id>
+    <published>2020-02-17T13:31:52-05:00</published>
+    <updated>2020-02-17T13:31:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/pixy-stix-giant-candy-85-ct"/>
+    <title>Pixy Stix Giant Candy - 85 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/wonka-pixy-stik-giant-retro-candies-i-wholesale-candy-canada.jpg?v=1581964391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            28.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro Candy from the Imagination Room</h2>
+<div class="gs">
+<div class="">
+<div id=":1gz" class="ii gt">
+<div id=":1gy" class="a3s aXjCH ">
+<div dir="ltr" style="text-align: center;">Give your customers a "Giant" taste of pure deliciousness with Pixy Stix Giant Candy! <strong>Retro candy doesn't get any better than this!</strong>
+<div>These giant straws are filled entirely with the yummiest powder candy ever! Coming in the awesome flavours of Grape, Maui Punch, Cherry, and Orange. </div>
+<div style="text-align: center;">Pixy Stix Giant Candies are inspired by the amusing sweetness of Willy Wonka himself! <strong>Be sweet just like Wonka and, stock your retro candy section with Pixy Stix Giant Candy!</strong>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>Box of 85 Giant Pixy Stix</li>
+<li><span class="a-list-item">A fun powdered candy packaged in a straw-like wrapper</span></li>
+<li><span class="a-list-item">Nut-free, gluten-free, dairy-free; no fat or sodium</span></li>
+<li><span class="a-list-item">Tangy, uniquely fun candy that charges your taste buds</span></li>
+<li><span class="a-list-item">Inspired by Wonka, The Candyman from the classic Roald Dahl book, Willy Wonka and the Chocolate Factory</span></li>
+</ul>
+<p><strong>.42 oz. | 85 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<div class="a-section content">
+<p>'DEXTROSE, MALTODEXTRIN, CITRIC ACID, AND LESS THAN 2% OF NATURAL FLAVORS, BLUE 1 LAKE, BLUE 2 LAKE, RED 40 LAKE, YELLOW 5 LAKE, YELLOW 6 LAKE.'</p>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Nut Free</s:tag>
+    <s:tag>Old Fashioned &amp; Nostalgic Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Update</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4557786284171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.50</s:price>
+      <s:sku>01-1000738</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4557754400907</id>
+    <published>2020-02-17T11:58:15-05:00</published>
+    <updated>2020-02-17T11:58:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/pixy-stix-12-ct"/>
+    <title>Pixy Stix Candy Peg Bags - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/wonka-pixy-stik-retro-candies-i-wholesale-candy-canada.jpg?v=1581963654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            28.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro Candy from the Imagination Room</h2>
+<div>Give your customers a true taste of fantastic-ness, with this flavourful retro candy! Pixy Stix is a fun straw-like shaped candy that is filled to the brim with a delicious, powdery candy inside! </div>
+<div>Pixy Stix  Candy hails from the 1950s and is surely made with Wonka magic, making them a must-have fun, retro candy. These yummy Pixy Stix come in the fruity flavours of Grape, Maui Punch, Cherry and Orange. </div>
+<div style="text-align: center;"><strong>For a unique and a very amusing candy, nothing is sweeter than the "srumptillious" taste of Pixy Stix Candy!</strong></div>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">Case of 12 4-ounce bags of candy powder sticks </span></li>
+<li><span class="a-list-item">A fun powdered candy packaged in a straw-like wrapper</span></li>
+<li><span class="a-list-item">Nut-free, gluten-free, dairy-free; no fat or sodium</span></li>
+<li><span class="a-list-item">Tangy, uniquely fun candy that charges your taste buds</span></li>
+<li><span class="a-list-item">Inspired by Wonka, whose name is inspired by the classic Roald Dahl book, Willy Wonka and the Chocolate Factory</span></li>
+</ul>
+<p><strong>4 oz. Peg Bags | 12 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<div class="a-section content">
+<p>'DEXTROSE, MALTODEXTRIN, CITRIC ACID, AND LESS THAN 2% OF NATURAL FLAVORS, BLUE 1 LAKE, BLUE 2 LAKE, RED 40 LAKE, YELLOW 5 LAKE, YELLOW 6 LAKE.'</p>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Nut Free</s:tag>
+    <s:tag>Old Fashioned &amp; Nostalgic Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Update</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4557754400907</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.80</s:price>
+      <s:sku>01-1001917</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4225772978315</id>
+    <published>2019-10-13T12:27:45-04:00</published>
+    <updated>2019-10-13T12:27:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/fun-dip-triple-pack-36-ct"/>
+    <title>Fun Dip Grape Orange Cherry Triple Pack - 36 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/wonka-fun-dip-retro-candy-triple-pack-36ct-iwholesalecandy-toronto.jpg?v=1571007348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Wonka Inspired Retro Candy</h2>
+<ul>
+<li>3 Flavour Combo Packs with 2 candy sticks</li>
+<li>Grape Dip, Cherry Dip and Orange Dip</li>
+</ul>
+<p><strong>40.5 g 3-Packs | 36 Count Box</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Update</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4225772978315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>01-1000712</s:sku>
+      <s:grams>1600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1201034100788</id>
+    <published>2018-07-21T15:38:40-04:00</published>
+    <updated>2018-07-21T15:38:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/original-spree-candy-theater-box"/>
+    <title>Original Spree Candy Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/original-spree-candy-theater-box-12ct-retro-candy.png?v=1532206187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Original Spree Candy Movie Box</h2>
+<p><span>Original Spree Candy Theater Box are a fun candy inspired by Willy Wonka. Bright and yummy candy that are sweet on the outside and tart in the middle. Surely to tantalize your taste buds with their fruity and bold taste, Spree flavors include: <em><strong>Cherry, Orange, Lemon, Green Apple, and Grape</strong></em>. Forget about a shopping spree girls, go on a candy eating spree!</span></p>
+<p><strong>5 oz. Pack | 12 COUNT BOX</strong></p>
+<h3 style="text-align: center;">Fresh Retro Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1201034100788</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.60</s:price>
+      <s:sku>01-1001560</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1201071652916</id>
+    <published>2018-07-08T14:35:22-04:00</published>
+    <updated>2018-07-08T14:35:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/mini-chewy-sweetarts-theater-box"/>
+    <title>SweeTARTS Mini Chewy Candy Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/mini-chewy-sweetarts-theater-box-wonka-candy.png?v=1532218288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Mini Chewy SweeTARTS Tangy Candy Theater Box</h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<p><span>Willy Wonka must have known that some of us like our candy chewy! Mini Chewy SweeTARTS Theater Box has all the same great taste of the original Sweetarts Candy just in a softer and chewier form. Tangy, delicious and sweet that comes in a variety of supreme and fruity goodness flavours of Cherry, Lemon, Apple, Orange and Grape. </span></p>
+<p><strong>3.75 oz. Pack | 12 CT BOX</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>Ingredients</strong>: Dextrose, Corn Syrup, Hydrogenated Coconut Oil, and Less than 2% of Maltodextrin, Malic Acid, Calcium Stearate, Egg Albumen, Mono- and Diglycerides, Carnauba Wax, Natural Flavors, Blue 1 Lake, Blue 2 Lake, Red 40 Lake, Yellow 5 Lake, Yellow 6 Lake. Contains egg ingredient.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1201071652916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku>01-1002345</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1201051205684</id>
+    <published>2018-07-08T14:35:22-04:00</published>
+    <updated>2018-07-08T14:35:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/runts-candy-theater-box"/>
+    <title>Runts Candy Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/runts-candy-theater-box-wonka-candy-12ct.png?v=1532210572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Runts Movie Candy</h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<p><span>Runts Candy Theater Box have all that sweet and fruity crunch you remember as a kid. A retro candy introduced in the early 80's. Another classic candy we can thank Willy Wonka for! Coming in the shapes of various fruits and flavors including Banana, Strawberry, Grape and Green Apple. Every crunchy bite just gets better! </span></p>
+<p><strong>5 oz. Pack | 12 CT BOX</strong></p>
+<p><span><strong>Ingredients:</strong> Dextrose, Maltodextrin, and less than 2% of Malic Acid, Calcium Stearate, Corn Syrup, Carnauba Wax, Artificial Flavors, Color Added, Caramel Color, Blue 1, Blue 1 Lake, Blue 2 Lake, Red 40 Lake, Yellow 5, Yellow 5 Lake, Yellow 6.</span></p>
+<h3><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1201051205684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.90</s:price>
+      <s:sku>01-1002075</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1201050058804</id>
+    <published>2018-07-08T14:35:22-04:00</published>
+    <updated>2018-07-08T14:35:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/chewy-gobstopper-jawbreakers-theater-box"/>
+    <title>Chewy Gobstopper Jawbreakers Candy Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/chewy-gobstopper-jawbreakers-theater-box-wonka-candy.png?v=1532210125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Chewy Gobstopper Jawbreakers Candy</h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":pc" class="ii gt">
+<div id=":pd" class="a3s aXjCH ">
+<div dir="ltr">Chewy Gobstopper Jawbreaker Theater Box are one of Willy Wonka's favorite Jawbreakers! These Chewy Gobstoppers Jawbreakers have a hard outer shell and a soft and chewy delicious middle. Chewy Gobstoppers change colour and flavor with each and every yummy layer. A fun Wonka Candy for every candy connoisseur around!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>3.75 oz. Pack | 12 CT BOX</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><span><strong>Ingredients:</strong> Dextrose, Corn Syrup, and Less than 2% of Maltodextrin, Hydrogenated Coconut Oil, Malic Acid, Calcium Stearate, Egg Albumen, Mono- and Diglycerides, Carnauba Wax, Natural Flavors, Color Added, Blue 1, Blue 2 Lake, Red 40 Lake, Yellow 5, Yellow 5 Lake, Yellow 6, Sunflower Lecithin, Mineral Oil.</span></p>
+<h3><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Jawbreakers</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1201050058804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku>01-1000404</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1201049305140</id>
+    <published>2018-07-08T14:35:22-04:00</published>
+    <updated>2018-07-08T14:35:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/bottle-caps-candy-theater-box"/>
+    <title>Bottle Caps Candy Theater Box  - 10 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/bottle-caps-theater-box-5oz-retro-candy-willy-wonka.png?v=1532209541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            15.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Bottle Caps Soda Pop Candy</h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<p><span>We've been popp'in these sweet bottles since 1972! Bottle Caps Candy Theater Box are a slightly tart and sweet candy that are meant to resemble soda bottle caps. Bottle Caps Retro Candy come in five yummy soft drink flavors: Cherry, Cola, Orange, Grape and Root Beer. To put it like Willy Wonka would, Bottle Caps Candy are "Scrumpdillyicious".</span></p>
+<p><strong>5 oz. Pack | 10 CT BOX</strong></p>
+<p><span><strong>Ingredients:</strong> Dextrose, Maltodextrin, and Less than 2% of Calcium Stearate, Malic Acid, Natural Flavors, Annatto Extract Color, Caramel Color, Vegetable Juice Color, Blue 1 Lake, Blue 2 Lake, Red 40 Lake, Yellow 5 Lake, Yellow 6 Lake.</span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></span></p>
+<h3><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1201049305140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku>01-1000315</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1201048518708</id>
+    <published>2018-07-08T14:35:22-04:00</published>
+    <updated>2018-07-08T14:35:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/nerds-candy-grape-and-strawberry-theater-box"/>
+    <title>Nerds Candy Grape and Strawberry Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/nerds-candy-grape-strawberry-theater-box-retro-candy.png?v=1532209038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Nerds Candy Grape and Strawberry Movie Candy</h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<p><span>Get your Nerds Candy Grape And Strawberry Theater Box for your next movie night. Just be sure to listen extra carefully as you crunch away on these classic Wonka Candies. Little nuggets of intense and delicious candy that pack a big punch of flavor. Grape and Strawberry Nerds Candy make for an amazing flavor combination of bold, fruity and especially crunchy delights!</span></p>
+<p><strong>5 oz. Pack | 12 CT BOX</strong></p>
+<p><span><strong>Ingredients:</strong> </span><span>Dextrose, Sugar, Malic Acid, and less than 2% of Corn Syrup, Artificial Flavors, Carnauba Wax, Color Added, Carmine Color, Blue 1, Blue 1 Lake, Blue 2, Blue 2 Lake, Red 40, Red 40 Lake, Yellow 5, Yellow 5 Lake, Yellow 6, Yellow 6 Lake.</span></p>
+<h3><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1201048518708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku>01-1001555</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1201046421556</id>
+    <published>2018-07-08T14:35:22-04:00</published>
+    <updated>2018-07-08T14:35:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/everlasting-gobstopper-jawbreakers-theater-box"/>
+    <title>Everlasting Gobstopper Jawbreakers Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/everlasting-gobstopper-jawbreakers-theater-box-retro-candy.png?v=1532208294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Everlasting Gobstopper Jawbreakers Movie Candy</h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":1hz" class="ii gt">
+<div id=":1hy" class="a3s aXjCH">
+<div dir="ltr">The Everlasting Gobstopper Theater Box are filled with marble sized, brightly coloured, mouthwatering Jawbreakers! Layer upon layer, each revealing a different colour and flavor. A truly remarkable and magical Willy Wonka candy. The Everlasting Gobstopper Theater Box will indeed last you throughout the whole movie! Comes in five fruity and fun flavors including <strong><em>Watermelon, Cherry, Orange, Lemon and Grape</em></strong>. Make sure you try every one. After all, they are Willy Wonka's most favorite jaw breakers!</div>
+<div dir="ltr"></div>
+<div class="yj6qo"></div>
+<div class="adL"><strong></strong></div>
+<div class="adL"><strong></strong></div>
+<div class="adL"><strong>5 oz. Pack | 12 CT BOX</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<p> </p>
+<p><span><strong>Ingredients:</strong> Gobstoppers: Dextrose, Maltodextrin, and Less than 2% of Corn Syrup, Malic Acid, Calcium Stearate, Carnauba Wax, Artificial Flavors, Color Added, Blue 1, Blue 2 Lake, Red 40 Lake, Yellow 5, Yellow 5 Lake. Yellow 6.</span></p>
+<h3><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Jawbreakers</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1201046421556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku>01-1000638</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1170303942708</id>
+    <published>2018-07-08T14:35:22-04:00</published>
+    <updated>2018-07-08T14:35:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/sweetarts-candy-theater-box"/>
+    <title>Sweetarts Candy Theater Box - 10 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/sweetarts-candy-theater-box-retro-candies-from-willy-wonka-wholesale-candy-canada.png?v=1531075675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            15.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">SweeTARTS Tangy Candy Theater Box</h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":o6" class="ii gt">
+<div id=":o7" class="a3s aXjCH ">
+<div dir="ltr">Sweetarts Candy Theater Box for all of that tangy, sweet and tart taste you desire. Sweetarts are a retro candy that will always make us think of Willy Wonka. An array of mouthwatering flavors in a box including Cherry, Lemon, Apple, Orange, and Grape. Pick out your favorites, or eat a handful. Listen to your craving, follow your heart. You know you want some delicious Sweetarts Candy!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>5 oz. Pack | 10 CT BOX</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong><span>Ingredients:</span></strong> Dextrose, Maltodextrin, Malic Acid, and Less than 2% of Calcium Stearate, Natural Flavors, Blue 1 Lake, Blue 2 Lake, Red 40 Lake, Yellow 5 Lake.</p>
+<h3><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1170303942708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku>01-1002356</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7914654081</id>
+    <published>2016-09-12T18:04:00-04:00</published>
+    <updated>2016-09-12T18:04:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-spree-original-candy-rolls"/>
+    <title>Spree Candy Rolls - 36 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/spree-original-candy-rolls-36ct-retro-candies-from-willy-wonka-wholesale-candy-canada.png?v=1531073234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            39.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Spree Original Candy Rolls</h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":mw" class="ii gt">
+<div id=":lr" class="a3s aXjCH ">
+<div dir="ltr">Let the sweet times Roll with the retro Spree Candy Rolls! A yummy Wonka Candy that every candy aisle needs to have stocked! Spree Candy is a brightly coloured, disc-shaped candy that is sweet on the outside and tart tasting in the middle. The Spree Candy flavours include Cherry, Orange, Lemon, Green Apple, and Grape. It's a mouthwatering experience with a twist on typical fruity tasting candy. A fun retro Candy eating "spree" we all like to enjoy!</div>
+<div dir="ltr"><strong>1.77 oz. Roll | 36 CT Box</strong></div>
+</div>
+</div>
+</div>
+</div>
+<h3><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7914654081</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>01-1002239</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7910941569</id>
+    <published>2016-09-12T14:22:00-04:00</published>
+    <updated>2016-09-12T14:22:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-laffy-taffy-grape"/>
+    <title>Laffy Taffy Grape - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/willy-wonka-laffy-taffy-grape-retro-candy-1970s.png?v=1531029611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Laffy Taffy Stretchy &amp; Tangy Grape Candy Bar</h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":mj" class="ii gt">
+<div id=":mk" class="a3s aXjCH">
+<div dir="ltr">You may have heard it through the grapevine, but have you tasted this grape retro candy yet? Laffy Taffy Grape is a superb tasting stretchy taffy. It's mouthwatering and lusciously longlasting! A delicious and fun candy that was inspired by Willy Wonka himself! With an amusing joke on every wrapper, nobody will have a reason for any sour grapes. Fill your candy aisles with LaffyTaffy and venture them into the sweet realm of the Wonka grape galaxy!</div>
+<div class="yj6qo"><strong>1.5 oz Bars | 24 CT Box</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>Kosher</strong></p>
+<p><strong>Fresh Candy Shipped Fast!</strong></p>
+<p><strong>Ingredients:</strong> Corn Syrup, Hydrogenated Coconut Oil, and Less than 2% of Malic Acid, Egg Albumen, Sodium Alginate, Calcium Acetate, Monoglycerides, Natural Flavor, Blue 1, Red 3, Yellow 6.</p>
+<p>Contains egg ingredient.</p>
+<h3><span style="color: #000000;">Fresh Retro Candy Shipped Fast at Wholesale Prices!</span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Purple Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Taffy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7910941569</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>01-1001223</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7908965377</id>
+    <published>2016-09-12T10:13:00-04:00</published>
+    <updated>2016-09-12T10:13:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-laffy-taffy-watermelon"/>
+    <title>Laffy Taffy Watermelon 1.5 oz. Bars - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/wonka-laffy-taffy-watermelon-retro-candy.jpg?v=1624030728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Laffy Taffy Stretchy &amp; Tangy Watermelon Candy Bar </h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":mw" class="ii gt">
+<div id=":lr" class="a3s aXjCH ">
+<div dir="ltr">Plant this sweet watermelon seed in your candy section with Laffy Taffy Watermelon. A retro candy that is tangy tasting and super stretchy. Filled with the fresh taste of sweet watermelon. This Wonka candy is not only longlasting with fantastically fruity flavour, but it'll also give you a laugh! Laffy Taffy comes with a joke on every wrapper. Give your customers the sweet wonderment of Wonka watermelon with Laffy Taffy!</div>
+<div class="yj6qo"><strong>1.5 oz. Candy Bars | 24 COUNT Box</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>Kosher </strong></p>
+<p><strong>Made in the USA</strong></p>
+<p><strong><span>Ingredients: </span></strong>Corn Syrup, Hydrogenated Coconut Oil, and Less than 2% of Malic Acid, Egg Albumen, Sodium Alginate, Calcium Acetate, Monoglycerides, Artificial Flavor, Color Added, Red 40.</p>
+<h3>Fresh Retro Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Taffy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7908965377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>01-1001236</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7908730753</id>
+    <published>2016-09-12T09:55:00-04:00</published>
+    <updated>2016-09-12T09:55:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-laffy-taffy-cherry"/>
+    <title>Laffy Taffy Cherry 1.5 oz. Bars - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/willy-wonka-laffy-taffy-cherry-retro-candy-1970s.png?v=1531029027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Laffy Taffy Stretchy &amp; Tangy Cherry Candy Bar </h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<p>This retro candy IS the cherry on top! A fun and fabulous, super stretchy taffy that is intense and deliciously flavourful. It's like a bowl full of cherries but in sweet Wonka style! Laffy Taffy Cherry comes with an entertaining joke on every wrapper, so it even hits the funny bone! Amuse your customers and tantalize their tastebuds too, as they savour in the tangy sweetness of the deliciously divine Laffy Taffy Cherry! </p>
+<div class="yj6qo"><strong>1.5 oz Bars | 24 CT Box</strong></div>
+<p><strong>Kosher</strong></p>
+<p><strong>Made in the USA</strong></p>
+<p><strong><span>Ingredients:</span></strong> Corn Syrup, Hydrogenated Coconut Oil, Sugar, and Less than 2% of Malic Acid, Egg Albumen, Sodium Alginate, Calcium Acetate, Monoglycerides, Carnauba Wax, Artificial Flavor, Blue 1, Red 3, Red 40, Red 40 Lake.</p>
+<h3><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Taffy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7908730753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>01-1001221</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7908602433</id>
+    <published>2016-09-12T09:39:00-04:00</published>
+    <updated>2016-09-12T09:39:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-laffy-taffy-strawberry"/>
+    <title>Laffy Taffy Strawberry 1.5 oz. Bars - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/wonka-laffy-taffy-strawberry-retro-candy.jpg?v=1624030730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Laffy Taffy Stretchy &amp; Tangy Strawberry Candy Bar </h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":m8" class="ii gt">
+<div id=":m9" class="a3s aXjCH ">
+<div dir="ltr">Supremely and sweetly Strawberry, Laffy Taffy Strawberry will leave those candy lovers in a pure state of delicious strawberry stupor! A retro candy that is chewy and stretchy and filled with such luscious and long lasting fruity flavour. A Wonka Candy from the 1970s, Laffy Taffy Strawberry is filled with satisfaction and real fun. With a joke inside of every wrapper, Laffy Taffy is a truly sweet treat!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>1.5 oz. Candy Bars | 24 COUNT Box</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>Kosher</strong></p>
+<p><strong>Made in the USA</strong></p>
+<p><strong><span>Ingredients: </span></strong>Corn Syrup, Hydrogenated Coconut Oil, and Less than 2% of Malic Acid, Egg Albumen, Sodium Alginate, Calcium Acetate, Monoglycerides, Artificial Flavor, Blue 1, Red 3, Yellow 6.</p>
+<h3><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Taffy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7908602433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>01-1001231</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7908396161</id>
+    <published>2016-09-11T23:55:00-04:00</published>
+    <updated>2016-09-11T23:55:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-laffy-taffy-banana"/>
+    <title>Laffy Taffy Banana 1.5 oz. Bars - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/willy-wonka-laffy-taffy-banana-retro-candy-1970s.png?v=1531028531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Laffy Taffy Stretchy &amp; Tangy Banana Candy Bar<span> </span>
+</h2>
+<h3>RETRO CANDY FROM THE IMAGINATION ROOM OF WILLY WONKA</h3>
+<div class="gs">
+<div class="">
+<div id=":mw" class="ii gt">
+<div id=":lr" class="a3s aXjCH ">
+<div dir="ltr">Stretchy and chewy, luscious tasting taffy that really will make your customers go bananas! Laffy Taffy Banana is a retro candy and of course, it comes with a fun Wonka twist! On every wrapper, there is a funny joke to go along with this delicious Taffy. Bring this sweet monkey business to your candy aisles, with Laffy Taffy Banana!</div>
+<div class="yj6qo"><strong>Kosher</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>1.5 oz Candy Bars | 24 CT Box</strong></p>
+<p><strong><span>Ingredients: </span></strong>corn syrup, hydrogenated coconut oil, and less than 2% of egg albumen, sodium alginate, calcium acetate, monoglycerides, sucralose, artificial flavour, yellow 5.</p>
+<h3><strong>Freshest Retro Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Taffy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:tag>Yellow Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7908396161</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>01-1001217</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7904049089</id>
+    <published>2016-09-11T23:48:00-04:00</published>
+    <updated>2016-09-11T23:48:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-fundip"/>
+    <title>Fun Dip Candy - 48 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/willy-wonka-fundip-retro-candy.png?v=1531027450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Lik-M-Aid Fun Dip Candy</h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":mw" class="ii gt">
+<div id=":lr" class="a3s aXjCH ">
+<div dir="ltr">A retro candy that really is fun! Fun Dip candy is a powdery mix of sublime Wonka sweetness that comes with another candy stick to lick and dip in the candied powder. Lik-M-Aid Fun Dip candy comes in two amazing flavours, RazzApple Magic and Cherry Yum Diddly. Give your customers the retro fun they remember with Fun Dip Candy!</div>
+<div class="yj6qo"></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>.43 oz. | 48 CT Box</strong></p>
+<h3><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7904049089</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.50</s:price>
+      <s:sku>01-1001278</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7904003841</id>
+    <published>2016-09-11T23:37:00-04:00</published>
+    <updated>2016-09-11T23:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-sweetarts-giant-chewy"/>
+    <title>Sweetarts Giant Chewy Candy - 36 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/sweetarts-giant-chewy-candy-36ct-retro-candies-from-willy-wonka-wholesale-candy-canada.png?v=1531074665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            42.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Giant Chewy SweeTARTS Tangy Candy </h2>
+<h2 style="text-align: center;">Retro Candy from the Imagination Room of Willy Wonka</h2>
+<div class="gs">
+<div class="">
+<div id=":m8" class="ii gt">
+<div id=":m9" class="a3s aXjCH" style="text-align: center;">
+<div dir="ltr">Your candy store needs some giant sweetness, doesn't it? With the Giant Chewy Sweetarts Candy, your customers will have the delight of some giant sweetness in epic proportions! A retro candy that was first inspired by the book by Roald Dahl and the 1971 movie, "Charlie And The Chocolate Factory". Based on the original Wonka Sweetart Candy but chewier and bigger! Full of tanginess and tartness with a magical touch of  Wonka sweetness Giant Chewy Sweetarts are a must have retro candy!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong></strong></div>
+<div class="adL"><strong>1.5 oz. Pack | 36 CT Box</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<p><strong><span><br></span></strong></p>
+<p><strong><span>Ingredients: </span></strong>Dextrose, Corn Syrup, Hydrogenated Coconut Oil, Malic Acid, and Less than 2% of Maltodextrin, Calcium Stearate, Egg Albumen, Natural Flavors, Mono- and Diglycerides, Blue 1 Lake, Blue 2 Lake, Red 40 Lake, Yellow 5 Lake.</p>
+<h3><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7904003841</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.90</s:price>
+      <s:sku>01-1000740</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7903936321</id>
+    <published>2016-09-11T23:27:00-04:00</published>
+    <updated>2016-09-11T23:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-nerds-rope"/>
+    <title>Nerds Rope Rainbow Candy - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/nerds-rope-rainbow-gummy-candy-retro-candies.png?v=1531066002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            26.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Nerds Rope Rainbow Gummy Candy </h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":2fu" class="ii gt">
+<div id=":2fv" class="a3s aXjCH ">
+<div dir="ltr">Nerds Rope Rainbow Candy is a chewy and gummy candy rope that is completely covered with delicious, fruity and crunchy Nerds Candy. The Nerds Rope Rainbow Candy includes an assortment of Nerds Candy with flavours of Grape, Orange, Lemon, Watermelon and Strawberry. Two types of yummy candy all in one! Willy Wonka must have been extra hungry when he thought of Nerds Rope Rainbow Candy! A fun take on a classic retro candy. A must-have candy for every candy section!</div>
+<div class="yj6qo"><strong></strong></div>
+<div class="yj6qo"><strong>.92 oz. Pack | 24 CT Box</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong><span>Ingredients: </span></strong>Dextrose, sugar, corn syrup, and less than 2% of malic acid, gelatin, confectioner's glaze (lac-resin), glycerin, citric acid, carnauba wax, natural flavors, color added, carmine color, blue 1, blue 1 lake, blue 2 lake, red 40, red 40 lake, yellow 5 lake. May contain egg.</p>
+<h3><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7903936321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.40</s:price>
+      <s:sku>01-1001546</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+</feed>

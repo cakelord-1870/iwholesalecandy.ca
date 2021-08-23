@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://iwholesalecandy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://iwholesalecandy.ca/collections/nerds-candy.atom"/>
+  <title>iWholesaleCandy.ca</title>
+  <updated>2021-04-04T13:14:50-04:00</updated>
+  <author>
+    <name>iWholesaleCandy.ca</name>
+  </author>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6635988648113</id>
+    <published>2021-04-04T13:14:50-04:00</published>
+    <updated>2021-04-04T13:14:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/nerds-big-chewy-theater-packs-12-ct"/>
+    <title>Nerds Big Chewy Theater Packs - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/big-chewy-nerds-theater-pack-wonka-i-wholesale-candy-canada.jpg?v=1617556475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Chewy Nerds Candy for Movie Night</span></h2>
+<p><span>Big Chewy NERDS are the tastiest titans. A nerdy adventure with a flavour that brightens. Orange, lemon, strawberry and grape pack a punch. Their insides are chewy, their outsides have crunch.</span></p>
+<p><strong>4.25 oz. Packs | 12 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Wonka Candy at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>Update</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6635988648113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>01-1001530</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4653767524491</id>
+    <published>2020-03-15T20:20:56-04:00</published>
+    <updated>2020-03-15T20:20:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/nerds-rope-tropical-candy-24-ct"/>
+    <title>Nerds Rope Tropical Candy - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/nerds-rope-tropical-wonka-candy-i-wholesale-candy-canada.jpg?v=1584318164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            26.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New Nerds Rope Candy</span></h2>
+<p><span>A soft candy rope wrapped with tropical NERDS. As cool and as colourful as far island birds. It’s sweet and it’s chewy and crunchy, to boot. It may be long, but it’s still super cute. These ropes will have your tongue tied over the delicious and fruity flavours. </span></p>
+<p><strong>24 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>Nerds Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Update</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:tag>Wrapped Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4653767524491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.40</s:price>
+      <s:sku>01-1001551</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4653756907659</id>
+    <published>2020-03-15T20:10:26-04:00</published>
+    <updated>2020-03-15T20:10:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/nerds-sour-big-chewy-candy-12-ct"/>
+    <title>Nerds Sour Big Chewy Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/sour-big-chewy-nerds-candy-wonka-i-wholesale-candy-canada.jpg?v=1617556025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            26.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New Sour Nerds Candy</span></h2>
+<p><span>Sour Big Chewy NERDS are sour AND sweet. Four shocking flavours that you’ll just love to eat. <em>Strawberry Lemonade, Blue Raspberry</em>, too. <em>Blood Orange and Watermelon</em>. They’ll all delight you.</span></p>
+<p><strong>6 oz. Bags | 12 Pack</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:tag>Update</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4653756907659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.50</s:price>
+      <s:sku>01-1001553</s:sku>
+      <s:grams>2100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4653754056843</id>
+    <published>2020-03-15T17:56:29-04:00</published>
+    <updated>2020-03-15T17:56:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/nerds-big-chewy-candy-12-ct"/>
+    <title>Nerds Big Chewy Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/big-chewy-nerds-candy-wonka-i-wholesale-candy-canada.jpg?v=1617555577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            34.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New Nerds Candy</span></h2>
+<p><span>Big Chewy NERDS are the tastiest titans. A nerdy adventure with a flavour that brightens. Orange, lemon, strawberry and grape pack a punch. Their insides are chewy, their outsides have crunch.</span></p>
+<p><strong>6 oz. Bags | 12 Count Box</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>Update</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4653754056843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.50</s:price>
+      <s:sku>01-1001529</s:sku>
+      <s:grams>2100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1201048518708</id>
+    <published>2018-07-08T14:35:22-04:00</published>
+    <updated>2018-07-08T14:35:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/nerds-candy-grape-and-strawberry-theater-box"/>
+    <title>Nerds Candy Grape and Strawberry Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/nerds-candy-grape-strawberry-theater-box-retro-candy.png?v=1532209038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Nerds Candy Grape and Strawberry Movie Candy</h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<p><span>Get your Nerds Candy Grape And Strawberry Theater Box for your next movie night. Just be sure to listen extra carefully as you crunch away on these classic Wonka Candies. Little nuggets of intense and delicious candy that pack a big punch of flavor. Grape and Strawberry Nerds Candy make for an amazing flavor combination of bold, fruity and especially crunchy delights!</span></p>
+<p><strong>5 oz. Pack | 12 CT BOX</strong></p>
+<p><span><strong>Ingredients:</strong> </span><span>Dextrose, Sugar, Malic Acid, and less than 2% of Corn Syrup, Artificial Flavors, Carnauba Wax, Color Added, Carmine Color, Blue 1, Blue 1 Lake, Blue 2, Blue 2 Lake, Red 40, Red 40 Lake, Yellow 5, Yellow 5 Lake, Yellow 6, Yellow 6 Lake.</span></p>
+<h3><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1201048518708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku>01-1001555</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7903936321</id>
+    <published>2016-09-11T23:27:00-04:00</published>
+    <updated>2016-09-11T23:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-nerds-rope"/>
+    <title>Nerds Rope Rainbow Candy - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/nerds-rope-rainbow-gummy-candy-retro-candies.png?v=1531066002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            26.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Nerds Rope Rainbow Gummy Candy </h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":2fu" class="ii gt">
+<div id=":2fv" class="a3s aXjCH ">
+<div dir="ltr">Nerds Rope Rainbow Candy is a chewy and gummy candy rope that is completely covered with delicious, fruity and crunchy Nerds Candy. The Nerds Rope Rainbow Candy includes an assortment of Nerds Candy with flavours of Grape, Orange, Lemon, Watermelon and Strawberry. Two types of yummy candy all in one! Willy Wonka must have been extra hungry when he thought of Nerds Rope Rainbow Candy! A fun take on a classic retro candy. A must-have candy for every candy section!</div>
+<div class="yj6qo"><strong></strong></div>
+<div class="yj6qo"><strong>.92 oz. Pack | 24 CT Box</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong><span>Ingredients: </span></strong>Dextrose, sugar, corn syrup, and less than 2% of malic acid, gelatin, confectioner's glaze (lac-resin), glycerin, citric acid, carnauba wax, natural flavors, color added, carmine color, blue 1, blue 1 lake, blue 2 lake, red 40, red 40 lake, yellow 5 lake. May contain egg.</p>
+<h3><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7903936321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.40</s:price>
+      <s:sku>01-1001546</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7903833473</id>
+    <published>2016-09-11T23:11:00-04:00</published>
+    <updated>2016-09-11T23:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-nerds-rope-very-berry"/>
+    <title>Nerds Rope Very Berry Candy - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/nerds-rope-very-berry-gummy-candy-retro-candies-24ct.png?v=1531066836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            26.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name">Nerds Rope Very Berry Gummy Candy </h2>
+<h3 class="product_name" itemprop="name">Retro Candy from the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":2fh" class="ii gt">
+<div id=":2fg" class="a3s aXjCH ">
+<div dir="ltr">Rope em' all in your candy aisle with the Nerds Rope Very Berry Candy. This chewy candy rope is completely covered in Fruity Berry Nerds Candy! Every bite is better than the last! A fun and innovative Wonka Candy that customers crave. Be sure to stock up on Nerds Rope Very Berry Candy!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>.92 oz. Rope | 24 CT Box</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><span><strong>Made in the USA</strong></span></p>
+<p><span><strong>Ingredients:</strong> Dextrose, sugar, corn syrup, and less than 2% of malic acid, gelatin, confectioner's glaze (lac-resin), glycerin, citric acid, carnauba wax, natural flavors, color added, carmine color, blue 1, blue 1 lake, blue 2 lake, red 40, red 40 lake, yellow 5 lake. May contain egg.</span></p>
+<h3><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7903833473</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.40</s:price>
+      <s:sku>01-1001552</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7901658497</id>
+    <published>2016-09-11T18:50:00-04:00</published>
+    <updated>2016-09-11T18:50:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-nerds-lemonade-wild-cherry-apple-watermelon"/>
+    <title>Nerds Candy Double Dipped Flavours - 36 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/nerds-candy-double-dipped-flavours-36ct-retro-candies-1970s.png?v=1531062093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            43.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Nerds Candy Lemonade Wild Cherry &amp; Apple Watermelon</h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":2fu" class="ii gt">
+<div id=":2fv" class="a3s aXjCH ">
+<div dir="ltr">Your mother always said not to double dip, but with this Nerds Candy, you just can't help it. Nerds Candy Lemonade Wild Cherry And Apple Watermelon give you a twosome of intense flavour on each side of the box. Willy Wonka must have have been feeling extra generous when he gave us these Double Dipped Nerds Candy! Keep your customers happy with Nerds Candy in your candy aisle!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>1.65 oz. Pack | 36 CT Box</strong></div>
+<div class="adL"><strong></strong></div>
+</div>
+</div>
+</div>
+</div>
+<h3><strong>Fresh Nerds Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:tag>Yellow Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7901658497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.20</s:price>
+      <s:sku>01-1001533</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7901619329</id>
+    <published>2016-09-11T18:40:00-04:00</published>
+    <updated>2016-09-11T18:40:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-nerds-surf-turf"/>
+    <title>Nerds Candy Surf &amp; Turf - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/nerds-candy-surf-turf-totally-tropical-punch-road-rash-raspberry-24ct-retro-candies-1970s.png?v=1531063362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            28.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Retro Candy from the Imagination Room of Willy Wonka</h2>
+<h3>Nerds Candy Totally Tropical Punch and Road Rash Raspberry</h3>
+<div class="gs">
+<div class="">
+<div id=":2fh" class="ii gt">
+<div id=":2fg" class="a3s aXjCH ">
+<div dir="ltr">Nerds Candy Surf And Turf are a fun retro candy that every store needs to stock in their candy aisle. Nerds Surf And Turf Candy come in two intense flavors, Totally Tropical Punch and Road Rash Raspberry. A yummy and crunchy candy with the sweet, delicious magic of Willy Wonka!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>1.65 oz. Pack | 24 CT BOX</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<h3><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Blue Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7901619329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.80</s:price>
+      <s:sku>01-1001545</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7901557377</id>
+    <published>2016-09-11T18:25:00-04:00</published>
+    <updated>2016-09-11T18:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-nerds-wild-berry-peach"/>
+    <title>Nerds Candy Wild Berry &amp; Peach - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/nerds-candy-wild-berry-peach-retro-candies-1970s.png?v=1531064862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            28.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Nerds Candy Wild Berry Fruit Savage &amp; Peach</h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":2fu" class="ii gt">
+<div id=":2fv" class="a3s aXjCH ">
+<div dir="ltr">Nerds Candy Wild Berry And Peach are explosively delicious! Filled with the mouthwatering and intense taste of Wild Berry and Juicy Peach. Small, crunchy and addictive, Willy Wonka sure knows how to pack amazing flavours into Nerds Candy! Fill your candy aisle with Nerds Candy and they'll always be back for more!</div>
+<div class="yj6qo"><strong></strong></div>
+<div class="yj6qo"><strong>1.65 oz. Pack | 24 CT Box</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong> </strong></p>
+<h3><strong>Fresh Nerds Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Blue Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Orange Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7901557377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.80</s:price>
+      <s:sku>01-1001557</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7901462209</id>
+    <published>2016-09-11T18:07:00-04:00</published>
+    <updated>2016-09-11T18:07:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-nerds-grape-strawberry"/>
+    <title>Nerds Candy Grape &amp; Strawberry - 36 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/nerds-candy-grape-strawberry-36ct-retro-candies-1970s.png?v=1531061103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            43.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Nerds Candy Gotta Have Grape &amp; Seriously Strawberry</h2>
+<h3>Retro Candy from the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":2fh" class="ii gt">
+<div id=":2fg" class="a3s aXjCH">
+<div dir="ltr">Tiny, tangy and crunchy! Nerds Candy Grape &amp; Strawberry are bursting with all that intense Nerd Candy flavour we've come to know and love. A retro candy coming from the sweet mind of Willy Wonka! Nerds Candy Grape &amp; Strawberry come in a double-chambered box. Eat one side at a time, or have fun mixing the flavours up! You're never too old to indulge in a box of Nerds Candy, Be sure to stock up those candy aisles with Nerds Candy!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>1.65 oz. Pack | 36 CT Box</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong><span>Ingredients: </span></strong>Dextrose, Sugar, Malic Acid, and less than 2% of Corn Syrup, Natural Flavors, Carnauba Wax, Color Added, Carmine Color, Blue 1 Lake, Blue 2 Lake, Red 40 Lake. May contain egg.</p>
+<h3><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Pink Candy</s:tag>
+    <s:tag>Purple Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Update</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7901462209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.20</s:price>
+      <s:sku>01-1001538</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7610364737</id>
+    <published>2016-08-26T07:05:00-04:00</published>
+    <updated>2016-08-26T07:05:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/wonka-nerds-watermelon-cherry"/>
+    <title>Nerds Candy Watermelon &amp; Cherry - 36 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/nerds-candy-what-a-melon-so-verry-cherry-retro-candies-1970s.png?v=1531064193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            43.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: left;">Nerds Candy <span>What-A-Melon/So Verry Cherry </span>
+</h2>
+<h3 style="text-align: left;">From the Imagination Room of Willy Wonka</h3>
+<div class="gs">
+<div class="">
+<div id=":2fh" class="ii gt">
+<div id=":2fg" class="a3s aXjCH ">
+<div dir="ltr">You'll be wild about these Nerds! Nerds Candy Watermelon &amp; Cherry are tangy, crunchy and sweet. With such big flavour, Nerds Candy will knock you off your feet!  Nerds Candy Watermelon and Cherry are a dual chambered box, Watermelon on one side and Cherry on the other. Eat them one side at a time, or mix them together for a fun flavour. No store can do without Nerds Candy. A popular Willy Wonka candy that keeps every candy lover satisfied!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>1.65 oz. Pack | 36 CT Box</strong></div>
+<div class="adL"><strong></strong></div>
+</div>
+</div>
+</div>
+</div>
+<h3><strong>Fresh Nerds Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Green Candy</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7610364737</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.20</s:price>
+      <s:sku>01-1001556</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

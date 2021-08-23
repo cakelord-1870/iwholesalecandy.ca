@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://iwholesalecandy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://iwholesalecandy.ca/collections/theater-boxes.atom"/>
+  <title>iWholesaleCandy.ca</title>
+  <updated>2021-07-16T16:20:24-04:00</updated>
+  <author>
+    <name>iWholesaleCandy.ca</name>
+  </author>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6256829300913</id>
+    <published>2021-07-16T16:20:24-04:00</published>
+    <updated>2021-07-16T16:20:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/taste-of-nature-muddy-bears-theater-box-3-1oz-12ct"/>
+    <title>Taste of Nature Muddy Bears Theater Box 3.1oz - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Taste of Nature</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/iwholesalecandy_candyasap_muddybears_88g-Top-jpg-1.jpg?v=1626466523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taste of Nature<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Delicious, But Bite-Sized!<br>
+</h2>
+<h3 style="text-align: center;">Milk Chocolate Covered Gummi Bears<br>
+</h3>
+<h3 style="text-align: center;">American Snacks</h3>
+<p>Enjoy the combination of delicious chocolate and sweet gummies all in one! This tasty snack has a soft gummy center coming in the flavours of Apple, Pineapple, &amp; Strawberry gummy bears.  Resulting in a perfectly soft &amp; chewy treat to munch on! </p>
+<p>Satisfy everyone's gummy bear cravings with this 12 Pack of <meta charset="utf-8"><span data-mce-fragment="1">Taste of Nature Muddy Bears!</span></p>
+<p><span data-mce-fragment="1">Taste of Nature has been making incredibly innovative treats for our tastebuds to indulge in since 1992.</span></p>
+<p><br></p>
+<p><strong>3.1oz | 12CT Pack</strong></p>
+<h3 style="text-align: center;" class="p1"><b>Fresh Candy Shipped at Wholesale Prices Across Canada &amp; the USA!</b></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6256829300913</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku>01-1001516</s:sku>
+      <s:grams>88</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6636580634801</id>
+    <published>2021-04-05T00:09:49-04:00</published>
+    <updated>2021-04-05T00:09:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/sweetarts-mini-chewy-berries-cherries-theater-box-3-75-oz-12-ct"/>
+    <title>SweeTARTS Mini Chewy Berries &amp; Cherries Theater Box 3.75 oz. - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/sweetarts-mini-chewy-berries-cherries-theater-box-3-75-oz-12-ct-i-wholesale-candy-canada.jpg?v=1617595879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">New Candy from the Imagination Room</h2>
+<p>These new SweeTARTS Mini Chewy come in the delicious flavours of Berries and Cherries. Your customers need these theatre packs to binge-watch their favourite movies like Willy Wonka and the Chocolate Factory.</p>
+<p><strong>3.75 oz. | 12 CT BOX </strong></p>
+<h3 style="text-align: center;"><strong>Fresh Wonka Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Wonka Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6636580634801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku>01-1002343</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6253293928625</id>
+    <published>2021-02-02T17:25:38-05:00</published>
+    <updated>2021-02-02T17:25:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/4d-gummy-unicorns-96g-24ct"/>
+    <title>Candy Creation 4D Gummy Unicorns Theatre Box 96g - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Exclusive Brands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/4d-candy-creations-gummy-unicorns-theatre-box-96g-24CT-pack-candy-i-wholesale-candy-bulk-online-store-canada-toronto.jpg?v=1618021299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exclusive Brands<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            32.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">From A Magical World of Unicorns &amp; Rainbows...</h2>
+<h3 style="text-align: center;">Unicorn Gummy Candy</h3>
+<p>Kids will love eating and playing with these unicorn-shaped gummies! Each unicorn is incredibly detailed while boasting fantastic fruity flavours making it a super fun yet delicious candy to enjoy.</p>
+<ul></ul>
+<p><strong>96 g | 24 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Gummy Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6253293928625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.50</s:price>
+      <s:sku>01-1000103</s:sku>
+      <s:grams>2304</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6253264568497</id>
+    <published>2021-02-02T17:18:23-05:00</published>
+    <updated>2021-02-02T17:18:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/4d-gummy-cupcake-96g-24ct"/>
+    <title>Candy Creation 4D Gummy Cupcake Theatre Box 96g - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Exclusive Brands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/4d-candy-creations-gummy-cupcakes-theatre-box-96g-24CT-pack-candy-i-wholesale-candy-bulk-online-store-canada-toronto.jpg?v=1612304171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exclusive Brands<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            32.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Incredibly Cute Cupcake Candies</h2>
+<p>Soft and delectable fruit-flavoured gummies in the shape of mini cupcakes for a fun candy-eating experience!</p>
+<ul></ul>
+<p><strong>96g | 24CT</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Gummy Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6253264568497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.50</s:price>
+      <s:sku>01-1000100</s:sku>
+      <s:grams>2304</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6186724884657</id>
+    <published>2021-01-08T10:50:06-05:00</published>
+    <updated>2021-01-08T10:50:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/taste-of-nature-cookies-n-cream-bites-theater-box-3-1oz-12ct"/>
+    <title>Taste of Nature Cookies &apos;N Cream Bites Theater Box 3.1oz - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Taste of Nature</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/Taste-of-Nature-cookies-and-cream-Cookie-Dough-Bites-Theater-Box-Candy-Funhouse-Toronto.jpg?v=1610120992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taste of Nature<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">Taste of Nature Cookies 'N Cream Bites Theater Box <br>
+</h1>
+<p>Calling all Cookies 'N Cream lovers we've got the snack for you! Enjoy a smooth, creamy cookie dough with added cookie pieces for an extra. crunch. Take these sweet treats anywhere with you, in this convenient theatre box.</p>
+<ul>
+<li>Egg free</li>
+<li>Made in the USA</li>
+<li>Kosher Certified</li>
+</ul>
+<p><strong>3.1oz x 12 boxes</strong></p>
+<h5>Ingredients</h5>
+<p><span>White confectionery coating ( sugar, palm kernel oil, whole milk powder, reduced mineral whey powder, nonfat milk powder, soy lecithin (an emulsifier), salt, and vanilla), Cookies and cream cookie dough (wheat flour, sugar, partially hydrogenated vegetable oil, (palm kernel, soybean, cottonseed), glycerin, powdered sugar (sugar, cornstarch), high fructose corn syrup, natural and artificial flavors, salt sodium bicarbonate), and chocolate flavored bits (sugar, corn syrup, wheat flour, modified corn starch, cocoa (processed with alkali), soybean oil, natural and artificial flavor)..<strong> Note: This product is packaged in a facility which also packages peanuts, other nuts, milk solids, eggs, wheat, and soy protein.</strong></span></p>
+<h6><span>Ingredients and nutritional information provided by manufacturer and considered accurate at time of posting. Refer to product labeling or contact manufacturer directly for current data.</span></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>cake</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6186724884657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku>01-1000473</s:sku>
+      <s:grams>1077</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6186679304369</id>
+    <published>2021-01-08T10:16:34-05:00</published>
+    <updated>2021-01-08T10:16:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/copy-of-taste-of-nature-cinnamon-bun-cookie-dough-bites-theater-box-3-1oz-12ct"/>
+    <title>Taste of Nature Chocolate Chip Cookie Dough Bites Theater Box 3.1oz - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Taste of Nature</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/Taste-of-Nature-Cookie-Dough-Bites-Theater-Box-Candy-Funhouse-Toronto.jpg?v=1610118983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taste of Nature<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">Taste of Nature Chocolate Chip Cookie Dough Bites <br>
+</h1>
+<p>If you love the classic taste of fresh from the oven chocolate chip cookies, we've got the snack for you! Enjoy the rich, creamy flavour of cookie dough, with chocolate chips pieces for an extra crunch. That's not it! These cookie dough bites are then drizzled with smooth, milk chocolate. Take these sweet treats anywhere with you, in this convenient theatre box.</p>
+<ul>
+<li>Egg free</li>
+<li>Made in the USA</li>
+<li>Kosher Certified</li>
+</ul>
+<p><strong>3.1oz x 12 boxes</strong></p>
+<h5>Ingredients</h5>
+<p><span>Milk chocolate (Sugar, Cocoa Butter, Whole Milk Powder, Soy Lecithin and Vanillin) Chocolate Chip Cookie Dough (Wheat Flour, Brown Sugar, Partially Hydrogenated Palm Kernel Oil, Sugar, Semi-sweet Chocolate Chips (Sugar, Cocoa Butter, Soy Lecithin) Glycerin, High Fructose Corn Syrup, Palm Oil, Natural Flavors, Soy Lecithin, Xanthan Gum, Leavening (Sodium Bicarbonate)), Peanut Traces.<strong> Note: This product is packaged in a facility which also packages peanuts, other nuts, milk solids, eggs, wheat, and soy protein.</strong></span></p>
+<h6><span>Ingredients and nutritional information provided by manufacturer and considered accurate at time of posting. Refer to product labeling or contact manufacturer directly for current data.</span></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>cake</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6186679304369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku>02-2000395</s:sku>
+      <s:grams>1077</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6186652663985</id>
+    <published>2021-01-08T10:03:20-05:00</published>
+    <updated>2021-01-08T10:03:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/taste-of-nature-cinnamon-bun-cookie-dough-bites-theater-box-3-1oz-12ct"/>
+    <title>Taste of Nature Cinnamon Bun Cookie Dough Bites Theater Box 3.1oz - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Taste of Nature</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/Taste-of-Nature-Cinnamon-Bun-Cookie-Dough-Bites-Theater-Box-Candy-Funhouse-Toronto.jpg?v=1610118152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taste of Nature<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">
+<span data-mce-fragment="1">Taste of Nature Cinnamon Bun Cookie Dough Bites</span><br>
+</h1>
+<p>If you love the taste of fresh from the oven cinnamon buns, we've got the snack for you! Rich, creamy cinnamon bun frosting is drizzled all around pieces of soft, cinnamon flavoured mini bites. Take these sweet treats anywhere with you, in this convenient theatre box.</p>
+<ul>
+<li>Egg free</li>
+<li>Made in the USA</li>
+<li>Kosher Certified</li>
+</ul>
+<p><strong>3.1oz x 12 boxes</strong></p>
+<h5>Ingredients</h5>
+<p><span>White confectionery coating (sugar, hydrogenated palm kernel oil, nonfat milk powder, soy lecithin, monoglycerides, artificial color (titanium dioxide), artificial flavor), cinnamon bun dough (wheat flour, sugar, palm kernel oil, tapioca syrup, vegetable glycerin, natural and artificial flavor, salt, cinnamon, sunflower lecithin, xanthan gum, baking soda). <strong>Contains milk, wheat, soy. Packaged in a facility which also packages products containing peanuts, tree nuts, milk, eggs, wheat.</strong></span></p>
+<h6><span>Ingredients and nutritional information provided by manufacturer and considered accurate at time of posting. Refer to product labeling or contact manufacturer directly for current data.</span></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>cake</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6186652663985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku>01-1000450</s:sku>
+      <s:grams>1077</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6185162047665</id>
+    <published>2021-01-07T16:57:05-05:00</published>
+    <updated>2021-01-07T16:57:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/taste-of-nature-birthday-cake-cookie-dough-bites-theater-box-3-1oz-12ct"/>
+    <title>Taste of Nature Birthday Cake Cookie Dough Bites Theater Box 3.1oz - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Taste of Nature</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/Taste-of-Nature-Birthday-Cake-Cookie-Dough-Bites-Theater-Box-Candy-Funhouse-Toronto.jpg?v=1610056627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taste of Nature<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">Taste of Nature Birthday Cake Cookie Dough Bites Theater Box </h1>
+<p>If you are looking for a sweet treat for your next party, look no further! Make everyday a party, with bite-sized birthday cake cookie dough bites. Vanilla cake flavoured, frosting coated, and colourful sprinkles added for an extra crunch.</p>
+<ul>
+<li>Egg free</li>
+<li>Made in the USA</li>
+<li>Kosher Dairy</li>
+</ul>
+<p><strong>3.1oz x 12 boxes</strong></p>
+<h5>Ingredients</h5>
+<p><span>Sugar, hydrogenated palm kernel oil, wheat flour, palm kernel oil, nonfat milk powder, tapioca syrup, rice flour, natural and artificial flavor, palm oil, sea salt, glycerin, corn starch, tapioca starch, sunflower lecithin, soy lecithin, xanthan gum, dried glucose syrup, artificial color, monoglycerides, gum arbic, cellulose gum, yellow 5, FD&amp;C Yellow 6, FD&amp;C red 3, FD&amp;C blue 1, FD&amp;C red 40, baking soda. <strong>Contains: Milk, wheat, soy.</strong></span></p>
+<h6><span>Ingredients and nutritional information provided by manufacturer and considered accurate at time of posting. Refer to product labeling or contact manufacturer directly for current data.</span></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>cake</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6185162047665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku>01-1000262</s:sku>
+      <s:grams>1077</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850851217547</id>
+    <published>2020-12-24T19:23:46-05:00</published>
+    <updated>2020-12-24T19:23:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/mike-and-ike-root-beer-float-candy-theater-box-12-ct"/>
+    <title>Mike and Ike Root Beer Float Candy Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Just Born Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/mike-and-ike-root-beer-float-theater-pack-retro-candies-i-wholesale-candy-canada.jpg?v=1588294084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Just Born Inc<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;">Mike and Ike Root Beer Float Movie Candy</h2>
+<h3 style="text-align: center;">Limited Edition</h3>
+<ul>
+<li>Made in the USA</li>
+<li>Kosher Certified Parve</li>
+<li>Gluten-Free</li>
+</ul>
+<p><strong>Theatre Box</strong></p>
+<p><strong>5 oz. Pack | 12 COUNT BOX</strong></p>
+<h3 style="text-align: center;">Fresh Retro Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850851217547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku>01-1001487</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6140447129777</id>
+    <published>2020-12-18T14:54:01-05:00</published>
+    <updated>2020-12-18T14:54:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/warheads-ooze-chewz-theater-box-3-5oz-12ct"/>
+    <title>Warheads Ooze Chewz Theater Box 3.5oz - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Impact Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/warheads-ooze-chewz-theater-box-candy-funhouse-online-candy-store_1.jpg?v=1607973262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Impact Confections<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Warheads Ooze Chewz</h2>
+<h3 style="text-align: center;">Now Available in a Theater Pack</h3>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8">Sour chewy candy filled with ooze! These Warhead Ooze Chewz come in delicious fruity flavours including Mango, Strawberry, Green Apple, Black Cherry, Watermelon and Blue Raspberry.  </span></p>
+<div data-mce-fragment="1">12 x 3.5 oz Theater Pack</div>
+<p data-mce-fragment="1"><strong>Ingredients:</strong></p>
+<p data-mce-fragment="1">Sugar, Corn Syrup, Wheat Flour, Water, Citric Acid, Sorbitol. Maltodextrin, Sodium Citrate, Glycerin, Gelatin, Natural &amp; Artificial Flavors, Salt, confectioner's glaze, Red 40, Yellow 5, Blue 1.</p>
+<p data-mce-fragment="1">CONTAINS: WHEAT</p>
+<p data-mce-fragment="1">ALLERGY INFORMATION: MANUFACTURED ON EQUIPMENT THAT PROCESSES SOY, PEANUT AND MILK PRODUCTS.</p>
+<p class="p1" data-mce-fragment="1"><b data-mce-fragment="1">Ingredients and nutritional information provided by the manufacturer are considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for the current date</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Warheads Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6140447129777</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>01-1002647</s:sku>
+      <s:grams>1191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850879561867</id>
+    <published>2020-04-30T20:48:43-04:00</published>
+    <updated>2020-04-30T20:48:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/mike-and-ike-cotton-candy-theater-box-12-ct"/>
+    <title>Mike and Ike Cotton Candy Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Just Born Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/mike-and-ike-cotton-candy-theater-pack-retro-candies-i-wholesale-candy-canada.jpg?v=1588294314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Just Born Inc<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;">Mike and Ike Cotton Candy Movie Candies</h2>
+<h3 style="text-align: center;">Limited Edition</h3>
+<ul>
+<li>Made in the USA</li>
+<li>Kosher Certified Parve</li>
+<li>Gluten-Free</li>
+</ul>
+<p><strong>Theatre Box</strong></p>
+<p><strong>5 oz. Pack | 12 COUNT BOX</strong></p>
+<h3 style="text-align: center;">Fresh Retro Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850879561867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku>01-1001477</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/3843757539380</id>
+    <published>2020-02-09T11:20:52-05:00</published>
+    <updated>2020-02-09T11:20:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/m-ms-peanut-butter-chocolate-candies-12-ct"/>
+    <title>M&amp;M&apos;s Peanut Butter Chocolate Candies Theater Box  - 12 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/mm-s-peanut-butter-milk-chocolate-candies-theater-box-i-wholesale-candy-canada.jpg?v=1581267243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>M&amp;M's Candies with Peanut Butter</span></h2>
+<h3 style="text-align: center;"><span>"It melts in your mouth and not in your hand."</span></h3>
+<p><span>Inside these bits of round goodness are smooth and creamy peanut butter, surrounded by rich milk chocolate, all enclosed in a colourful candy shell! The M&amp;M's peanut Butter Chocolate Candies are sure to tempt your tastebuds with their mouthwatering real, peanut butter center! Since 1941, this delicious old fashioned candy has captured many a candy fan! To this day M&amp;M's Candies are a staple in the world of candy! </span></p>
+<div style="text-align: center;"><strong>Give your customers the utter deliciousness of the sensational M&amp;M's Peanut Butter Chocolate Candies Theater Boxes!</strong></div>
+<div>
+<div id="product-about" class="product-about">
+<div class="about-desc" data-tl-id="AboutThis-ShortDescription"></div>
+</div>
+<section class="AboutProduct AboutHealth Ingredients"></section>
+</div>
+<div>
+<ul></ul>
+</div>
+<h3 class="a-spacing-mini"></h3>
+<ul></ul>
+<p><strong>3 oz. Theatre Packs | 12 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>Fresh M&amp;M's Candies Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M&apos;s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/3843757539380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>02-2000841</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/3840084869172</id>
+    <published>2020-02-09T11:20:52-05:00</published>
+    <updated>2020-02-09T11:20:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/m-ms-peanut-chocolate-candies-theater-boxes-12ct"/>
+    <title>M&amp;M&apos;s Peanut Chocolate Candies Theater Boxes - 12 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/mm-s-peanut-milk-chocolate-candies-theater-box-i-wholesale-candy-canada.jpg?v=1581268093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>M&amp;M's Candies with Peanuts</span></h2>
+<h3 style="text-align: center;"><span>"It melts in your mouth and not in your hand."</span></h3>
+<p style="text-align: center;"><span>Some days the need for a peanutty crunch seems to overtake you, we say let it win with the M&amp;M's Peanut Chocolate Candies! This candy will "melt in your mouth and not in your hand" just one of the many reasons to love M&amp;M's Candy! Each colourful candy is filled with the most delectable crunch of roasted peanuts and covered in a layer of real milk chocolate. Coated to colourful perfection with its sweet candy shell!</span></p>
+<div style="text-align: center;"><strong>Yes, there's a reason it's been a favourite classic candy since 1941! This old fashioned candy has melted in the hungry, candy craving mouths of many! Let it melt in yours with the M&amp;M's Peanut Chocolate Candies!</strong></div>
+<ul></ul>
+<p><strong>3 oz. Theatre Packs | 12 Count Box</strong></p>
+<p><strong>Ingredients: </strong></p>
+<p><span>Milk chocolate (sugar, chocolate, skim milk, cocoa butter, lactose, milk fat, soy lecithin, salt, artificial flavours), sugar, corn starch, less than 1% - corn syrup, dextrin, colouring (includes blue 1 lake, yellow 6, red 40, yellow 5, blue 1, red 40 lake, blue 2 lake, yellow 6 lake, yellow 5 lake, blue 2), gum acacia.</span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M&apos;s</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/3840084869172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>02-2000842</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4225749319819</id>
+    <published>2019-10-13T17:34:21-04:00</published>
+    <updated>2019-10-13T17:34:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/skittles-candy-original-theater-box-12-ct"/>
+    <title>Skittles Candy Original Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/skittles-candy-original-theater-boxes-iwholesalecandy-toronto.jpg?v=1571002623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Skittles Candy-Taste the Rainbow</span></h2>
+<h3 style="text-align: center;"><span>Movie Candy Theater Boxes</span></h3>
+<p><span>Enjoy your movie night to the fullest with the Skittles Candy Original Theater Box! Filled with the intense and aromatic fruity flavours of Grape, Lemon, Strawberry, Green Apple and Orange. </span></p>
+<div style="text-align: center;">Skittles candy is brilliantly coloured, chewy bits of a sweet rainbow, and there are no special effects needed with this retro candy! You can simply taste the sweet magic!</div>
+<div style="text-align: center;"><strong>Invite your customers to really indulge in this ultimately delicious candy with the Skittles Candy Original Theater Box!</strong></div>
+<p><strong>3.5 oz. Packs | 12 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Skittles Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>Skittles Candy Ingredients:</strong></p>
+<p>Sugar, corn syrup, hydrogenated palm kernel oil, less than 2% of: citric acid, tapioca dextrin, modified corn starch, natural and artificial flavours, colours (red 40 lake, titanium dioxide, red 40, yellow 5 lake, yellow 5, yellow 6 lake, blue 2 lake, blue 1, blue 1 lake), sodium citrate, carnauba wax.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to produce labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Skittles Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4225749319819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku>01-1002131</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4225747255435</id>
+    <published>2019-10-13T17:23:06-04:00</published>
+    <updated>2019-10-13T17:23:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/skittles-candy-sour-theater-box-12-ct"/>
+    <title>Skittles Candy Sour Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/skittles-candy-sour-theater-boxes-iwholesalecandy-toronto.jpg?v=1571002185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Skittles Sour Bite Size Candies</span></h2>
+<h3 style="text-align: center;"><span>Movie Candy Theater Boxes</span></h3>
+<p><span>Keep your customers on the edge of their seats with this exciting Sour Candy experience! Movie night will never be boring with the addition of the Skittles Candy Sour Theater Box! A fun twist on all that usual sweetness, these Skittles let you experience the sourness of Grape, Green Apple, Lemon and Strawberry. </span></p>
+<div style="text-align: center;">A retro candy since 1979, Skittles are a satisfying and irresistible sour candy choice! </div>
+<div style="text-align: center;"><strong>Give your customers a movie candy to remember, with the tangy sting of Skittles Sour Candy Theater Box!</strong></div>
+<p><strong>91 g Packs | 12 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<p><span>Sugar, corn syrup, citric acid, hydrogenated palm kernel oil, less than 2% of: tapioca dextrin, modified corn starch, natural and artificial flavours, colours (red 40 lake, blue 1 lake, blue 2 lake, yellow 5 lake, yellow 6 lake, red 40, blue 1, yellow 5, yellow 6, titanium dioxide), sodium citrate, carnauba wax</span></p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to produce labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Skittles Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4225747255435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku>01-1002126</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1201071063092</id>
+    <published>2018-07-21T19:51:14-04:00</published>
+    <updated>2018-07-21T19:51:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/junior-mints-theater-box"/>
+    <title>Junior Mints Theater Box - 12 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Tootsie Roll Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/junior-mints-theater-box-old-fashioned-candy-12ct.png?v=1532217594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tootsie Roll Industries<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Junior Mints Old Fashioned Candy</span></h2>
+<p><span>Junior Mints are a well-loved, old fashioned candy. Since 1949, Junior Mints have been refreshing our taste buds with their tantalizing dark chocolate coating and smooth peppermint center. They are a winning combination. There are 15 million Junior Mints made every day! Junior Mints Candy are a #1 selling snack at the movies so you'd better stock up your candy section!</span></p>
+<ul>
+<li>Kosher Certified Dairy</li>
+<li>Gluten Free</li>
+<li>Nut Free</li>
+<li>Made in the USA</li>
+</ul>
+<p> <strong>3.5 oz. Pack | 12 COUNT BOX</strong></p>
+<p><span><strong>Ingredients: </strong>Sugar, semi-sweet chocolate(sugar, chocolate processed with alkali, cocoa butter, soya lecithin-an emulsifier, vanillin-an-artificial flavour), corn syrup, confectioner's glaze, modified food starch, peppermint oil, invertase (an enzyme).</span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Nut Free</s:tag>
+    <s:tag>Old Fashioned &amp; Nostalgic Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1201071063092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku>01-1001105</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1201065164852</id>
+    <published>2018-07-21T19:05:13-04:00</published>
+    <updated>2018-07-21T19:05:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/good-plenty-licorice-candy-theater-box"/>
+    <title>Good &amp; Plenty Licorice Candy Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/good-plenty-licorice-candy-theater-box-12ct.png?v=1555755491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Good &amp; Plenty Licorice Candy Movie Candy</h2>
+<p><span>Good &amp; Plenty Licorice Candy Theater Box will definitely give you "plenty" of that black licorice candy flavour you love! This old fashioned candy has been around since 1893, making it the oldest branded candy in the United States. A classic licorice candy covered in candied shells of pink and white. Good &amp; Plenty Licorice Candy makes for the most delicious movie time candy!</span></p>
+<p style="text-align: left;"><strong>Kosher</strong></p>
+<p><strong>Made in the USA</strong></p>
+<p><strong>6 oz Pack | 12 CT BOX</strong></p>
+<p><strong><span>Ingredients: </span></strong>Sugar, corn syrup, enriched wheat flour (flour, niacin, ferrous sulphate, thiamin, mononitrate, riboflavin, and folic acid), molasses, contains 2% or less of: artificial colour (k-carmine, red 40 lake), gum acacia, licorice extract: modified cornstarch, salt, caramel colour, resinous glaze, carnauba wax, anise oil, natural and artificial flavour, sulphur dioxide, to maintain freshness.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1890s</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Licorice Candy</s:tag>
+    <s:tag>Old Fashioned &amp; Nostalgic Candy</s:tag>
+    <s:tag>Pink Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Update</s:tag>
+    <s:tag>White Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1201065164852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>01-1000765</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1201063952436</id>
+    <published>2018-07-21T19:05:13-04:00</published>
+    <updated>2018-07-21T19:05:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/twizzlers-bites-cherry-licorice-candy-theater-box"/>
+    <title>Twizzlers Bites Cherry Licorice Candy Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/twizzlers-bites-cherry-licorice-candy-theater-box-12ct.png?v=1532214844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Twizzlers Bites Cherry Licorice Candy Movie Candy</h2>
+<p><span>Savor the juicy cherry taste of Twizzlers Bites Cherry Licorice Candy Theater Box. A true licorice candy sensation in every delightful bite! An old fashioned candy since 1845. Red, cherry, chewy licorice candy with all it's intense flavor is still a favorite movie time candy!</span></p>
+<p><strong>Kosher</strong></p>
+<p><strong>5 oz Pack | 12 Count Box</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1890s</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Licorice Candy</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1201063952436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1002544</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1207161651252</id>
+    <published>2018-07-21T15:38:40-04:00</published>
+    <updated>2018-07-21T15:38:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/boston-baked-beans-candy-theater-box"/>
+    <title>Boston Baked Beans Candy Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/boston-baked-beans-retro-candy-theater-box-wholesale-candy-canada.png?v=1533245746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Boston Baked Beans Candy Coated Peanuts</h2>
+<p><span>Boston Baked Beans Candy Theater Box is an old fashioned candy we love. Introduced in the early 1930s, and made by the Ferrara Pan Candy Company, the makers of another famous candy-like "Atomic Fireballs".  Boston Baked Beans Candy are a delicious candied peanut, not really a bean! The peanuts are coated using the panning process. Layers and layers of a delicious red candy coating all wrapped around a peanut. A yummy snack anytime, but is especially great for a movie time candy treat. Surprise your customers with this old fashioned candy! </span></p>
+<p><strong>Theater Pack</strong></p>
+<p><strong>4.3 oz. Pack | 12 COUNT BOX</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><span><strong>Ingredients:</strong> Sugar, Peanuts, Corn Syrup, Modified Food Starch (Corn), Acacia (Gum Arabic), Confectioner’s Glaze, Artificial Flavor, Red 40, Carnauba Wax, Yellow 5, Yellow 6, Blue 2. Contains: Peanuts This product was manufactured in a facility where Milk and Soy are used in the production of other products</span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1207161651252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>01-1000313</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1207159324724</id>
+    <published>2018-07-21T15:38:40-04:00</published>
+    <updated>2018-07-21T15:38:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/lemonhead-candy-theater-box"/>
+    <title>Lemonhead Candy Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/lemonhead-retro-candy-theater-box-wholesale-candy-canada.png?v=1533244612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Lemonhead Lemon Movie Candy</h2>
+<p><span>Lemonhead Candy Theater Box will make you pucker up! Lemonheads are a retro candy that was introduced in 1962. A perfect mixture of sweet and sour. One little taste and you'll devour the box! A hard and round jawbreaker type candy with layers of that fresh and tart lemon flavour. Lemonhead Candy Theater Box is a must-have retro candy for every candy aisle!</span></p>
+<p><strong>Theater Pack</strong></p>
+<p><strong>5 oz. Pack | 12 COUNT BOX</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><span><strong>Ingredients: </strong>Sugar, Corn Syrup, Citric Acid, Lemon Juice from Concentrate, Confectioner's Glaze (Shellac), Natural and Artificial Flavor, Acacia (Gum Arabic), Modified Food Starch (Corn), Carnauba Wax, Yellow 5, White Mineral Oil.</span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Update</s:tag>
+    <s:tag>Yellow Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1207159324724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku>01-1001241</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1207156998196</id>
+    <published>2018-07-21T15:38:40-04:00</published>
+    <updated>2018-07-21T15:38:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/goobers-candy-theater-box"/>
+    <title>Goobers Candy Theater Box - 15 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/nestle-goobers-retro-candy-theater-box-wholesale-candy-canada.png?v=1533244092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            23.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Goobers Chocolate Covered Peanuts Movie Candy</h2>
+<p><span>Goobers Candy Theater Box will have every customer drooling as they spot this old fashioned candy in your store. Goobers Candy is filled with fresh roasted peanuts that are generously covered in rich milk chocolate. Introduced in 1925, Goobers Candy is a popular movie time candy but no one really likes to share them. Make sure you stock up!</span></p>
+<ul>
+<li><b>Kosher</b></li>
+<li><b>Gluten-Free</b></li>
+</ul>
+<p><strong>Theater Pack</strong></p>
+<p><strong>3.5 oz. Pack | 15 COUNT BOX</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>Ingredients:</strong> Milk Chocolate (Sugar, Chocolate, Cocoa Butter, Nonfat Milk, Milkfat, Lactose, Soy Lecithin, Natural Flavor), Peanuts, Sugar, and Less Than 2% of Cocoa Processed with Alkali, Tapioca Dextrin, Confectioner's Glaze (Lac-Resin), TBHQ (to Preserve Freshness).</p>
+<p>Contains milk, soy and peanut ingredients.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1207156998196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.50</s:price>
+      <s:sku>01-1000763</s:sku>
+      <s:grams>2100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1207155163188</id>
+    <published>2018-07-21T15:38:40-04:00</published>
+    <updated>2018-07-21T15:38:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/sno-caps-theater-box"/>
+    <title>Sno-Caps Theater Box - 15 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/nestle-sno-caps-retro-candy-theater-box-wholesale-candy-canada.png?v=1533243399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            20.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Sno-Caps Chocolate NonPareils Movie Candy</h2>
+<p><span>No need for shovelling when you can have these retro Sno-Caps Candy! The Sno-Caps Theater Box is a semi-sweet chocolate treat that is covered in tiny white candy sprinkles. This old fashioned candy has been loved since its arrival in the early 1920s. Sno-Caps Theater Box Candy will make any movie that much sweeter! A retro chocolate treat that customers will be delighted to see on your store shelves. </span></p>
+<p><strong>Kosher</strong></p>
+<p><strong>Theater Pack</strong></p>
+<p><strong>3.1 oz. Pack | 15 COUNT BOX</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>Ingredients:</strong> Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milkfat, Soy Lecithin, Natural Flavors), Sugar, Cornstarch, Confectioner's Glaze, Carnauba Wax.</p>
+<p>Contains milk and soy ingredients. May contain peanuts.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1207155163188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.50</s:price>
+      <s:sku>01-1002160</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1207152279604</id>
+    <published>2018-07-21T15:38:40-04:00</published>
+    <updated>2018-07-21T15:38:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/reeses-pieces-candy-theater-box"/>
+    <title>Reese&apos;s Pieces Candy Theater Box - 12 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/reeses-pieces-retro-candy-theater-box-wholesale-candy-canada.png?v=1533242925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Reese's Pieces Movie Candy </h2>
+<p><span>Reese's Pieces Candy Theater Box are E.T's favourite candy, a must-have classic retro candy for your store. Reese's Pieces Candy has a smooth peanut butter center that is covered in a crunchy candy shell. Sweet and creamy, crispy and dreamy, an ideal movie time candy!</span></p>
+<ul>
+<li>Kosher</li>
+</ul>
+<p><strong>Theater Pack</strong></p>
+<p><strong>4 oz. Pack | 12 COUNT BOX</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><span><strong>Ingredients:</strong> Sugar, partially defatted peanuts, partially hydrogenated vegetable oil (palm kernel oil and soybean oil), corn syrup, dextrose, contains 2% or less of artificial colour (yellow 5 lake, red 40 lake, yellow 6 lake, blue 1 lake), salt, resinous glaze, soy lecithin, modified cornstarch, carnauba wax, vanillin, artificial flavour, milk.</span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1207152279604</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>01-1002012</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1207140483124</id>
+    <published>2018-07-21T15:38:40-04:00</published>
+    <updated>2018-07-21T15:38:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/sugar-babies-candy-theater-box"/>
+    <title>Sugar Babies Candy Theater Box - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Tootsie Roll Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/sugar-babies-retro-candy-theater-box-wholesale-candy-canada.png?v=1533239962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tootsie Roll Industries<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Sugar Babies Candy Coated Caramels </h2>
+<div class="gs">
+<div class="">
+<div id=":2j1" class="ii gt">
+<div id=":2j2" class="a3s aXjCH">
+<div dir="ltr">Sugar Babies are a candy-coated caramel. Delicious, creamy and rich-tasting, these milk caramels are an ideal movie time candy. Chewy on the outside with a thin candy caramel shell on the outside. Sugar Babies Candy was introduced in 1935. An old-fashioned candy but still a popular choice for caramel candy lovers today. Delight your candy customers with the Sugar Babies Candy in a Theater Box!</div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li>Kosher</li>
+<li>Gluten-Free</li>
+</ul>
+<p><strong>Theater Pack</strong></p>
+<p><strong>6 oz. Pack | 12 COUNT BOX</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><span><strong>Ingredients:</strong> Sugar, corn syrup, invert sugar, partially hydrogenated soybean oil, dry whole milk, modified food starch, whey, natural and artificial flavours, confectioner's glaze, salt, caramel colour, artificial colours (FD&amp;C yellow 5, red 40, yellow 6, blue 1), soy lecithin, white mineral oil. Eggs may be present.</span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1207140483124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku>01-1002305</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1207137796148</id>
+    <published>2018-07-21T15:38:40-04:00</published>
+    <updated>2018-07-21T15:38:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/raisinets-milk-chocolate-covered-raisins-theater-box"/>
+    <title>Raisinets Milk Chocolate Covered Raisins Theater Box - 15 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/raisinets-milk-chocolate-covered-raisins-theater-box-wholesale-candy-canada.png?v=1533239272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Nestle Raisinets Movie Pack</h2>
+<p><span>Raisinets Milk Chocolate Covered Raisins Theater Box is the quintessential movie time candy. This iconic candy first arrived on the candy scene in 1927. Raisnets Milk Chocolate Covered Raisins are a favourite old fashioned candy that has been loved for generations. Plump raisins covered in Nestle Chocolate, how could you resist? Raisinets Milk Chocolate Covered Raisins will make any candy section complete!</span></p>
+<ul>
+<li>Kosher</li>
+<li>No Artificial Colours</li>
+<li>No Artificial Flavours</li>
+</ul>
+<p><strong>Theater Pack</strong></p>
+<p><strong>3.5 oz. Pack | 15 COUNT BOX</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<p>Milk Chocolate (Sugar, Chocolate, Cocoa Butter, Nonfat Milk, Milkfat, Lactose, Soy Lecithin, Natural Flavor), Raisins, Sugar, Tapioca Dextrin, Confectioner's Glaze (Lac-Resin), Cocoa Processed with Alkali.</p>
+<p>Contains milk and soy. May contain peanuts</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p>
+<h3 style="text-align: center;"><br></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1207137796148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.50</s:price>
+      <s:sku>02-2001018</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+</feed>

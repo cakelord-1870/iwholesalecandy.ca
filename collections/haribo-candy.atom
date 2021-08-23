@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://iwholesalecandy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://iwholesalecandy.ca/collections/haribo-candy.atom"/>
+  <title>iWholesaleCandy.ca</title>
+  <updated>2020-12-21T17:01:14-05:00</updated>
+  <author>
+    <name>iWholesaleCandy.ca</name>
+  </author>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6154609623217</id>
+    <published>2020-12-21T17:01:14-05:00</published>
+    <updated>2020-12-21T17:01:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-zing-sour-bites-12-ct"/>
+    <title>Haribo Zing Sour Bites Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/Haribo-SourBites.jpg?v=1608588085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Haribo - Zing Sour Bites Gummy Candy</span></h2>
+<p><span data-mce-fragment="1">From the sweet geniuses at the Happy World of Haribo comes an interesting twist on a new chewy candy. Haribo Sour Bites Zing Candy </span><span data-mce-fragment="1">contains six unique and crazy flavour combinations including Blue &amp; Red Raspberry, Lime &amp; Lemon, Strawberry &amp; Lemon, and  Watermelon &amp; Red Raspberry. Prepare to delightfully entertain your tastebuds.</span></p>
+<p><strong>4.5oz.x 12bags</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>lemon</s:tag>
+    <s:tag>lime</s:tag>
+    <s:tag>raspberry</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6154609623217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000883</s:sku>
+      <s:grams>1531</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6154595303601</id>
+    <published>2020-12-21T16:44:26-05:00</published>
+    <updated>2020-12-21T16:44:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-zing-sour-streamers-12ct"/>
+    <title>Haribo Zing Sour Streamers - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/Haribo-sourstreamers.jpg?v=1608587067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Haribo - Zing Sour Streamers </h2>
+<h2 style="text-align: center;">New from the Happy World of Haribo Candy</h2>
+<h2 style="text-align: center;">Haribo Candy Since 1920</h2>
+<p class="bodytext"><span>Haribo Zing Sour Streamers are playful gummi ribbons that make a fun and tasty treat. You'll be twisting, bending, and stretching these amazing gummy candies!</span></p>
+<p class="bodytext">4 delicious flavours:</p>
+<ul>
+<li>Sour Cherry</li>
+<li>Sour Blue Raspberry</li>
+<li>Sour Orange</li>
+<li>Sour Apple</li>
+</ul>
+<p><strong>12x4.5 oz. bags</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Orange Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6154595303601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000925</s:sku>
+      <s:grams>1531</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6154577969329</id>
+    <published>2020-12-21T16:22:17-05:00</published>
+    <updated>2020-12-21T16:22:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-twin-snakes-12-ct"/>
+    <title>Haribo Twin Snakes Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-twin-snakes-gummy-candy-i-wholesale-candy-canada.jpg?v=1608863576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Haribo - Twin Snakes Gummy Candy</span></h2>
+<h3 style="text-align: center;">Happy World of Haribo Candy</h3>
+<h3 style="text-align: center;">Haribo Candy Since 1920</h3>
+<p>Haribo Twin Snakes<em> </em>Gummi Candy is the newest creation from the Happy World of Haribo!  One side of the snake is sweet and the other side is sour. Flavours include<strong><span> Cherry, Orange, Apple, Lemon, Blueberry </span></strong>and<strong><span> Blackcurrant.</span></strong></p>
+<p>The Original Gummy Candy company from Germany. Haribo Candy has been thrilling Candy Lovers since 1920. That's a long, but very sweet, time!</p>
+<p>Ingredients:</p>
+<p>Glucose syrup (from wheat or corn), sugar, gelatin, dextrose (from wheat or corn), citric acid, tartaric acid, malic acid, natural and artificial flavours, palm kernel oil, carnauba wax, white beeswax, yellow beeswax, yellow 5, red 40, blue 1.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6154577969329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000908</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6154570858673</id>
+    <published>2020-12-21T16:11:16-05:00</published>
+    <updated>2020-12-21T16:11:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-happy-cherries-12-ct"/>
+    <title>Haribo Happy Cherries Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-happy-cherries-gummy-candy-i-wholesale-candy-canada.jpg?v=1608861481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Haribo - Happy Cherries</span></h2>
+<p><span>From the Original </span><em>Gummy Candy</em><span> company from Germany. Haribo Candy has been thrilling Candy Lovers since 1920. That's a long, but very sweet, time!</span></p>
+<p>Haribo Happy Cherries are a classic and loved cherry shapped gummy! Enjoy fruity and sweet flavours with this share-bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6154570858673</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000907</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6154553163953</id>
+    <published>2020-12-21T15:44:40-05:00</published>
+    <updated>2020-12-21T15:44:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-smurfs-sour-12-ct"/>
+    <title>Haribo The Smurfs Sour Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-the-smurfs-sour-gummy-candy-i-wholesale-candy-canada.jpg?v=1608862499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Haribo - The Smurfs Sour Gummy Candy</h2>
+<div data-mce-fragment="1">
+<i data-mce-fragment="1">Haribo The Smurfs Sour </i>candies are packed with tasteful, classic Smurf shapped gummies. Enjoy sweet and sour flavours of these unique Haribo gummies in a share-sized bag of deliciousness!</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Haribo is the Original Gummy Candy company from Germany. Haribo Candy has been thrilling Candy Lovers since 1920. That's a long, but very sweet, time.</div>
+<div data-mce-fragment="1"></div>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">12x4oz bags</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Blue Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6154553163953</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000904</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6154527211697</id>
+    <published>2020-12-21T15:10:30-05:00</published>
+    <updated>2020-12-21T15:10:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-smurfs-12-ct"/>
+    <title>Haribo The Smurfs Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-the-smurfs-gummy-candy-i-wholesale-candy-canada.jpg?v=1608861898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1" style="text-align: center;"></h2>
+<h2 data-mce-fragment="1" style="text-align: center;">Haribo - The Smurfs Gummy Candy</h2>
+<div data-mce-fragment="1">
+<i>Haribo The Smurfs </i>candies are packed with tasteful, classic Smurf shaped gummies. Enjoy the sweet flavours of strawberry and raspberry in a share-sized bag of deliciousness!</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Haribo is the Original Gummy Candy company from Germany. Haribo Candy has been thrilling Candy Lovers since 1920. That's a long, but very sweet, time!</div>
+<div data-mce-fragment="1"></div>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">12x4oz bags</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Blue Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6154527211697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000903</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6154498703537</id>
+    <published>2020-12-21T14:45:24-05:00</published>
+    <updated>2020-12-21T14:45:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-starmix-12-ct"/>
+    <title>Haribo Starmix Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-starmix-gummy-candy-i-wholesale-candy-canada.jpg?v=1608862882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><span data-mce-fragment="1">Haribo Starmix Gummy Candy</span></h2>
+<p style="text-align: left;" data-mce-style="text-align: left;"><span data-mce-fragment="1"><em>Haribo Starmix</em> candies are packed with the most popular Haribo gummies. Enjoy the famous flavours of Goldbears, Twin Snakes, Happy Cola, Happy Cherries and Gummi Rings. Now you can have all the tasty flavours of Haribo we all love in a snack-sized bag of deliciousness!</span></p>
+<p style="text-align: left;" data-mce-style="text-align: left;"><strong>﻿12x5oz bags</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6154498703537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000892</s:sku>
+      <s:grams>1701</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6150693978289</id>
+    <published>2020-12-18T17:34:53-05:00</published>
+    <updated>2020-12-18T17:34:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-sour-sghetti-12-ct"/>
+    <title>Haribo Sour S&apos;ghetti Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-sour-sghetti-gummy-candy-i-wholesale-candy-canada.jpg?v=1608862207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1" style="text-align: center;">Haribo Sour S'ghetti Gummy Candy</h2>
+<p data-mce-fragment="1">From the Original <em data-mce-fragment="1">Gummy Candy</em> company from Germany. Haribo Candy has been thrilling Candy Lovers since 1920. That's a long, but very sweet, time!</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Haribo Sour S'ghetti is a super sour gummy candy. Long gummi candy spaghetti pieces, in blue, green &amp; red.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">12 Count </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6150693978289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000885</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6150658523313</id>
+    <published>2020-12-18T16:44:53-05:00</published>
+    <updated>2020-12-18T16:44:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-watermelon-12-ct"/>
+    <title>Haribo Watermelon Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-watermelon-gummy-candy-i-wholesale-candy-canada.jpg?v=1608863841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Haribo Watermelon Soft &amp; Sweet Gummy Candy<br>
+</h2>
+<h3 style="text-align: center;"><span>New Candy from the Happy World of Haribo</span></h3>
+<p><span>A delicious new candy from the happy world of Haribo. These delicious Haribo Watermelon gummy candies are soft and chewy and bursting with fresh flavours. Haribo Candy has been adored by candy lovers for over 90 years!</span></p>
+<p><strong>12x4.5 oz.</strong></p>
+<div class="css-1dbjc4n r-1habvwh r-k200y r-18u37iz r-1wtj0ep r-1sv84sj r-1ur9v65 r-13qz1uu">
+<p class="css-4rbku5 css-901oao r-1jn44m2 r-zz5t5d r-b88u0q" role="heading" dir="auto" aria-level="2">Ingredients:</p>
+</div>
+<div class="htmlView">Sugar, Glucose Syrup (from Wheat or Corn), Sorbitol, Gelatin, Contains less than 2% of: Citric Acid, Pectin, Trisodium Citrate, Artificial Flavors, Red 40, Blue 1 and Yellow 5.</div>
+<div class="htmlView">
+<div class="product-main">
+<div data-product-description="" class="product-description rte">
+<div id="tabs" class="description ui-tabs ui-widget ui-widget-content ui-corner-all" itemprop="description">
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" class="ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-2" id="tabs-3">
+<p> </p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6150658523313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000913</s:sku>
+      <s:grams>1531</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/8005486081</id>
+    <published>2016-09-20T20:49:00-04:00</published>
+    <updated>2016-09-20T20:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-rattle-snakes"/>
+    <title>Haribo Rattle-Snakes Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-rattlesnakes-gummi-candy-buy-candy-online.png?v=1624030717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>THE HAPPY WORLD OF HARIBO CANDY</h2>
+<h3>Haribo Rattle-Snacks Gummy Candy</h3>
+<h4>Old Fashioned &amp; Nostalgic Candy Since 1920</h4>
+<div class="gs">
+<div class="">
+<div id=":21z" class="ii gt">
+<div id=":21a" class="a3s aXjCH">
+<div dir="ltr">They say a snake will always bite back, but not in this candy case! You get to happily bite them! The Haribo Rattle Snakes Gummi Candy is a dual coloured gummy candy that comes in five delicious and intense tasting fruity flavours, Raspberry, Strawberry, Orange, Pineapple-Lemon. Let your customer's tastebuds succumb to the splendid and succulent, slithering candy serpentine with this superb Rattle Snake Gummy Candy!</div>
+<div dir="ltr">
+<ul>
+<li>Gluten-Free</li>
+</ul>
+</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>5 oz Bags / 12 Count Case</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<h3>FRESH GUMMY CANDY SHIPPED FAST AT WHOLESALE PRICES!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/8005486081</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000873</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/8005447041</id>
+    <published>2016-09-20T20:44:00-04:00</published>
+    <updated>2016-09-20T20:44:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-raspberries"/>
+    <title>Haribo Raspberries Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-raspberries-gummi-candy-buy-candy-online.png?v=1624030718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>THE HAPPY WORLD OF HARIBO CANDY</h2>
+<h3>Haribo Raspberries Gummy Candy</h3>
+<div class="gs">
+<div class="">
+<div id=":1u7" class="ii gt">
+<div id=":1u6" class="a3s aXjCH">
+<div dir="ltr">You can enjoy the fresh taste of raspberry all year long! Haribo Raspberries Gummi Candy is a soft and chewy must have old fashioned candy. This gummy candy is bursting with the enticing taste of fresh and supple raspberries! Fill your candy aisles, and fill your hungry customer's cravings with the fragrant and mouthwatering taste of Haribo Raspberries Gummi Candy!</div>
+<div dir="ltr">
+<ul>
+<li>Gluten-Free</li>
+</ul>
+</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>5 oz Bags / 12 Count Case</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<h3>FRESH GUMMY CANDY SHIPPED FAST AT WHOLESALE PRICES!</h3>
+<p><strong>Ingredients: </strong></p>
+<p>Sugar, corn syrup, gelatin, caramel colour, artificial colour: red 40, agar - agar, citric acid, artificial and natural flavours, beeswax coating, carnauba wax.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Black Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/8005447041</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000791</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/8005391745</id>
+    <published>2016-09-20T20:34:00-04:00</published>
+    <updated>2016-09-20T20:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-peaches"/>
+    <title>Haribo Peaches Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-peaches-gummi-candy-buy-candy-online.png?v=1624030718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>THE HAPPY WORLD OF HARIBO CANDY</h2>
+<h3>Haribo Peaches Gummy Candy</h3>
+<h4>Old Fashion Candy Since 1920</h4>
+<div class="gs">
+<div class="">
+<div id=":m7" class="ii gt">
+<div id=":m6" class="a3s aXjCH">
+<div dir="ltr">Be a real "peach" for your candy-loving customers with Haribo Peaches Gummi Candy. Fruity, soft and chewy this gummy candy is aromatically and deliciously peachy! Haribo is an expert when it comes to gummy candy, they've been making it since 1920. Make your candy aisle "peachy keen" with this mouthwatering, old fashioned gummy candy!</div>
+<div dir="ltr">
+<ul>
+<li>Gluten-Free</li>
+</ul>
+</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>5 oz Bags / 12 Count Case</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<h3>FRESH GUMMY CANDY SHIPPED FAST AT WHOLESALE PRICES!</h3>
+<p><strong>Ingredients: </strong></p>
+<p>Sugar, Corn Syrup, Gelatin, Citric Acid, Artificial and Natural Flavors, Artificial Colors Yellow 5, Red 40, Corn Starch.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Orange Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/8005391745</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000862</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/8005362817</id>
+    <published>2016-09-20T20:28:00-04:00</published>
+    <updated>2016-09-20T20:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-mini-rainbow-frogs"/>
+    <title>Haribo Mini Rainbow Frogs Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-mini-rainbow-frogs-gummi-candy-buy-candy-online.png?v=1624030719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>THE HAPPY WORLD OF HARIBO CANDY</h2>
+<h3>Haribo Mini Rainbow Frogs Gummy Candy</h3>
+<h4>Old Fashioned &amp; Nostalgic Candy Since 1920</h4>
+<div class="gs">
+<div class="">
+<div id=":21v" class="ii gt">
+<div id=":21u" class="a3s aXjCH">
+<div dir="ltr">In this case, you'll love to have a frog in your throat!  Especially the Haribo Mini Rainbow Frogs! A Gummy Candy that is bright and colourful, full of fruity flavour and ready to hop right into your mouth! This old fashioned candy comes in five assorted fruit flavours, Orange, Strawberry, Pineapple, Lemon, and Raspberry. Your mother might have warned you about kissing a few frogs, but in this instance, these frogs are so cute and sweet you really won't mind! Your customers will be leaping and hopping down your candy aisle for these Haribo Mini Rainbow Frogs!</div>
+<div class="yj6qo"><strong>5 oz Bags / 12 Count Case</strong></div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<h3>FRESH GUMMY CANDY SHIPPED FAST AT WHOLESALE PRICES!</h3>
+<p><strong>Ingredients: </strong></p>
+<p>Corn syrup, sugar, dextrose, gelatin, citric acid, corn starch, artificial and natural flavours, fractionated coconut oil, carnauba wax, beeswax coating, artificial colours (yellow 5 and Blue 1).</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/8005362817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000856</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/8005333249</id>
+    <published>2016-09-20T20:22:00-04:00</published>
+    <updated>2016-09-20T20:22:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-happy-cola"/>
+    <title>Haribo Happy Cola Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-happy-cola-gummi-candy-buy-candy-online.png?v=1624030720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>THE HAPPY WORLD OF HARIBO CANDY</h2>
+<h3>Haribo Happy Cola Gummy Candy</h3>
+<h4>Old Fashioned &amp; Nostalgic Candy Since 1920</h4>
+<div class="gs">
+<div class="">
+<div id=":22r" class="ii gt">
+<div id=":20o" class="a3s aXjCH">
+<div dir="ltr">The pursuit of happiness can be found in <strong>Candy</strong>! Especially with this delightful tasting gummy candy. The Haribo Happy Cola Gummi Candy is a flavourful and tangy taste of your most favourite cola soft drink. Comes in the cute little shape of a real old-fashioned glass soda bottle, you can almost taste the fizz! Take your customers back to the good old days with the refreshing taste of Haribo Happy Cola! </div>
+<div dir="ltr">
+<ul>
+<li>Gluten-Free</li>
+</ul>
+</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>5 oz Bags / 12 Count Case</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<h3>FRESH GUMMY CANDY SHIPPED FAST AT WHOLESALE PRICES!</h3>
+<p><strong>Ingredients: </strong></p>
+<p>Corn syrup, sugar, gelatin, dextrose, citric acid, caramel syrup, corn starch, artificial and natural flavours, fractionated coconut oil, carnauba wax, beeswax coating.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Brown Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/8005333249</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000834</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/8005303105</id>
+    <published>2016-09-20T20:15:00-04:00</published>
+    <updated>2016-09-20T20:15:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-gold-bears"/>
+    <title>Haribo Gold Bears Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-gold-bears-gummi-candy-buy-candy-online.png?v=1531626591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>THE HAPPY WORLD OF HARIBO CANDY</h2>
+<h3>Haribo Gold Bears Gummy Candy</h3>
+<h4>Old Fashioned &amp; Nostalgic Candy Since 1920</h4>
+<div class="gs">
+<div class="">
+<div id=":22x" class="ii gt">
+<div id=":21n" class="a3s aXjCH">
+<div dir="ltr">These Bears are not only unbearably cute, but they're also delicious! Haribo Gold-Bears Gummi Candy is bursting with impeccable and exquisite fruity flavour! The original Gummy Bear that captured the hearts and tastebuds of candy lovers worldwide! These beary delicious Gummy Bears come in a fantastic fruity mix of Strawberry, Lemon, Pineapple, Apple, Orange, and Raspberry.  Give your customers the very best with the Haribo Gold-Bears, a must-have old fashioned gummy candy for every candy aisle!</div>
+<div class="yj6qo"><strong>5 oz Bags / 12 Count Case</strong></div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<h3 style="text-align: center;"><strong>See the Entire Selection of <a href="https://iwholesalecandy.ca/collections/haribo-candy" title="Haribo Candy" target="_blank">Haribo Candy</a></strong></h3>
+<div style="text-align: center;"><strong> FRESH GUMMY CANDY SHIPPED FAST AT WHOLESALE PRICES!</strong></div>
+<div style="text-align: left;">
+<p><strong>Ingredients:</strong></p>
+<p>Corn Syrup, Sugar, Gelatin, Dextrose, Citric Acid, Corn Starch, Artificial and Natural Flavors, Fractionated Coconut Oil, Carnauba Wax, Beeswax Coating, Artificial Colors Yellow 5, Red 40, Blue 1.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/8005303105</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000826</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/8005242817</id>
+    <published>2016-09-20T20:05:00-04:00</published>
+    <updated>2016-09-20T20:05:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-gold-bears-sour"/>
+    <title>Haribo Gold Bears Sour Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-sour-gold-bears-gummi-candy.jpg?v=1531626695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>THE HAPPY WORLD OF HARIBO CANDY</h2>
+<h3>Haribo Gold-Bears Sour Gummy Candy</h3>
+<h4>Old Fashioned Candy Since 1920</h4>
+<div class="gs">
+<div class="">
+<div id=":22e" class="ii gt">
+<div id=":20s" class="a3s aXjCH">
+<div dir="ltr">An old fashioned gummy candy with a superb sour twist! Haribo Sour Gold-Bears Gummi Candy is a sour candy lover's dream! Chewy and tangy, filled with lots of luscious and sour fruity flavours, Lemon, Orange, Pineapple, Raspberry and Strawberry. These Gummy Bears are of course still beary sweet-looking, they just happen to pack a punch of sour delight! Any candy aisle without these delicious Haribo Sour Gold Bears will truly be "unbearable" for your customers!</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>5 oz Bags / 12 Count Case</strong></div>
+</div>
+</div>
+</div>
+</div>
+<ul>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<h3>FRESH GUMMY CANDY SHIPPED FAST AT WHOLESALE PRICES!</h3>
+<p><strong>Ingredients: </strong></p>
+<p>Corn Syrup, Sugar, Gelatin, Dextrose, Citric Acid, Malic Acid, Calcium Citrate, Sodium Malate, Corn Starch, Artificial and Natural Flavors, Blue 1, Carnauba Wax</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/8005242817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000884</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/8005208257</id>
+    <published>2016-09-20T19:59:00-04:00</published>
+    <updated>2016-09-20T19:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-ginger-lemon"/>
+    <title>Haribo Ginger-Lemon Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-ginger-lemon-gummi-candy-wholesale.jpg?v=1531626501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>THE HAPPY WORLD OF HARIBO CANDY</h2>
+<h3>Haribo Ginger-Lemon Gummy Candy</h3>
+<h4>Old Fashioned &amp; Nostalgic Candy Since 1920</h4>
+<div class="gs">
+<div class="">
+<div id=":1uj" class="ii gt">
+<div id=":1uk" class="a3s aXjCH">
+<div dir="ltr">Haribo Ginger-Lemon Gummi Candy will give your customers an exotic and tangy taste of ginger and lemon. A sophisticated and delicious gummy candy that offers both a sweet and spicy taste. Ginger and lemon together make this Gummy candy an adventure for your tastebuds! Haribo Ginger-Lemon Gummi Candy is a classic and well-loved old fashioned candy.</div>
+<div class="yj6qo">
+<ul>
+<li>Gluten-Free</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>4 oz Bags / 12 Count Case</strong></p>
+<h3>FRESH GUMMY CANDY SHIPPED FAST AT WHOLESALE PRICES!</h3>
+<p><strong>Ingredients: </strong></p>
+<p>Corn syrup, sugar, corn starch, gelatin, lemon juice concentrate, citric acid, malic acid, ginger concentrate, artificial and natural flavours, fruit concentrate (elderberry, orange, lemon), fructose, invert sugar syrup.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gold Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:tag>Yellow Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/8005208257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000825</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/8005168513</id>
+    <published>2016-09-20T19:53:00-04:00</published>
+    <updated>2016-09-20T19:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-fruit-salad"/>
+    <title>Haribo Fruit Salad Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-fruit-salad-gummi-candy-buy-candy-online.png?v=1531626393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>THE HAPPY WORLD OF HARIBO CANDY</h2>
+<h3>Haribo Fruit Salad Gummy Candy</h3>
+<h4>Old Fashioned Candy Since 1920</h4>
+<div class="gs">
+<div class="">
+<div id=":1u7" class="ii gt">
+<div id=":1u6" class="a3s aXjCH">
+<div dir="ltr">Haribo makes it so convenient to get your daily serving of fruit with the Haribo Fruit Salad Gummi Candy. A fantastic and fresh tasting mix of gummy candy that is made with real natural fruit juices! Comes in a Fruit salad mix of Cherry, Peach, Orange, Grapefruit. Lemon and Passionfruit.  Delight your customers with this old fashioned candy, they'll love the classic taste of a yummy fruit salad, in fact, they'll go fruity for it!</div>
+<div class="yj6qo"></div>
+<div class="adL">
+<ul>
+<li>Gluten-Free</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>5 oz Bags / 12 Count Case</strong></p>
+<h3>FRESH GUMMY CANDY SHIPPED FAST AT WHOLESALE PRICES!</h3>
+<p><strong>Ingredients: </strong></p>
+<p><span>Sugar, Corn Syrup, Gelatin, Citric Acid, Fumaric Acid, Artificial and Natural Flavors, Artificial Colors Yellow 5, Red 40, Blue 1, Corn Starch.</span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/8005168513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000815</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/8005132609</id>
+    <published>2016-09-20T19:47:00-04:00</published>
+    <updated>2016-09-20T19:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-fizzy-cola"/>
+    <title>Haribo Fizzy Cola Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-fizzy-cola-gummy-candy-i-wholesale-candy-canada.jpg?v=1608861699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>THE HAPPY WORLD OF HARIBO CANDY</h2>
+<h3>Haribo Fizzy Cola Gummy Candy</h3>
+<h4>Old Fashioned &amp; Nostalgic Candy Since 1920</h4>
+<div class="gs">
+<div class="">
+<div id=":1uj" class="ii gt">
+<div id=":1uk" class="a3s aXjCH">
+<div dir="ltr">You can now eat your favourite fizzy cola in the form of gummy candy! Haribo Fizzy Cola Gummi Candy is a flavorful and tangy tasting candy. Quench your customer's taste buds with this old fashioned mouthwatering candy. In the shape of a real soda bottle, you'll certainly be poppin' lots of this gummy candy bottle!</div>
+<div class="yj6qo"></div>
+<div class="adL">
+<ul>
+<li>Gluten-Free</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>5 oz Bags / 12 Count Case</strong></p>
+<h3>
+<span style="color: #ff0000;"><strong></strong></span>FRESH GUMMY CANDY SHIPPED FAST AT WHOLESALE PRICES!</h3>
+<p><strong>Ingredients: </strong></p>
+<p><span>Corn syrup, sugar, gelatin, dextrose, citric acid, malic acid, caramel syrup, corn starch, artificial and natural flavours.</span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brown Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/8005132609</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000811</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/8005092801</id>
+    <published>2016-09-20T19:36:00-04:00</published>
+    <updated>2016-09-20T19:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-dinosaurs"/>
+    <title>Haribo Dinosaurs Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-dinosaurs-gummy-candy-i-wholesale-candy-canada.jpg?v=1608864226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>The Happy World of Haribo Candy</h2>
+<h3>Haribo Dinosaurs Gummy Candy</h3>
+<div class="gs">
+<div class="">
+<div id=":mj" class="ii gt">
+<div id=":mk" class="a3s aXjCH">
+<div dir="ltr">Dinosaurs are scary creatures but with Haribo, they're nothing but supremely delicious and sweet! Your customers will love to taste this prehistoric dinosaur history lesson with the Haribo Dinosaurs Gummi Candy. Fruity and chewy gummy candy that will delight any candy craving. This old fashioned gummy candy might not be from the ice age, but it is old! A favourite candy since 1920! </div>
+<div class="yj6qo"></div>
+<div class="adL">
+<ul>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>5 oz Bags / 12 Count Case</strong></p>
+<h3>Fresh Gummy Candy Shipped Fast at Wholesale Prices!</h3>
+<p><span><strong>Ingredients:</strong> </span></p>
+<p><span>Corn syrup, sugar, gelatin, dextrose, citric acid, corn starch, artificial and natural flavours, fractionated coconut oil, carnauba wax, beeswax coating, artificial colours (yellow 5, red 40, blue 1).</span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/8005092801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000806</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/8004945857</id>
+    <published>2016-09-20T19:06:00-04:00</published>
+    <updated>2016-09-20T19:06:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/haribo-alphabet-letters"/>
+    <title>Haribo Alphabet Letters Gummi Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/haribo-alphabet-letters-gummy-candy-i-wholesale-candy-canada.jpg?v=1579570257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>The Happy World of Haribo Candy</h2>
+<h3>Haribo Alphabet Letters Gummy Candy</h3>
+<div class="gs">
+<div class="">
+<div id=":m7" class="ii gt">
+<div id=":m6" class="a3s aXjCH">
+<div dir="ltr">Learning the alphabet never tasted so sweet! Your candy craving customers will love these delicious ABC's! The Haribo Alphabet Gummy Candy is an old fashioned gummy candy that has been around since 1920. Chewy and exploding with intense fruity flavours, Haribo Gummy Candy proves that learning can be fun and tasty!</div>
+<div class="yj6qo"></div>
+<div class="adL">
+<ul>
+<li>Gluten-Free</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>5 oz Bags/ 12 Count Case</strong></p>
+<h3>Fresh Gummy Candy Shipped Fast at Wholesale Prices!</h3>
+<p><strong>Ingredients: </strong></p>
+<p><span>Corn Syrup, Sugar, Gelatin, Dextrose, Citric Acid, Artificial and Natural Flavors, Artificial Colors Yellow 5, Red 40, Blue 1, Vegetable Oil, Beeswax, Carnauba Wax, Corn Starch</span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Haribo Candy</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/8004945857</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>01-1000786</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+</feed>

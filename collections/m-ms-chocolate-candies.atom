@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://iwholesalecandy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://iwholesalecandy.ca/collections/m-ms-chocolate-candies.atom"/>
+  <title>iWholesaleCandy.ca</title>
+  <updated>2021-08-10T12:04:30-04:00</updated>
+  <author>
+    <name>iWholesaleCandy.ca</name>
+  </author>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/6866774458545</id>
+    <published>2021-08-10T12:04:30-04:00</published>
+    <updated>2021-08-10T12:04:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/m-ms-cookies-screeem-1-41oz-24-pack"/>
+    <title>M&amp;M&apos;s Cookies &amp; Screeem 1.41oz - 24 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/m_ms_cookies-and-screeem-1.41oz_iwholesalecandy.jpg?v=1628533565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            27.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">M&amp;M's Cookies and Cream</h2>
+<p style="text-align: center;">A spooky twist on the brand we all know and love–M&amp;M's Cookies &amp; Screeem! This treat is <em>screeeming</em> with flavour as it includes dark chocolate and white chocolate, and  tastes like a chocolatey creme-filled sandwich cookie. It is a guarantee your customers will be <em>screeming</em> that this is their new fav!</p>
+<h3 style="text-align: center;"><br></h3>
+<h3 style="text-align: center;">Fresh Wholesale M&amp;M's Candy Shipped Fast!</h3>
+<p><strong><br>1.41oz - 24 Pack<br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>M&amp;M&apos;s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/6866774458545</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.60</s:price>
+      <s:sku>02-2001459</s:sku>
+      <s:grams>960</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/5310139924637</id>
+    <published>2020-06-23T19:44:12-04:00</published>
+    <updated>2020-06-23T19:44:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/m-m-s-fudge-brownie-chocolate-candies-24-ct"/>
+    <title>M&amp;M’s Fudge Brownie Chocolate Candies - 24 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/m-m-s-fudge-brownie-chocolate-candies-24-ct-i-wholesale-candy-canada.jpg?v=1592956087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New M&amp;M's Candies</span></h2>
+<h3 style="text-align: center;"><span>"It melts in your mouth and not in your hand."</span></h3>
+<p itemscope="description" itemprop="description">Experience everything you love about homemade brownies without even turning on the oven! Introducing M&amp;M'S Fudge Brownie Chocolate Candies. These innovative treats have delightful notes of freshly baked brownies in a fudgy, chewy center, no baking necessary.</p>
+<ul></ul>
+<p><strong>1.41 oz. Bags | 24 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>Fresh M&amp;M's Candies Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M&apos;s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/5310139924637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>02-2000816</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/3840089391156</id>
+    <published>2020-03-04T21:36:23-05:00</published>
+    <updated>2020-03-04T21:36:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/m-ms-crispy-chocolate-candies-24-ct"/>
+    <title>M&amp;M&apos;s Crispy Chocolate Candies - 24 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/mm-s-crispy-chocolate-candies-wholesale-candy-toronto.jpg?v=1568514963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>These M&amp;M's Candies are Crispy</span></h2>
+<h3 style="text-align: center;"><span>"It melts in your mouth and not in your hand."</span></h3>
+<p style="text-align: center;"><span>For a crisp and delicious candy, there is only one classic choice! M&amp;M's Crispy Chocolate Candies will sweetly deliver that crispy sweet taste you desire. The inside is filled with bits of crispy rice and then coated with a layer of real milk chocolate that is all colourfully covered in a sweet candy coating! </span></p>
+<div style="text-align: center;"><strong>Your customers will love the texture and taste of this old fashioned candy! Since 1941, M&amp;M's Candies have satisfied many tastebuds, let them satisfy yours!</strong></div>
+<p> </p>
+<ul></ul>
+<p><strong>1.35 oz. Bags | 24 Count Box</strong></p>
+<p><strong>Ingredients: </strong></p>
+<p><span>Milk chocolate (sugar, chocolate, skim milk, cocoa butter, lactose, milk fat, soy lecithin, PGPR, salt, artificial flavours), sugar, crisp rice (rice flour, sugar, barley malt, salt, dextrose, mixed tocopherols), less than 2% - cornstarch, corn syrup, dextrin, colouring (includes blue 1 lake, yellow 6, red 40, yellow 5, blue 1, yellow 6 lake, red 40 lake, yellow 5 lake, blue 2 lake, blue 2), gum acacia. allergy information: contains milk and soy. may contain peanuts and wheat.</span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M&apos;s</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/3840089391156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>02-2000806</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/3840081166388</id>
+    <published>2020-03-04T21:36:23-05:00</published>
+    <updated>2020-03-04T21:36:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/m-ms-milk-chocolate-candies-24-ct"/>
+    <title>M&amp;M&apos;s Milk Chocolate Candies - 24 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/mm-s-milk-chocolate-candies-wholesale-candy-toronto.jpg?v=1568079910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Original M&amp;M's Candies</span></h2>
+<h3 style="text-align: center;"><span>"It melts in your mouth and not in your hand."</span></h3>
+<div style="text-align: center;"><span>Your customers will always appreciate the classic taste of the famous M&amp;M's Milk Chocolate Candies! Almost impossible to resist, inside of each M&amp;M Chocolate Candy is creamy, real milk chocolate that is coated with a colourful and sweet candied shell! Each bite is rich in texture and taste, and before you know it, these superb candies will be gone! </span></div>
+<div style="text-align: center;">This old fashioned candy made it's very sweet debut in 1941 and has remained a classic candy choice!</div>
+<div style="text-align: center;"><strong>Fill your candy aisles with the vibrant taste and colours, of M&amp;M's Milk Chocolate Candies!</strong></div>
+<p><strong>1.69-oz. Bags | 24 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>Fresh M&amp;M's Candies Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>Ingredients: </strong></p>
+<p><span>Milk chocolate (sugar, chocolate, skim milk, cocoa butter, lactose, milk fat, soy lecithin, salt, artificial flavours), sugar, corn starch, less than 1% - corn syrup, dextrin, colouring (includes blue 1 lake, yellow 6, red 40, yellow 5, blue 1, red 40 lake, blue 2 lake, yellow 6 lake, yellow 5 lake, blue 2), gum acacia.</span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M&apos;s</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/3840081166388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>02-2000823</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/3843757539380</id>
+    <published>2020-02-09T11:20:52-05:00</published>
+    <updated>2020-02-09T11:20:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/m-ms-peanut-butter-chocolate-candies-12-ct"/>
+    <title>M&amp;M&apos;s Peanut Butter Chocolate Candies Theater Box  - 12 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/mm-s-peanut-butter-milk-chocolate-candies-theater-box-i-wholesale-candy-canada.jpg?v=1581267243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>M&amp;M's Candies with Peanut Butter</span></h2>
+<h3 style="text-align: center;"><span>"It melts in your mouth and not in your hand."</span></h3>
+<p><span>Inside these bits of round goodness are smooth and creamy peanut butter, surrounded by rich milk chocolate, all enclosed in a colourful candy shell! The M&amp;M's peanut Butter Chocolate Candies are sure to tempt your tastebuds with their mouthwatering real, peanut butter center! Since 1941, this delicious old fashioned candy has captured many a candy fan! To this day M&amp;M's Candies are a staple in the world of candy! </span></p>
+<div style="text-align: center;"><strong>Give your customers the utter deliciousness of the sensational M&amp;M's Peanut Butter Chocolate Candies Theater Boxes!</strong></div>
+<div>
+<div id="product-about" class="product-about">
+<div class="about-desc" data-tl-id="AboutThis-ShortDescription"></div>
+</div>
+<section class="AboutProduct AboutHealth Ingredients"></section>
+</div>
+<div>
+<ul></ul>
+</div>
+<h3 class="a-spacing-mini"></h3>
+<ul></ul>
+<p><strong>3 oz. Theatre Packs | 12 Count Box</strong></p>
+<h3 style="text-align: center;"><strong>Fresh M&amp;M's Candies Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M&apos;s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/3843757539380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>02-2000841</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/3840084869172</id>
+    <published>2020-02-09T11:20:52-05:00</published>
+    <updated>2020-02-09T11:20:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/m-ms-peanut-chocolate-candies-theater-boxes-12ct"/>
+    <title>M&amp;M&apos;s Peanut Chocolate Candies Theater Boxes - 12 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/mm-s-peanut-milk-chocolate-candies-theater-box-i-wholesale-candy-canada.jpg?v=1581268093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>M&amp;M's Candies with Peanuts</span></h2>
+<h3 style="text-align: center;"><span>"It melts in your mouth and not in your hand."</span></h3>
+<p style="text-align: center;"><span>Some days the need for a peanutty crunch seems to overtake you, we say let it win with the M&amp;M's Peanut Chocolate Candies! This candy will "melt in your mouth and not in your hand" just one of the many reasons to love M&amp;M's Candy! Each colourful candy is filled with the most delectable crunch of roasted peanuts and covered in a layer of real milk chocolate. Coated to colourful perfection with its sweet candy shell!</span></p>
+<div style="text-align: center;"><strong>Yes, there's a reason it's been a favourite classic candy since 1941! This old fashioned candy has melted in the hungry, candy craving mouths of many! Let it melt in yours with the M&amp;M's Peanut Chocolate Candies!</strong></div>
+<ul></ul>
+<p><strong>3 oz. Theatre Packs | 12 Count Box</strong></p>
+<p><strong>Ingredients: </strong></p>
+<p><span>Milk chocolate (sugar, chocolate, skim milk, cocoa butter, lactose, milk fat, soy lecithin, salt, artificial flavours), sugar, corn starch, less than 1% - corn syrup, dextrin, colouring (includes blue 1 lake, yellow 6, red 40, yellow 5, blue 1, red 40 lake, blue 2 lake, yellow 6 lake, yellow 5 lake, blue 2), gum acacia.</span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M&apos;s</s:tag>
+    <s:tag>Theater Box</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/3840084869172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>02-2000842</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/3843789160500</id>
+    <published>2019-09-11T22:57:07-04:00</published>
+    <updated>2019-09-11T22:57:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/m-ms-peanut-chocolate-candies-jar-62-oz"/>
+    <title>M&amp;M&apos;s Peanut Chocolate Candies 62 oz - 1 Tub</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/mm-s-peanut-chocolate-bulk-candy-wholesale-candy-toronto.jpg?v=1568510472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>M&amp;M's Candies in a Pantry Size Jar</span></h2>
+<h3 style="text-align: center;"><span>"It melts in your mouth and not in your hand."</span></h3>
+<p><span>This bulk candy is sure to put a smile on everyone's face! Let it melt in their mouths with the M&amp;M's Peanut Chocolate Candies!  A delightful old fashioned candy since 1941! These M&amp;M's Candies are in a pantry size jar. That means there's an abundance of M&amp;M's Candies for you to indulge in! Also an ideal candy for your next candy bar or candy buffet!</span></p>
+<div>The M&amp;M's Peanut Chocolate Candies are a round-shaped, colourful candy with a crunchy peanut and chocolate center, all coated in a delicious candy shell.</div>
+<div style="text-align: center;"><strong>Give your customers this delicious peanutty and chocolate candy crunch, with the satisfying sweetness of the M&amp;M's Peanut Chocolate Candies!</strong></div>
+<div>
+<div id="product-about" class="product-about">
+<div class="about-desc" data-tl-id="AboutThis-ShortDescription"></div>
+</div>
+<section class="AboutProduct AboutHealth Ingredients"></section>
+</div>
+<div>
+<ul></ul>
+</div>
+<h3 class="a-spacing-mini"></h3>
+<ul></ul>
+<p><strong>62 oz. Jar</strong></p>
+<h3 style="text-align: center;"><strong>Fresh M&amp;M's Candies Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M&apos;s</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/3843789160500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.50</s:price>
+      <s:sku>01-1001316</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/3843782017076</id>
+    <published>2019-09-11T22:45:17-04:00</published>
+    <updated>2019-09-11T22:45:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/m-ms-milk-chocolate-candies-jar-62-oz"/>
+    <title>M&amp;M&apos;s Milk Chocolate Candies 62 oz - 1 Tub</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/mm-s-milk-chocolate-candies-jar-wholesale-candy-toronto.jpg?v=1568509868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>M&amp;M's Candies in a Pantry Size Jar</span></h2>
+<h3 style="text-align: center;"><span>"It melts in your mouth and not in your hand."</span></h3>
+<p><span>With the perfect light crunch of chocolatey sweetness, M&amp;M's Candies are brilliantly coloured and always a delectable chocolate treat! M&amp;M's  Chocolate Candies are an old fashioned candy, loved all over the world since 1941! The M&amp;M's Chocolate Candies Jar is a pantry size amount. That means there's plenty to go around! These chocolate candies would make a great gift for a real lover of M&amp;M's Candies! Also, an ideal choice of a bulk candy to use at your next candy buffet or candy bar! </span></p>
+<div style="text-align: center;"><strong>Be the talk of the town, stock your candy aisles with the one and only M'M's Chocolate Candies!</strong></div>
+<div>
+<div id="product-about" class="product-about">
+<div class="about-desc" data-tl-id="AboutThis-ShortDescription"></div>
+</div>
+<section class="AboutProduct AboutHealth Ingredients"></section>
+</div>
+<div>
+<ul></ul>
+</div>
+<h3 class="a-spacing-mini"></h3>
+<ul></ul>
+<p><strong>62 oz. Jar</strong></p>
+<h3 style="text-align: center;"><strong>Fresh M&amp;M's Candies Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M&apos;s</s:tag>
+    <s:tag>Update</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/3843782017076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.50</s:price>
+      <s:sku>01-1001312</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/3843752001588</id>
+    <published>2019-09-11T22:16:30-04:00</published>
+    <updated>2019-09-11T22:16:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/m-ms-peanut-white-chocolate-candies-24-ct"/>
+    <title>M&amp;M&apos;s Peanut White Chocolate Candies - 24 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/mm-s-peanut-white-chocolate-candies-24ct-wholesale-candy-canada.jpg?v=1568511660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>M&amp;M's Candies with White Chocolate</span></h2>
+<h3 style="text-align: center;"><span>"It melts in your mouth and not in your hand."</span></h3>
+<div>
+<div id="product-about" class="product-about">
+<div class="about-desc" data-tl-id="AboutThis-ShortDescription" style="text-align: center;">
+<span>White chocolate lovers must oftentimes feel overlooked, but not with these M&amp;M's Candies! Give your white chocolate candy lovers something to really get excited about with the M&amp;M's Peanut White Chocolate Candies! These white chocolate candies have the most perfect crunch of a roasted peanut, surrounded by a layer of delicious white chocolate and a colourful candy-coated shell! </span>
+<div style="text-align: center;">M&amp;M's Candies are an old fashioned candy that has been loved since 1941, and remains a favourite candy to this day! Fill your candy aisles with this delectable classic candy.</div>
+<div style="text-align: center;"><strong>Let them experience the phenomenal taste of M&amp;M's Peanut White Chocolate Candies!</strong></div>
+</div>
+<div class="about-desc" data-tl-id="AboutThis-ShortDescription"><strong>1.36 Oz | 24 Count Box</strong></div>
+<div class="about-desc" data-tl-id="AboutThis-ShortDescription">
+<h3 style="text-align: center;"><strong>Fresh M&amp;M's Candies Shipped Fast at Wholesale Prices!</strong></h3>
+</div>
+</div>
+<section class="AboutProduct AboutHealth Ingredients">
+<h3 class="font-bold moduleHeading">Ingredients:</h3>
+<p class="Ingredients"><span class="aboutModuleText">WHITE CHOCOLATE (SUGAR, COCOA BUTTER, SKIM MILK, MILKFAT, SOY LECITHIN, TOCOPHEROLS TO MAINTAIN FRESHNESS, NATURAL FLAVOR), PEANUTS, SUGAR, CORNSTARCH, LESS THAN 1.5% - PALM OIL, CORN SYRUP, DEXTRIN, COLORING (INCLUDES BLUE 1 LAKE, YELLOW 6, RED 40, YELLOW 5, BLUE 1), CARNAUBA WAX, GUM ACACIA.</span></p>
+<p class="Ingredients"><span class="aboutModuleText"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></p>
+</section>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M&apos;s</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/3843752001588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>02-2000849</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/3840115081268</id>
+    <published>2019-09-09T22:23:07-04:00</published>
+    <updated>2019-09-09T22:23:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/m-ms-white-chocolate-candies-24-ct"/>
+    <title>M&amp;M&apos;s White Chocolate Candies - 24 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/mm-s-white-chocolate-candies-wholesale-candy-canada.jpg?v=1568514434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>M&amp;M's Candies in White Chocolate</span></h2>
+<h3 style="text-align: center;"><span>"It melts in your mouth and not in your hand."</span></h3>
+<div style="text-align: center;"><span>Add a colourful candy to your candy section with the M&amp;M's White Chocolate Candies! Filled with the indulgent taste of real white chocolate and coated in a delicious and brilliant candy shell. The perfect crunch on the outside with a smooth and creamy middle! </span></div>
+<div style="text-align: center;"><span>M&amp;M's Candies are an old fashioned candy, first introduced in 1941, and still, rank as a favourite candy all over the world! </span></div>
+<div style="text-align: center;"><strong>For those white chocolate cravings, nothing beats the classic taste of M&amp;M's White Chocolate Candies!</strong></div>
+<h3 class="a-spacing-mini"></h3>
+<ul></ul>
+<p><strong>1.5 oz. Bags | 24 Count Box</strong></p>
+<h3 style="text-align: center;"> <strong>Fresh M&amp;M's Candies Shipped Fast at Wholesale Prices!</strong>
+</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>M&amp;M&apos;s</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/3840115081268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>02-2000846</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

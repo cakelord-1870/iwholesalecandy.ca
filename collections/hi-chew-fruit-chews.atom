@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://iwholesalecandy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://iwholesalecandy.ca/collections/hi-chew-fruit-chews.atom"/>
+  <title>iWholesaleCandy.ca</title>
+  <updated>2020-02-24T21:30:06-05:00</updated>
+  <author>
+    <name>iWholesaleCandy.ca</name>
+  </author>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4584195719307</id>
+    <published>2020-02-24T21:30:06-05:00</published>
+    <updated>2020-02-24T21:30:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/hi-chew-tropical-candy-6-ct"/>
+    <title>Hi-Chew Tropical Fruit Chews Candy - 6 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Morinaga &amp; Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/hi-chew-fruit-chew-tropical-candies-i-wholesale-candy-canada.jpg?v=1582598078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morinaga &amp; Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;"><span>Hi Chew-The Famous Fruity Chewy Candies</span></h2>
+<h3 class="overwrite" style="text-align: center;">ALL NEW TROPICAL MIX BAG-KIWI, PINEAPPLE AND MANGO</h3>
+<div>
+<div class="desc woocommerce-product-details__short-description"><span style="color: #ff2a00;">The ALL NEW Tropical Mix bag includes Kiwi, Pineapple, and Mango flavors. Take your tastebuds on a vacation! *Bags are filled by weight not by product or flavor. There are approximately 20 pieces in this bag.</span></div>
+<p class="weight"> </p>
+<p class="weight"><strong>100 g Bags | 6 CT BOX</strong></p>
+</div>
+<h3 class="product_name" itemprop="name" style="text-align: center;"><strong>Fresh Japanese Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>INGREDIENTS:</strong><span> </span>GLUCOSE SYRUP, SUGAR, VEGETABLE OIL (HYDROGENATED PALM KERNEL OIL, PALM KERNEL OIL), LESS THAN 2% OF GELATIN, MALIC ACID, NATURAL AND ARTIFICIAL FLAVORS, CITRIC ACID, MANGO PUREE, CHIA SEEDS, KIWI FRUIT JUICE POWDER, PINEAPPLE JUICE CONCENTRATE, SUCROSE FATTY ACID ESTERS, SORBITAN MONOSTEARATE, FRUIT JUICE CONCENTRATE (COLOR), VEGETABLE JUICE CONCENTRATE (COLOR), HONEY, ASCORBIC ACID (VITAMIN C), BETA-CAROTENE (COLOR), SOY LECITHIN.<span> </span><b>CONTAINS SOYBEANS.</b></p>
+<p><b>MADE IN A FACILITY THAT ALSO PROCESSES MILK.</b></p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hi Chew</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4584195719307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku>01-1000963</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4544579633291</id>
+    <published>2020-02-12T22:33:48-05:00</published>
+    <updated>2020-02-12T22:33:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/hi-chew-soda-pop-6-ct"/>
+    <title>Hi-Chew Soda Pop Candy - 6 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Morinaga &amp; Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/hi-chew-soda-pop-japanese-candy-i-wholesale-candy-canada.jpg?v=1581565016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morinaga &amp; Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;"><span>Hi Chew-The Famous Fruity Chewy Candies</span></h2>
+<div>Give your customers the ultimate in chewiness with this delicious Japanese Candy! Hi-Chew Candy is normally famous for its superb fruity flavour, but this Hi-Chew Candy comes complete with the amazing taste of soda pop!</div>
+<div>Coming in the flavours of Ramune, which is a sparkling soda along with the classic flavour of cola makes this candy simply incredible!</div>
+<div>Quench those tastebuds with the refreshingly awesome taste of the Hi-Chew Soda Pop Candy!</div>
+<div class="desc woocommerce-product-details__short-description">
+<div class="gs">
+<div class="">
+<div id=":14q" class="ii gt">
+<div id=":ph" class="a3s aXjCH ">
+<div dir="ltr"> </div>
+<div class="yj6qo"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class="product_name" itemprop="name"><strong> 80 g Bags | 6 CT BOX</strong></p>
+<h3 class="product_name" itemprop="name" style="text-align: center;"><strong>Fresh Japanese Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hi Chew</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4544579633291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku>01-1000956</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/3802513440820</id>
+    <published>2019-08-15T19:56:11-04:00</published>
+    <updated>2019-08-15T19:56:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/hi-chew-original-mix-candy-6-ct"/>
+    <title>Hi-Chew Original Mix Candy - 6 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Morinaga &amp; Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/hi-chew-original-mix-japanese-candy-iwholesalecandy-toronto.jpg?v=1565913646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morinaga &amp; Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;"><span>Hi Chew-The Famous Fruity Chewy Candy</span></h2>
+<div class="desc woocommerce-product-details__short-description">
+<div class="desc woocommerce-product-details__short-description">
+<div class="desc woocommerce-product-details__short-description">
+<div class="gs">
+<div class="">
+<div id=":p5" class="ii gt">
+<div id=":13g" class="a3s aXjCH ">
+<div dir="ltr">Give your customers a delightful and fruity Hi-Chew Candy experience with the Hi-Chew Original Mix Candy. Coming in a variety of intensely delicious flavours, like Strawberry, Green Apple and Grape Fruit Chews. A vibrant mix of refreshing and fruity sweetness! Hi-Chew Original Mix Candy is perfect for any time! With it's soft and chewy texture and extremely long-lasting flavour it's simply irresistible!</div>
+<div class="yj6qo"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class="product_name" itemprop="name"><strong> 90 g Bags | 6 CT BOX</strong></p>
+<h3 class="product_name" itemprop="name" style="text-align: center;"><strong>Fresh Japanese Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>INGREDIENTS:</strong><span> </span></p>
+<p>GLUCOSE SYRUP, SUGAR, VEGETABLE OIL (PALM OIL, HYDROGENATED PALM OIL), LESS THAN 2% OF GELATIN, MALIC ACID, CITRIC ACID, NATURAL AND ARTIFICIAL FLAVORS, SUCROSE FATTY ACID ESTERS, SORBITAN MONOSTEARATE, SPIRULINA EXTRACT (COLOR), FRUIT JUICE CONCENTRATE (COLOR), LEMON JUICE CONCENTRATE, GRAPEFRUIT JUICE CONCENTRATE, LIME JUICE CONCENTRATE, PURPLE SWEET POTATO JUICE (COLOR), BETA-CAROTENE (COLOR), SOY LECITHIN.<span> </span><b>CONTAINS SOYBEANS.</b></p>
+<p><b>MADE IN A FACILITY THAT ALSO PROCESSES MILK.</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hi Chew</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/3802513440820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku>01-1000962</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/3802507771956</id>
+    <published>2019-08-15T19:44:15-04:00</published>
+    <updated>2019-08-15T19:44:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/hi-chew-superfruit-mix-candy-6-ct"/>
+    <title>Hi-Chew Superfruit Mix Candy - 6 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Morinaga &amp; Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/hi-chew-superfruit-mix-japanese-candy-iwholesalecandy-toronto.jpg?v=1565912716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morinaga &amp; Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;"><span>Hi Chew-The Famous Fruity Chewy Candy</span></h2>
+<div class="desc woocommerce-product-details__short-description">
+<div class="desc woocommerce-product-details__short-description">
+<div class="gs">
+<div class="">
+<div id=":p5" class="ii gt">
+<div id=":13g" class="a3s aXjCH ">
+<div dir="ltr">Get into feeling super sweet with the sensational taste of Hi-Chew Supermix Mix Candy! You'll love to dive into this bag, filled with lusciously soft textured squares of exciting and exotic flavours like Dragon Fruit, Kiwi and Acai. A distinctive Candy with appealing flavours and the ultimate in chewiness! The Hi-Chew Supermix Mix Fruit Candy is a must-have item for your candy aisles!</div>
+<div class="yj6qo"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class="product_name" itemprop="name"><strong> 90 g Bags | 6 CT BOX</strong></p>
+<h3 class="product_name" itemprop="name" style="text-align: center;"><strong>Fresh Japanese Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>INGREDIENTS:</strong><span> </span></p>
+<p>GLUCOSE SYRUP, SUGAR, VEGETABLE OIL (HYDROGENATED PALM KERNEL OIL, PALM KERNEL OIL), LESS THAN 2% OF GELATIN, CHIA SEEDS, NATURAL AND ARTIFICIAL FLAVORS, CITRIC ACID, MALIC ACID, FRUIT JUICE CONCENTRATE (COLOR), VEGETABLE JUICE CONCENTRATE (COLOR), KIWI PUREE, MALTODEXTRIN, APPLE JUICE CONCENTRATE, DRAGON FRUIT JUICE, SUCROSE FATTY ACID ESTERS, SORBITAN MONOSTEARATE, ACAI EXTRACT, HONEY, PURPLE CARROT JUICE CONCENTRATE (COLOR), SOY LECITHIN.<span> </span><b>CONTAINS SOYBEANS.</b></p>
+<p><b>MADE IN A FACILITY THAT ALSO PROCESSES MILK.</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hi Chew</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/3802507771956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku>01-1000959</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/3802503839796</id>
+    <published>2019-08-15T19:31:13-04:00</published>
+    <updated>2019-08-15T19:31:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/hi-chew-sweet-sour-mix-candy-6-ct"/>
+    <title>Hi-Chew Sweet &amp; Sour Mix Candy - 6 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Morinaga &amp; Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/hi-chew-sweet-sour-japanese-candy-iwholesalecandy-toronto.jpg?v=1565912055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morinaga &amp; Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;"><span>Hi Chew-The Famous Fruity Chewy Candy</span></h2>
+<div class="desc woocommerce-product-details__short-description">
+<div class="gs">
+<div class="">
+<div id=":14q" class="ii gt">
+<div id=":ph" class="a3s aXjCH ">
+<div dir="ltr">Now your customers can have the best of both candy worlds, with the Hi-Chew Sweet and Sour Mix Fruit candy! Coming in the delightful flavours of Watermelon, Grapefruit and Lemon. The Hi-Chew Sweet and Sour Mix Fruit Candy are full of refreshing and abundantly delicious flavour and have a soft and chewy texture. Exceed their candy expectations with the Hi-Chew Sweet and Sour Mix Candy! </div>
+<div class="yj6qo"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class="product_name" itemprop="name"><strong> 90 g Bags | 6 CT BOX</strong></p>
+<h3 class="product_name" itemprop="name" style="text-align: center;"><strong>Fresh Japanese Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>INGREDIENTS:</strong><span> </span></p>
+<p>GLUCOSE SYRUP, SUGAR, VEGETABLE OIL (PALM OIL, HYDROGENATED PALM OIL), LESS THAN 2% OF GELATIN, MALIC ACID, CITRIC ACID, NATURAL AND ARTIFICIAL FLAVORS, SUCROSE ESTERS OF FATTY ACIDS, WATERMELON JUICE CONCENTRATE, LEMON JUICE CONCENTRATE, GRAPEFRUIT JUICE CONCENTRATE, CARROT JUICE CONCENTRATE (COLOR), BLACK CURRANT JUICE CONCENTRATE (COLOR), BETA-CAROTENE (COLOR), SOY LECITHIN.<span> </span><b>CONTAINS SOYBEANS.</b></p>
+<p><b>MADE IN A FACILITY THAT ALSO PROCESSES MILK.</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hi Chew</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/3802503839796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku>01-1000960</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1690236518452</id>
+    <published>2019-04-25T17:38:23-04:00</published>
+    <updated>2019-04-25T17:38:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/hi-chew-green-apple-fruit-chews-15-ct"/>
+    <title>Hi-Chew Green Apple Fruit Chews - 15 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Morinaga &amp; Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/hi-chew-green-apple-fruit-chews-candy-wholesale-candy.jpg?v=1556228548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morinaga &amp; Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;"><span>Hi-Chew-The Famous Fruity Chewy Candy</span></h2>
+<div class="gs">
+<div class="">
+<div id=":mc" class="ii gt">
+<div id=":mb" class="a3s aXjCH ">
+<div dir="ltr">Give your customers the ultimate in chewiness with the Hi-Chew Green Apple Fruit Chews! Bursting with that sweet and tart intense, green apple flavour. Hi-Chew candies are among the most flavorful of candies! They are always ultimately chewy, smooth and soft. We say a Green Apple Hi-Chew candy a day will keep the doctor away!  So go ahead and indulge yourself with the incredibly delicious Hi-Chew Fruit Chews!</div>
+</div>
+</div>
+</div>
+</div>
+<p class="product_name" itemprop="name" style="text-align: left;"><strong>1.76 oz. Bars | 15 CT BOX</strong></p>
+<p class="product_name" itemprop="name"><span>Ingredients: Glucose syrup, sugar, hydrogenated palm kernel oil, gelatin, apple concentrated juice, DL-malic acid, citric acid, natural and artificial flavours, emulsifiers (sucrose fatty acid esters, sorbitan monostearate). Made in a facility that also processes milk and soybeans.</span></p>
+<h3 class="product_name" itemprop="name" style="text-align: center;"><strong>Fresh Japanese Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hi Chew</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1690236518452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku>01-1000951</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1690213941300</id>
+    <published>2019-04-25T17:29:07-04:00</published>
+    <updated>2019-04-25T17:29:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/hi-chew-strawberry-fruit-chews-15-ct"/>
+    <title>Hi-Chew Strawberry Fruit Chews - 15 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Morinaga &amp; Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/hi-chew-strawberry-fruit-chews-candy-wholesale-candy.jpg?v=1556228062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morinaga &amp; Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;"><span>Hi-Chew-The Famous Fruity Chewy Candy</span></h2>
+<div class="gs">
+<div class="">
+<div id=":13g" class="ii gt">
+<div id=":p5" class="a3s aXjCH ">
+<div dir="ltr">The Hi-Chew Strawberry Fruit Chews will let you experience all the sensational Strawberry taste you can handle! These spectacular Strawberry candies are a soft and chewy texture. Boasting their exceptional and fresh Strawberry taste, they will also sweetly fill the air with their pleasant Strawberry scent! Give your customers the ultimate in Strawberry with the amazing Hi-Chew Strawberry Fruit Chews!</div>
+</div>
+</div>
+<div class="hi"></div>
+</div>
+</div>
+<p class="product_name" itemprop="name" style="text-align: center;"><strong>1.76 oz. Bars | 15 CT BOX</strong></p>
+<p class="product_name" itemprop="name"><strong>Ingredients:  Glucose syrup, sugar, hydrogenated palm kernel oil, gelatin, natural and artificial flavour, citric acid, DL-Malic acid, strawberry concentrated juice, emulsifier sucralose, fatty acid esters, sorbitan monostearate, concentrated yogurt, natural colour (purple carrot extract).</strong></p>
+<ul class="tabs-content">
+<li class="active">
+<p><strong>Made in a facility that also processes soybeans.</strong></p>
+</li>
+</ul>
+<h3 class="product_name" itemprop="name" style="text-align: center;"><strong>Fresh Japanese Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hi Chew</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1690213941300</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku>01-1000957</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1690188808244</id>
+    <published>2019-04-25T17:18:56-04:00</published>
+    <updated>2019-04-25T17:18:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/hi-chew-mango-fruit-chews-15-ct"/>
+    <title>Hi-Chew Mango Fruit Chews - 15 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Morinaga &amp; Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/hi-chew-mango-fruit-chews-candy-wholesale-candy.jpg?v=1556227648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morinaga &amp; Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;"><span>Hi-Chew-The Famous Fruity Chewy Candy</span></h2>
+<div class="gs">
+<div class="">
+<div id=":14q" class="ii gt">
+<div id=":ph" class="a3s aXjCH ">
+<div dir="ltr">All the vibrant and fresh taste of a delicious tropical Mango can really be yours with the Hi-Chew Mango Fruit Chews! Get your tastebuds ready for the sweet and exotic taste of Mango! Theses candies pack more flavour than the average fruity tasting candy. They are long-lasting with a soft and lush texture. The most perfect chewy candy you could ever taste! Give your candy-loving customers something to really "chew" about with the Hi-Chew Mango Fruit Chews!</div>
+<div class="yj6qo"></div>
+</div>
+</div>
+</div>
+</div>
+<p class="product_name" itemprop="name" style="text-align: left;"><strong>1.76 oz. Bars | 15 CT BOX</strong></p>
+<h3 class="product_name" itemprop="name" style="text-align: center;"><strong>Fresh Japanese Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hi Chew</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1690188808244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku>01-1000953</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1688313856052</id>
+    <published>2019-04-24T22:55:36-04:00</published>
+    <updated>2019-04-24T22:55:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/hi-chew-kiwi-fruit-chews-15-ct"/>
+    <title>Hi-Chew Kiwi Fruit Chews - 15 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Morinaga &amp; Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/hi-chew-kiwi-fruit-chews-candy-10ct-wholesale-candy.jpg?v=1556161213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morinaga &amp; Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;"><span>Hi-Chew-The Famous Fruity Chewy Candy</span></h2>
+<div class="gs">
+<div class="">
+<div id=":p5" class="ii gt">
+<div id=":13g" class="a3s aXjCH ">
+<div dir="ltr">Give your customers a toothsome and chewy candy experience with Hi-Chew Kiwi Fruit Chews! These delicious chewy candies are full of long-lasting flavour and offer a smooth and soft and texture. The Hi-Chew Kiwi Fruit Chews also have the addition of real chia seeds so you can feel good about indulging in this candy! </div>
+</div>
+</div>
+<div class="hi"></div>
+</div>
+</div>
+<p class="product_name" itemprop="name" style="text-align: left;"><strong>1.76 oz. Bars | 15 CT BOX</strong></p>
+<h3 class="product_name" itemprop="name" style="text-align: center;"><strong>Fresh Japanese Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hi Chew</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1688313856052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku>01-1000952</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1688307138612</id>
+    <published>2019-04-24T22:48:37-04:00</published>
+    <updated>2019-04-24T22:48:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/hi-chew-grape-fruit-chews-15-ct"/>
+    <title>Hi-Chew Grape Fruit Chews - 15 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Morinaga &amp; Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/hi-chew-grape-fruit-chews-candy-10ct-wholesale-candy.jpg?v=1556160853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morinaga &amp; Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;"><span>Hi Chew-The Famous Fruity Chewy Candy</span></h2>
+<div class="gs">
+<div class="">
+<div id=":mc" class="ii gt">
+<div id=":mb" class="a3s aXjCH ">
+<div dir="ltr">With their intense grape taste, the Hi-Chew Grape Fruit Chews Candy will leave you sweetly satisfied and refreshed! Coming in a soft and chewy texture these delicious candies are bursting with that grape flavour you love! Every bite is filled with an intense and a long-lasting grape taste! A chewy and flavoursome candy for your candy aisle!</div>
+</div>
+</div>
+<div class="hi"></div>
+</div>
+</div>
+<p class="product_name" itemprop="name"><strong>1.76 oz. Bars | 15 CT BOX</strong></p>
+<h3 class="product_name" itemprop="name" style="text-align: center;"><strong>Fresh Japanese Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><span>Ingredients: Glucose syrup, sugar, hydrogenated palm kernel oil, gelatin, grape concentrated juice, citric acid, DL-malic acid, natural and artificial flavours, emulsifiers (sucralose fatty acid, natural and artificial flavours, emulsifiers (sucralose fatty acid esters, sorbitan monostearate), natural colour (grape skin extract). Made in a facility that also processes milk and soybean.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hi Chew</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1688307138612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku>01-1000950</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1688280956980</id>
+    <published>2019-04-24T22:08:37-04:00</published>
+    <updated>2019-04-24T22:08:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/hi-chew-banana-fruit-chews-15-ct"/>
+    <title>Hi-Chew Banana Fruit Chews - 15 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Morinaga &amp; Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/hi-chew-banana-fruit-chews-candy-wholesale-candy.jpg?v=1556158475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morinaga &amp; Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;"><span>Hi Chew-The Famous Fruity Chewy Candy</span></h2>
+<div class="gs">
+<div class="">
+<div id=":14q" class="ii gt">
+<div id=":ph" class="a3s aXjCH ">
+<div dir="ltr"> Your customers will really feel the need to monkey around after indulging into these Hi- Chews! The Hi-Chew Banana Fruit Chews will have your tastebuds in a state of supreme banana bliss! So soft and so very chewy, these Banana flavoured  Hi-Chew Candies are a full flavoured and long-lasting candy. A must-have candy for your store! </div>
+</div>
+</div>
+<div class="hi"></div>
+</div>
+</div>
+<p class="product_name" itemprop="name"><strong>1.76 oz. Bars | 15 CT BOX</strong></p>
+<h3 class="product_name" itemprop="name" style="text-align: center;"><strong>Fresh Japanese Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong><span>Ingredients: Glucose syrup, sugar, hydrogenated palm kernel oil, gelatin, lactic acid, natural and artificial flavours, emulsifiers (sucrose, fatty acid esters, sorbitan monostearate), banana powder, concentrated yogurt, citric acid, colour (beta-carotene). Contains milk. Made in a facility that also processes soybeans.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hi Chew</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1688280956980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku>01-1000947</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1688273289268</id>
+    <published>2019-04-24T21:42:40-04:00</published>
+    <updated>2019-04-24T21:42:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/hi-chew-acai-fruit-chews-15-ct"/>
+    <title>Hi-Chew Acai Fruit Chews - 15 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Morinaga &amp; Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/hi-chew-acai-wholesale-candy.jpg?v=1556157750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morinaga &amp; Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;"><span>Hi Chew-The Famous Fruity Chewy Candy</span></h2>
+<div class="gs">
+<div class="">
+<div id=":13g" class="ii gt">
+<div id=":p5" class="a3s aXjCH ">
+<div dir="ltr">Indulge your customers with the great taste of Acai! The Hi-Chew Acai Fruit chews are bursting with distinctive Acai flavour! Along with the refreshing and delicious Acai taste, these perfectly chewy candies also have the addition of real chia seeds! A unique and flavourful tasty candy that is always superbly satisfying!</div>
+<div class="yj6qo"></div>
+</div>
+</div>
+</div>
+</div>
+<p class="product_name" itemprop="name"><strong>1.76 oz. Bars | 15 CT BOX</strong></p>
+<h3 class="product_name" itemprop="name" style="text-align: center;"><strong>Fresh Japanese Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hi Chew</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1688273289268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.25</s:price>
+      <s:sku>01-1000946</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+</feed>

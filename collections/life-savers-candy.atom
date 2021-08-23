@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://iwholesalecandy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://iwholesalecandy.ca/collections/life-savers-candy.atom"/>
+  <title>iWholesaleCandy.ca</title>
+  <updated>2018-07-16T20:18:15-04:00</updated>
+  <author>
+    <name>iWholesaleCandy.ca</name>
+  </author>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1194416209972</id>
+    <published>2018-07-16T20:18:15-04:00</published>
+    <updated>2018-07-16T20:18:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/life-savers-hard-candy-wild-cherry"/>
+    <title>Life Savers Hard Candy Wild Cherry - 20 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/life-savers-wild-cherry-hard-candy-rolls-20ct-retro-candies.png?v=1531793401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Old Fashioned Candy that's A Hole Lot of Fun!</strong></h2>
+<p><span>With the abundant flavour of cherry, Life Savers Hard Candy Wild Cherry are fruity, immensely flavorful, and bold. Some things never change, like the succulent and sweet experience of Life Savers Candy. For the wild ones- you know who you are.</span></p>
+<p><strong>1.14 oz. Rolls | 20 CT BOX</strong></p>
+<p><span><strong>Ingredients:</strong> Sugar, corn syrup, high fructose corn syrup, citric acid, natural and artificial flavours, colours (red 40, blue 1).</span></p>
+<h3 style="text-align: center;"><span>Fresh Retro Candy Shipped Fast at Wholesale Prices!</span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1910s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>Life Savers</s:tag>
+    <s:tag>Old Fashioned &amp; Nostalgic Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1194416209972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku>01-1001275</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1194414702644</id>
+    <published>2018-07-16T20:18:15-04:00</published>
+    <updated>2018-07-16T20:18:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/life-savers-hard-candy-5-flavors"/>
+    <title>Life Savers Hard Candy 5 Flavors - 20 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/life-savers-5-flavors-hard-candy-rolls-20ct-retro-candies_dcd35eaa-9d8b-4edd-9096-4ff734085460.png?v=1531792984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Old Fashioned Candy that's A Hole Lot of Fun!</strong></h2>
+<p><span>A variety of every fruity flavour of Life Savers Candy. This aromatic roll of hard candy reminds you of days gone by. Flavours include Cherry, Watermelon,  Raspberry, Orange and Pineapple. One of life's simple pleasures, one Life Savers Candy at a time. </span></p>
+<p><strong>1.14 oz. Rolls | 20 CT BOX</strong></p>
+<p><span><strong>Ingredients: </strong>Sugar, corn syrup, high fructose corn syrup, citric acid, natural and artificial flavours, colours (red 40, yellow 5, blue 1).</span></p>
+<h3 style="text-align: center;"><span>Fresh Retro Candy Shipped Fast at Wholesale Prices!</span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1910s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>Life Savers</s:tag>
+    <s:tag>Old Fashioned &amp; Nostalgic Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1194414702644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku>01-1001245</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/1194414637108</id>
+    <published>2018-07-16T20:18:15-04:00</published>
+    <updated>2018-07-16T20:18:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/life-savers-hard-candy-butter-rum"/>
+    <title>Life Savers Hard Candy Butter Rum - 20 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/life-savers-butter-rum-hard-candy-rolls-20ct-retro-candies.png?v=1531792403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Old Fashioned Candy that's A Hole Lot of Fun!</strong></h2>
+<p><span>The smooth and rich flavour is all yours with these irresistible LifeSavers Butter Rum Candy. A robust and warm flavour with a distinctive light rum taste that faintly lingers mixed with its pleasant buttery notes. A retro candy favourite among many and a must-have Life Saver Candy flavour.</span></p>
+<p><strong>1.14 oz. Rolls | 20 CT BOX</strong></p>
+<p><span><strong>Ingredients: </strong>Sugar, corn syrup, high fructose corn syrup, molasses, salt, dextrose, natural and artificial flavours, hydrogenated vegetable oil (palm kernel and cottonseed oils), vinegar, caramel colour.</span></p>
+<h3 style="text-align: center;"><span>Fresh Retro Candy Shipped Fast at Wholesale Prices!</span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1910s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>Life Savers</s:tag>
+    <s:tag>Old Fashioned &amp; Nostalgic Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/1194414637108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.50</s:price>
+      <s:sku>01-1001257</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

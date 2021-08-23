@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://iwholesalecandy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://iwholesalecandy.ca/collections/koala-candy.atom"/>
+  <title>iWholesaleCandy.ca</title>
+  <updated>2020-04-30T20:37:48-04:00</updated>
+  <author>
+    <name>iWholesaleCandy.ca</name>
+  </author>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850842861707</id>
+    <published>2020-04-30T20:37:48-04:00</published>
+    <updated>2020-04-30T20:37:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-red-band-jumbo-sour-suckers-candies-1-kg"/>
+    <title>Koala-Red Band Jumbo Sour Suckers Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-red-band-jumbo-sour-suckers-gummy-candies-i-wholesale-candy-canada.jpg?v=1588293548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala/Red Band Jumbo Sour Suckers gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><b>Assorted Colours Candies</b></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850842861707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>01-1001201</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850827231371</id>
+    <published>2020-04-30T20:26:41-04:00</published>
+    <updated>2020-04-30T20:26:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-jumbo-bottle-o-pop-cola-candies-1-kg"/>
+    <title>Koala Jumbo Bottle-O-Pop Cola Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-jumbo-bottle-o-pop-cola-bottles-gummy-candies-i-wholesale-candy-canada.jpg?v=1588292990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Jumbo Bottle-O-Pop Cola Bottles gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><strong>Purple candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Brown Candy</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850827231371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000396</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850816319627</id>
+    <published>2020-04-30T20:21:13-04:00</published>
+    <updated>2020-04-30T20:21:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-jumbo-sour-cherry-cola-candies-1-kg"/>
+    <title>Koala Jumbo Sour Cherry Cola Candies  1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-jumbo-sour-cherry-cola-bottles-gummy-candies-i-wholesale-candy-canada.jpg?v=1588292728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Jumbo Sour Cherry Cola Bottles gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><strong>Purple candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Purple Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850816319627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000399</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850126618763</id>
+    <published>2020-04-30T16:09:50-04:00</published>
+    <updated>2020-04-30T16:09:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-jumbo-sour-bubble-gummy-candies-1-kg"/>
+    <title>Koala Jumbo Sour Bubble Gummy Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-jumbo-sour-bubble-gummy-candies-i-wholesale-candy-canada.jpg?v=1588277692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Jumbo Sour Bubble gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><strong>Pink and Blue candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Blue Candy</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Pink Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850126618763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000398</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850111873163</id>
+    <published>2020-04-30T16:05:40-04:00</published>
+    <updated>2020-04-30T16:05:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-jumbo-sour-bones-candies-1-kg"/>
+    <title>Koala Jumbo Sour Bones Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-jumbo-sour-bones-gummy-candies-i-wholesale-candy-canada.jpg?v=1588277306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Jumbo Sour Bones gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><strong>Assorted Pastel Colours candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850111873163</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000397</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850092474507</id>
+    <published>2020-04-30T16:01:05-04:00</published>
+    <updated>2020-04-30T16:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-sour-juice-berries-candies-1-kg"/>
+    <title>Koala Sour Juice Berries Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-sour-juice-berries-gummy-candies-i-wholesale-candy-canada.jpg?v=1588276992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Sour Juice Berries gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><strong>Red candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850092474507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000407</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850080448651</id>
+    <published>2020-04-30T15:55:20-04:00</published>
+    <updated>2020-04-30T15:55:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-juice-berries-candies-1-kg"/>
+    <title>Koala Juice Berries Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-juice-berries-gummy-candies-i-wholesale-candy-canada.jpg?v=1588276693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Juice Berries gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><strong>Red candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850080448651</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000394</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850072354955</id>
+    <published>2020-04-30T15:51:30-04:00</published>
+    <updated>2020-04-30T15:51:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-watermelon-slices-candies-1-kg"/>
+    <title>Koala Watermelon Slices Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-watermelon-slices-gummy-candies-i-wholesale-candy-canada.jpg?v=1588276464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Watermelon Slices gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><strong>Red and Green candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Green Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850072354955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000410</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850065145995</id>
+    <published>2020-04-30T15:47:54-04:00</published>
+    <updated>2020-04-30T15:47:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-sour-cherry-cola-bottles-candies-1-kg"/>
+    <title>Koala Sour Cherry Cola Bottles Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-sour-cherry-cola-bottles-gummy-candies-i-wholesale-candy-canada.jpg?v=1588276221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Sour Cherry Cola Bottles gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><strong>Purple candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Purple Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850065145995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000403</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850054103179</id>
+    <published>2020-04-30T15:43:21-04:00</published>
+    <updated>2020-04-30T15:43:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-cream-soda-float-candies-1-kg"/>
+    <title>Koala Cream Soda Float Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-cream-soda-float-gummy-candies-i-wholesale-candy-canada.jpg?v=1588275838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Cream Soda Float gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><strong>Pink and White candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Pink Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850054103179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000406</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850040275083</id>
+    <published>2020-04-30T15:37:13-04:00</published>
+    <updated>2020-04-30T15:37:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-gummy-worms-candies-1-kg"/>
+    <title>Koala Gummy Worms Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-gummi-worms-gummy-candies-i-wholesale-candy-canada.jpg?v=1588275672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Gummi Worms gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><strong>Assorted Colour candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850040275083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000392</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850027430027</id>
+    <published>2020-04-30T15:31:44-04:00</published>
+    <updated>2020-04-30T15:31:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-bottle-o-pop-cola-bottles-candies-1-kg"/>
+    <title>Koala Bottle-O-Pop Cola Bottles Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-bottle-o-pop-cola-bottles-gummy-candies-i-wholesale-candy-canada.jpg?v=1588275350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Bottle-O-Pop Cola Bottles gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><strong>Brown candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Brown Candy</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850027430027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000390</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850022252683</id>
+    <published>2020-04-30T15:28:28-04:00</published>
+    <updated>2020-04-30T15:28:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-sour-juicy-blues-candies-1-kg"/>
+    <title>Koala Sour Juicy Blues Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-sour-juicy-blues-gummy-candies-i-wholesale-candy-canada.jpg?v=1588275036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Sour Juicy Blues gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><strong>Blue candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Blue Candy</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850022252683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000408</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4850011603083</id>
+    <published>2020-04-30T15:23:58-04:00</published>
+    <updated>2020-04-30T15:23:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-juicy-blues-candies-1-kg"/>
+    <title>Koala Juicy Blues Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-juicy-blues-gummy-candies-i-wholesale-candy-canada.jpg?v=1588274837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Juicy Blues gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><strong>Blue candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Blue Candy</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4850011603083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000395</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4846350532747</id>
+    <published>2020-04-29T23:00:37-04:00</published>
+    <updated>2020-04-29T23:00:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-bottle-o-pop-sour-cola-candies-1-kg"/>
+    <title>Koala Bottle-O-Pop Sour Cola Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-bottle-o-pop-sour-cola-bottles-gummy-candies-i-wholesale-candy-canada.jpg?v=1588215910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Bottle-O-Pop Sour Cola Bottles gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made.</p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candies that your customers will keep coming back for! </strong></p>
+<ul>
+<li><strong>Brown candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Brown Candy</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4846350532747</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000405</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4846337360011</id>
+    <published>2020-04-29T22:57:27-04:00</published>
+    <updated>2020-04-29T22:57:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-hoppers-candies-1-kg"/>
+    <title>Koala Hoppers Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-hoppers-frogs-gummy-candies-i-wholesale-candy-canada.jpg?v=1588215587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p>Koala Hoppers gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made. Stock your candy shelves with the bulk candies that your customers will keep coming back for! </p>
+<ul>
+<li><strong>Green and White candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Green Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>White Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4846337360011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000393</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4846254915723</id>
+    <published>2020-04-29T22:42:11-04:00</published>
+    <updated>2020-04-29T22:42:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-sour-bones-candies-1-kg"/>
+    <title>Koala Sour Bones Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-sour-bones-gummy-candies-i-wholesale-candy-canada.jpg?v=1588214710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p>Koala Sour Bones gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made. Stock your candy shelves with the bulk candies that your customers will keep coming back for!</p>
+<p style="text-align: center;"> </p>
+<ul>
+<li><strong>Assorted Colour candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4846254915723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000401</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4846234730635</id>
+    <published>2020-04-29T22:37:13-04:00</published>
+    <updated>2020-04-29T22:37:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-sour-bubbly-gummy-candies-1-kg"/>
+    <title>Koala Sour Bubbly Gummy Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-sour-bubbly-gummy-candies-i-wholesale-candy-canada.jpg?v=1588214359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p>Koala Sour Bubbly gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made. Stock your candy shelves with the bulk candies that your customers will keep coming back for!</p>
+<p style="text-align: center;"> </p>
+<ul>
+<li><strong>Pink and Blue candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Blue Candy</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Pink Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4846234730635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000402</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4846179516555</id>
+    <published>2020-04-29T22:23:49-04:00</published>
+    <updated>2020-04-29T22:23:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-sour-citrus-plus-1-kg"/>
+    <title>Koala Sour Citrus Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-sour-citrus-gummy-candies-i-wholesale-candy-canada.jpg?v=1588213688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Sour Citrus Plus gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made. </p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candy that your customers will keep coming back for!</strong></p>
+<ul>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4846179516555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000404</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4846134493323</id>
+    <published>2020-04-29T22:14:22-04:00</published>
+    <updated>2020-04-29T22:14:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-blue-sharks-1-kg"/>
+    <title>Koala Blue Sharks Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-blue-sharks-gummy-candies-i-wholesale-candy-canada.jpg?v=1588213066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Blue Sharks gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made. </p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the gummy candies that your customers will keep coming back for!</strong></p>
+<ul>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Blue Candy</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4846134493323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000389</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4845999030411</id>
+    <published>2020-04-29T21:42:16-04:00</published>
+    <updated>2020-04-29T21:42:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-wee-wigglers-1-kg"/>
+    <title>Koala Wee Wigglers Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-wee-wigglers-gummy-candies-i-wholesale-candy-canada.jpg?v=1588211153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Wee Wigglers gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made. </p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the gummy candies that your customers will keep coming back for!</strong></p>
+<ul>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4845999030411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000409</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4845952958603</id>
+    <published>2020-04-29T21:25:25-04:00</published>
+    <updated>2020-04-29T21:25:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-6-flavour-gummi-bears-1-kg"/>
+    <title>Koala 6 Flavour Gummi Bears Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-6-flavour-bears-gummy-candies-i-wholesale-candy-canada_d4329536-e81c-487f-9078-86be938ab843.jpg?v=1588210662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p>Koala 6 Flavour Gummi Bears Gummy Candy are even more delicious than they look. Bursting with juicy fruit flavours with the perfect texture that candy lovers expect. Koala candies are imported from Holland and are known worldwide as one of the finest gummy candies ever made. </p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the gummy candies that your customers will keep coming back for!</strong></p>
+<ul>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4845952958603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000388</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4846211170443</id>
+    <published>2020-04-29T21:16:39-04:00</published>
+    <updated>2020-04-29T21:16:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-fried-eggs-candies-1-kg"/>
+    <title>Koala Fried Eggs Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-fried-eggs-gummy-candies-i-wholesale-candy-canada.jpg?v=1588214073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Gummy Candy Imported from Holland</strong></h2>
+<p style="text-align: center;">Koala Fried Eggs gummy candies are imported from Holland. Koala Candies are known worldwide as one of the finest gummy candies ever made. </p>
+<p style="text-align: center;"><strong>Stock your candy shelves with the bulk candy that your customers will keep coming back for!</strong></p>
+<ul>
+<li><strong>White and yellow candies</strong></li>
+<li><strong>Imported from Europe</strong></li>
+<li><strong>Finest Gummy Candy in the world</strong></li>
+</ul>
+<p><strong>1 kg</strong></p>
+<h3 style="text-align: center;"> Fresh Bulk Candy Shipped Fast at Wholesale Prices!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>White Candy</s:tag>
+    <s:tag>Yellow Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4846211170443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04-4000391</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/3737252528180</id>
+    <published>2019-07-01T19:13:57-04:00</published>
+    <updated>2019-07-01T19:13:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/koala-red-band-assorted-sours-1-kg"/>
+    <title>Koala Red Band Assorted Sours Candies 1 kg - 1 Bag</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Koala</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-red-band-assorted-sours-gummy-candy-i-wholesale-candy-canada.jpg?v=1562024190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koala<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Sour Candy Imported from Holland</strong></h2>
+<p>The Koala Red Band Assorted Chews are awesomely chewy, intensely flavourful and oh so sour! Give your customers a true taste of sour and delicious flavour with this old fashioned candy!</p>
+<div>Koala Red Band Assorted Sours will keep those sour candy lovers coming back to your store time and time again!</div>
+<p><strong>1 kg</strong></p>
+<p><strong>INGREDIENTS</strong><span>: </span></p>
+<p><span>SUGAR, GLUCOSE SYRUP (WHEAT), MODIFIED STARCH (CORN AND POTATO), MALIC ACID, LACTIC ACID, GELATINE, HYDROGENATED PALM FAT, FLAVOURS, CONCENTRATE FROM (BLACK CARROT, SPIRULINA, SAFFLOWER, CARROT, BLACKCURRANT), COLOURS.</span></p>
+<p><span><strong>INGRÉDIENTS</strong>: </span></p>
+<p><span>SUCRE, SIROP DE GLUCOSE (DE BLÉ), AMIDON MODIFIÉ (DE MAÏS ET POMME DE TERRE), ACIDE MALIQUE, ACIDE LACTIQUE, GÉLATINE, HUILE DE PALME HYDROGÉNÉE, ARÔMES, CONCENTRÉ DE (CARROTE NOIRE, SPIRULINA, CARTHAME DES TEINTURIERS, CAROTTE, CASSIS), COLORANTS .</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bulk Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/3737252528180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>04-4000400</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/9255179085</id>
+    <published>2017-03-05T17:27:00-05:00</published>
+    <updated>2017-03-05T17:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/jumbo-sour-suckers"/>
+    <title>Koala Jumbo Sour Suckers 60 Pieces - 1 Tub</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Red Band</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/koala-jumbo-sour-suckers-gummy-candy.png?v=1531620239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Red Band<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour Soothers Gummy Candy</h2>
+<h3 style="text-align: center;">Jumbo Sour Suckers by Red Band</h3>
+<div class="gs">
+<div class="">
+<div id=":mm" class="ii gt">
+<div id=":mn" class="a3s aXjCH">
+<div dir="ltr">You'll be a sucker for these Sour Suckers! Also known as Sour Soothers, or Sour Keys, but whatever you call them they are always an amazing sour candy! Jumbo Sour Suckers are ultra chewy and fruity tasting and come covered with a flavoursome mix of sugary and sour tasting granules on the outside. A perfect balance of sweet and sour and a delicious bite of youth! Make your customers feel like candy-loving kids again with Jumbo Sour Suckers!</div>
+</div>
+</div>
+</div>
+</div>
+<br>
+<p><strong>60 Pieces - 1 Tub</strong></p>
+<h3 style="text-align: center;"> <strong>Fresh Sour Candy Shipped Fast at Wholesale Prices!</strong>
+</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Koala</s:tag>
+    <s:tag>Old Fashioned &amp; Nostalgic Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:tag>Unwrapped Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/9255179085</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku>01-1001096</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

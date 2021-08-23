@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://iwholesalecandy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://iwholesalecandy.ca/collections/jolly-rancher-candy.atom"/>
+  <title>iWholesaleCandy.ca</title>
+  <updated>2019-11-08T18:16:30-05:00</updated>
+  <author>
+    <name>iWholesaleCandy.ca</name>
+  </author>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4355251961995</id>
+    <published>2019-11-08T18:16:30-05:00</published>
+    <updated>2019-11-08T18:16:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/jolly-rancher-chews-original-flavors-candy-12-ct"/>
+    <title>Jolly Rancher Chews Original Flavors Candy 6.5 oz - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/jolly-rancher-chews-original-flavors-candy-iwholesalecandy-online-candy-store-canada.jpg?v=1573255144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span><strong>Chewy Jolly Rancher Candy</strong></span></h2>
+<p>Give your customers their favourite retro candy but in a delicious chewy form! The Jolly Rancher Chews Original Flavors Candy come in an assortment of yummy fruity flavours like Green Apple, Blue Raspberry, Cherry, and Watermelon. These candies are bursting with all the fresh and yummy sweetness of Summer so you'll feel warm even in the Canadain Winter!</p>
+<div style="text-align: center;"><strong>Spread the jolly sweetness to your customers with the Jolly rancher Chews Original Flavors Candy!</strong></div>
+<p><span><strong>6.5 oz. Bags | 12 Count Box</strong></span></p>
+<h3 style="text-align: center;"><span><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></span></h3>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Jolly Rancher</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Wrapped Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4355251961995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>01-1001025</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4355250290827</id>
+    <published>2019-11-08T18:09:41-05:00</published>
+    <updated>2019-11-08T18:09:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/jolly-rancher-bites-awesome-twosome-candy-12-ct"/>
+    <title>Jolly Rancher Bites Awesome Twosome Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/jolly-rancher-bites-awesome-twosome-candy-iwholesalecandy-online-candy-store-canada.jpg?v=1573254827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span><strong>Soft 2 Flavour Jolly Rancher Candy</strong></span></h2>
+<p>Share with your customers the sweet secret of being "jolly" with The Jolly Rancher Bites Awesome Twosome Candy! Each chewy candy has two flavours in one! These awesome candies include the refreshing taste of Cherry-Orange and Watermelon-Green Apple. It's like two treats in one!</p>
+<div style="text-align: center;"><strong>Show them what being totally "awesome" is really all about with the Jolly rancher Bites Awesome Twosome Chewy Candy!</strong></div>
+<p><span><strong>6.5 oz. Bags | 12 Count Box</strong></span></p>
+<h3 style="text-align: center;"><span><strong>Fresh Jolly Rancher Candy Shipped Fast at Wholesale Prices!</strong></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Jolly Rancher</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Wrapped Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4355250290827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>01-1001021</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4355243311243</id>
+    <published>2019-11-08T17:40:52-05:00</published>
+    <updated>2019-11-08T17:40:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/jolly-rancher-bites-sour-chewy-candy-12-ct"/>
+    <title>Jolly Rancher Bites Sour Chewy Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/jolly-rancher-bites-sour-chewy-candy-iwholesalecandy-online-candy-store-canada.jpg?v=1573254438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span><strong>Keep on Sucking Jolly Rancher Candy</strong></span></h2>
+<p>This yummy candy bites back, well just a little! The Jolly Rancher Bites Sour Chewy Candy is always juicy, fruity, and filled with a perfect sour tang! Bite-sized candies that are sure to get your mouth watering! These chewy sour candies come in Watermelon, Green Apple, Cherry and Orange. Jolly Rancher Bites Sour Chewy Candies make it easy to share, but they're also ideal for indulging in your own sour craving!</p>
+<div style="text-align: center;"><strong>Give your customers a tangy and sour bite with the Jolly Rancher Bites Sour Chewy Candy!</strong></div>
+<p><span><strong>6.5 oz. Bags | 12 Count Box</strong></span></p>
+<h3 style="text-align: center;"><span><strong>Fresh Jolly Rancher Candy Shipped Fast at Wholesale Prices!</strong></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Chewy Candy</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Jolly Rancher</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:tag>Wrapped Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4355243311243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>01-1001023</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4354705162379</id>
+    <published>2019-11-07T23:13:33-05:00</published>
+    <updated>2019-11-07T23:13:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/jolly-rancher-fruit-n-sour-hard-candy-12-ct"/>
+    <title>Jolly Rancher Fruit N Sour Hard Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/jolly-rancher-fruit-n-sour-hard-candy-iwholesalecandy-online-candy-store-canada.jpg?v=1573186761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span><strong>Keep on Sucking Jolly Rancher Candy</strong></span></h2>
+<div class="gs">
+<div class="">
+<div id=":157" class="ii gt">
+<div id=":158" class="a3s aXjCH ">
+<div dir="ltr">When life gets hard, give your customers a "jolly" solution! Jolly Rancher Fruit N Sour Hard Candy are the sour candy cure for what ails you! Coming in the tasty flavours of Wild Strawberry, Green Apple, Watermelon, Cherry and Blue Raspberry. These candies are sure to make your tastebuds tingle with their intense and tangy taste!
+<div style="text-align: center;"><strong>For a sensational and bold, sour candy give your customers the jolliest of them all with the Jolly Rancher Fruit N Sour Hard candy!</strong></div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><span><strong>6.5 oz. Bags | 12 Count Box</strong></span></p>
+<h3 style="text-align: center;"><span><strong>Fresh Jolly Rancher Candy Shipped Fast at Wholesale Prices!</strong></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Jolly Rancher</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Sour Candy</s:tag>
+    <s:tag>Wrapped Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4354705162379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>01-1001038</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4354697396363</id>
+    <published>2019-11-07T22:54:58-05:00</published>
+    <updated>2019-11-07T22:54:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/jolly-rancher-crunch-n-chew-candy-12-ct"/>
+    <title>Jolly Rancher Crunch &apos;n Chew Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/jolly-rancher-crunch-n-chew-original-flavours-hard-candy-iwholesalecandy-online-candy-store-canada.jpg?v=1573185528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span><strong>Keep on Sucking Jolly Rancher Candy</strong></span></h2>
+<p>Let your customers enjoy the chewy crunch of this delicious candy! The Jolly Rancher Crunch n' Chew Candy lets you have both textures all at once! Inside this candy is a chewy and luscious texture while the outside has a crunchy candy shell! Coming in four fruity and bold flavours like Blue Raspberry, Cherry, Green Apple and Watermelon! </p>
+<div style="text-align: center;"><strong>Show your customers that they really can have it all with the Jolly rancher Crunch n' Chew Candy!</strong></div>
+<p><span><strong>6.5 oz. Bags | 12 Count Box</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Jolly Rancher</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Wrapped Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4354697396363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>01-1001028</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4354693988491</id>
+    <published>2019-11-07T22:49:44-05:00</published>
+    <updated>2019-11-07T22:49:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/jolly-rancher-original-flavours-hard-candy-12-ct"/>
+    <title>Jolly Rancher Original Flavours Hard Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/jolly-rancher-original-flavours-hard-candy-iwholesalecandy-online-candy-store-canada.jpg?v=1573185056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span><strong>Keep on Sucking Jolly Rancher Candy</strong></span></h2>
+<p>Take your candy craving customers on a fruity and bold, flavour-filled adventure with the Jolly Rancher Original Flavors Hard Candy! Your customers will love tasting this very classic candy. Coming out in 1949, this old fashioned candy has been a favourite candy for generations! Jolly Rancher Original Flavors Hard Candy comes in five fabulous flavours, Cherry, Grape, Watermelon, Raspberry and Apple. Each candy is bold and fruity with a perfectly smooth texture!</p>
+<div style="text-align: center;"><strong>Be an Original, with the deliciousness of Jolly Rancher Original Flavors Hard Candy!</strong></div>
+<p><span><strong>7 oz. Bags | 12 Count Box</strong></span></p>
+<h3 style="text-align: center;"><span><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Jolly Rancher</s:tag>
+    <s:tag>Rainbow Candy</s:tag>
+    <s:tag>Wrapped Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4354693988491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>01-1001040</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/4354692022411</id>
+    <published>2019-11-07T21:50:12-05:00</published>
+    <updated>2019-11-07T21:50:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/jolly-rancher-cinnamon-fire-hard-candy-12-ct"/>
+    <title>Jolly Rancher Cinnamon Fire Hard Candy - 12 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/jolly-rancher-cinnamon-fire-hard-candy-iwholesalecandy-online-candy-store-toronto.jpg?v=1573184503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span><strong>Keep on Sucking Jolly Rancher Candy</strong></span></h2>
+<p>We know your mother always told you not you play with fire, but ignore her, just in this one case! The Jolly Rancher Cinnamon Fire Hard Candy are certainly not for the faint of heart! This red, hard candy is a sweet rendition of spicy cinnamon! Made for the daring candy lovers out there, you know who you are! Bold and long-lasting flavours are what this Jolly Rancher Candy is really all about!</p>
+<div style="text-align: center;"><strong>Ignite your customer's tastebuds into the hot world of candy oblivion with the bold taste of Jolly Rancher Cinnamon Fire Hard Candy!</strong></div>
+<p><span><strong>7 oz. Bags | 12 Count Box</strong></span></p>
+<h3 style="text-align: center;"><span><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></span></h3>
+<p><span><strong>Ingredients:</strong> </span></p>
+<p><span>Corn syrup, sugar, contains 2% or less of: natural and artificial flavour, artificial colour (red 40).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Hot &amp; Spicy Candy</s:tag>
+    <s:tag>Jolly Rancher</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:tag>Wrapped Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/4354692022411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>01-1001027</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

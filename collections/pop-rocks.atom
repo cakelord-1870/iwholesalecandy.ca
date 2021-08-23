@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://iwholesalecandy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://iwholesalecandy.ca/collections/pop-rocks.atom"/>
+  <title>iWholesaleCandy.ca</title>
+  <updated>2016-09-05T07:54:00-04:00</updated>
+  <author>
+    <name>iWholesaleCandy.ca</name>
+  </author>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7780797313</id>
+    <published>2016-09-05T07:54:00-04:00</published>
+    <updated>2016-09-05T07:54:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/pop-rocks-grape"/>
+    <title>Pop Rocks Grape - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Pop Rocks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/pop-rocks-grape-retro-candy-wholesale.jpg?v=1624030734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pop Rocks<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pop Rocks Grape is a Classic Retro Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":13m" class="ii gt">
+<div id=":13l" class="a3s aXjCH ">
+<div dir="ltr">With the sweet taste of grape, this retro candy is a must-have in your candy aisle! Pop Rocks Grape are sure to get your taste buds going and your mouth fizzing! Give your customers an explosive and fun candy experience with retro Pop Rocks Grape!</div>
+<div dir="ltr"><strong>Nut Free</strong></div>
+<div dir="ltr"><strong>Gluten Free</strong></div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>.33 oz. Pack | 24 CT</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong> </strong></p>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<p>Sugar, lactose (milk sugar), corn syrup, artificial flavour, artificial colour (red 40, blue 1), processed with carbon dioxide.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Nut Free</s:tag>
+    <s:tag>Pop Rocks</s:tag>
+    <s:tag>Purple Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7780797313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku>01-1001939</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7777961025</id>
+    <published>2016-09-05T00:56:00-04:00</published>
+    <updated>2016-09-05T00:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/pop-rocks-tropical-punch"/>
+    <title>Pop Rocks Tropical Punch - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Pop Rocks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/pop-rocks-tropical-punch-retro-candy-wholesale.jpg?v=1624030735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pop Rocks<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pop RocksTropical Punch is a Classic Retro Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":13m" class="ii gt">
+<div id=":13l" class="a3s aXjCH ">
+<div dir="ltr">A retro candy since 1975, and the original popping candy! Tropical Punch never tasted as delicious or as fizzy! Pop Rocks Tropical Punch Retro Candy is sure to please all your old school customers with their explosively sweet taste! Give them a real "punch" of flavour with Pop Rocks Tropical Punch in your candy aisle!</div>
+<div dir="ltr"><strong>Gluten Free</strong></div>
+<div dir="ltr"><strong>Nut Free</strong></div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>.33 oz. Pack | 24 CT</strong></div>
+</div>
+</div>
+</div>
+</div>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Blue Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Nut Free</s:tag>
+    <s:tag>Pop Rocks</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7777961025</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku>01-1001942</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7777888129</id>
+    <published>2016-09-05T00:52:00-04:00</published>
+    <updated>2016-09-05T00:52:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/pop-rocks-original-cherry"/>
+    <title>Pop Rocks Original Cherry - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Pop Rocks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/pop-rocks-original-cherry-retro-candy-wholesale.jpg?v=1624030736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pop Rocks<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Pop Rocks Original Cherry is a Classic Retro Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":13m" class="ii gt">
+<div id=":13l" class="a3s aXjCH ">
+<div dir="ltr">All the cool customers will love this retro candy! Pop Rocks Original Cherry has been around since 1975! A fizzy and popping candy with all the delicious, exploding taste of Cherry! Tease those tame candy lovers, with the excitement of Pop Rocks Original Cherry!</div>
+<div dir="ltr"><strong>Gluten Free</strong></div>
+<div dir="ltr"><strong>Nut Free</strong></div>
+<div class="yj6qo"><strong></strong></div>
+<div class="yj6qo"><strong>.33 oz Pack | 24 CT</strong></div>
+<div class="yj6qo"><strong></strong></div>
+<h3 class="yj6qo" style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong><span>Ingredients: </span></strong></p>
+<p>Sugar, lactose (milk sugar), corn syrup, artificial flavour, artificial colour (red 40), processed with carbon dioxide.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Nut Free</s:tag>
+    <s:tag>Pop Rocks</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7777888129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku>01-1001931</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7777823745</id>
+    <published>2016-09-05T00:42:00-04:00</published>
+    <updated>2016-09-05T00:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/pop-rocks-green-apple"/>
+    <title>Pop Rocks Green Apple - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Pop Rocks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/pop-rocks-green-apple-retro-candy-wholesale.jpg?v=1624030737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pop Rocks<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pop Rocks Green Apple is a Classic Retro Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":z0" class="ii gt">
+<div id=":z1" class="a3s aXjCH ">
+<div dir="ltr">For the fizzy and fun taste of Green Apple, Pop Rocks Green Apple are the coolest retro candy around! Just be sure to stock your candy aisle with them. Keep your customers coming back for more popping candy, with the sweet explosive taste of Pop Rocks Green Apple!</div>
+<div dir="ltr"><strong>Gluten Free</strong></div>
+<div dir="ltr"><strong>Nut Free</strong></div>
+<div class="yj6qo"><strong>.33 oz. Pack | 24 CT</strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong> </strong></p>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<p>Sugar, lactose (milk sugar), corn syrup, malic acid, artificial flavour, artificial colours (blue 1, yellow 5), processed with carbon dioxide contains tartrazine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Green Candy</s:tag>
+    <s:tag>Nut Free</s:tag>
+    <s:tag>Pop Rocks</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7777823745</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku>01-1001940</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7777763457</id>
+    <published>2016-09-05T00:36:00-04:00</published>
+    <updated>2016-09-05T00:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/pop-rocks-cotton-candy-explosion"/>
+    <title>Pop Rocks Cotton Candy Explosion - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Pop Rocks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/pop-rocks-cotton-candy-explosion-retro-candy-wholesale.jpg?v=1506359444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pop Rocks<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pop Rocks Cotton Candy are a Classic Retro Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":13m" class="ii gt">
+<div id=":13l" class="a3s aXjCH ">
+<div dir="ltr">You won't forget this Cotton Candy Explosion! Pop Rocks Cotton Candy Explosion will burst and fizz in your mouth. A retro candy that is fun, exciting and always delicious. The original popping candy, Pop Rocks have been around since 1975. Ignite your customers taste buds and their memory, with Pop Rocks Cotton Candy Explosion!</div>
+<div dir="ltr"><strong>Gluten Free</strong></div>
+<div dir="ltr"><strong>Nut Free</strong></div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>.33 oz Pack | 24 CT</strong></div>
+<div class="adL"><strong></strong></div>
+<h3 class="adL" style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<p>Sugar, lactose (milk), corn syrup, artificial flavour, artificial colour (red 40, blue 1), processed with carbon dioxide.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Blue Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Nut Free</s:tag>
+    <s:tag>Pop Rocks</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7777763457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku>01-1001933</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7777714433</id>
+    <published>2016-09-05T00:28:00-04:00</published>
+    <updated>2016-09-05T00:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/pop-rocks-bubble-gum"/>
+    <title>Pop Rocks Bubble Gum - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Pop Rocks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/pop-rocks-bubble-gum-retro-candy-wholesale.jpg?v=1624030738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pop Rocks<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pop Rocks Bubble Gum are a Classic Retro Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":z0" class="ii gt">
+<div id=":z1" class="a3s aXjCH ">
+<div dir="ltr">Feel the sweet explosion that morphs into a long-lasting Bubble Gum! This retro candy, Pop Rocks Bubble Gum is like two treats in one!  Give your customers an explosive and thrilling bubblegum. They really will be "popping" and "rocking" with Bubble Gum Pop Rocks!</div>
+<div dir="ltr"><strong>Gluten Free</strong></div>
+<div dir="ltr"><strong>Nut Free</strong></div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>.33 oz Pack | 24 CT</strong></div>
+<h3 class="adL" style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong><span>Ingredients:</span></strong></p>
+<p>Sugar, lactose (milk sugar), gum base (soy), maltodextrin, citric acid, glycerine, corn syrup, artificial flavour, artificial colours (red 40), BHT (antioxidant), processed with carbon dioxide.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Pink Candy</s:tag>
+    <s:tag>Pop Rocks</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7777714433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku>01-1001928</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7777658881</id>
+    <published>2016-09-05T00:22:00-04:00</published>
+    <updated>2016-09-05T00:22:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/pop-rocks-blue-razz"/>
+    <title>Pop Rocks Blue Razz - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Pop Rocks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/pop-rocks-blue-razz-retro-candy-wholesale.jpg?v=1624030739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pop Rocks<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pop Rocks Blue Razz is a Classic Retro Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":z0" class="ii gt">
+<div id=":z1" class="a3s aXjCH ">
+<div dir="ltr">A fun and retro candy, Pop Rocks are a real blast from the past! With their sweet and distinctive fizzy powder eating them is always a sweet experience! Rock your world with the explosive taste of Blue Razz Pop Rocks. A retro candy that every candy section requires!</div>
+<div dir="ltr"><strong>Gluten Free</strong></div>
+<div dir="ltr"><strong>Nut Free</strong></div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>.33 oz. Pack | 24 CT</strong></div>
+</div>
+</div>
+</div>
+</div>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong><span>Ingredients:</span></strong></p>
+<p>Sugar, lactose (milk sugar), corn syrup, artificial flavour, artificial colour (blue 1), processed with carbon dioxide.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Blue Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Nut Free</s:tag>
+    <s:tag>Pop Rocks</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7777658881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku>01-1001927</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7777620353</id>
+    <published>2016-09-05T00:13:00-04:00</published>
+    <updated>2016-09-05T00:13:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/pop-rocks-watermelon"/>
+    <title>Pop Rocks Watermelon - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Pop Rocks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/pop-rocks-watermelon-retro-candy-wholesale.jpg?v=1535299024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pop Rocks<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pop Rocks Watermelon is a Classic Retro Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":z0" class="ii gt">
+<div id=":z1" class="a3s aXjCH ">
+<div dir="ltr">For the refreshing taste of watermelon, Pop Rocks Watermelon Candy is just what you're craving! All the sweetness and deliciousness of fresh watermelon, but with a fizzy, fun and exciting twist! The original popping candy and a retro candy favourite since 1975, Pop Rocks Watermelon will rock your candy aisle! Give your customers the most explosive slice of watermelon they've ever tasted, with Pop Rocks Watermelon!</div>
+<div dir="ltr"><strong>Gluten Free</strong></div>
+<div dir="ltr"><strong>Nut Free</strong></div>
+<div dir="ltr"></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>.33 oz Pack | 24 CT</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<p>Sugar, Lactose (Milk Sugar), Corn Syrup, Artificial Flavor, Artificial Color (Red #40), Processed with Carbon Dioxide.E</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Nut Free</s:tag>
+    <s:tag>Pink Candy</s:tag>
+    <s:tag>Pop Rocks</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7777620353</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku>01-1001943</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iwholesalecandy.ca/products/7763442945</id>
+    <published>2016-09-03T19:12:00-04:00</published>
+    <updated>2016-09-03T19:12:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://iwholesalecandy.ca/products/pop-rocks-strawberry"/>
+    <title>Pop Rocks Strawberry - 24 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Pop Rocks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1435/0472/products/pop-rocks-strawberry-retro-candy.jpg?v=1624030740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pop Rocks<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pop Rocks Strawberry is a Classic Retro Candy</h2>
+<div class="gs">
+<div class="">
+<div id=":z0" class="ii gt">
+<div id=":z1" class="a3s aXjCH ">
+<div dir="ltr">This Retro Popping Candy will rock your world! Pop Rocks Strawberry is a sweet and fizzy blast from the past. Give your customers the tangy and zingy taste of exploding candy, with Pop Rocks Strawberry!</div>
+<div dir="ltr">
+<div class="adL"><strong>Gluten Free</strong></div>
+<div class="adL"><strong>Nut Free</strong></div>
+</div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>.33 oz. Pack | 24 CT</strong></div>
+<div class="adL"><strong></strong></div>
+</div>
+</div>
+</div>
+</div>
+<p><strong> </strong></p>
+<h3 style="text-align: center;"><strong>Fresh Retro Candy Shipped Fast at Wholesale Prices!</strong></h3>
+<p><strong>Ingredients:</strong></p>
+<p>Sugar, lactose (milk sugar), corn syrup, artificial flavour, artificial colour (red 40), processed with carbon dioxide.</p>
+<div class="adL"><strong></strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Nut Free</s:tag>
+    <s:tag>Pop Rocks</s:tag>
+    <s:tag>Red Candy</s:tag>
+    <s:tag>Retro Candy</s:tag>
+    <s:variant>
+      <id>https://iwholesalecandy.ca/products/7763442945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku>01-1001941</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
